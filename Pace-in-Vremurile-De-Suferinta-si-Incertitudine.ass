@@ -14,10 +14,10 @@ Audio File: Pace-in-Vremurile-De-Suferinta-si-Incertitudine.mp4
 Video File: Pace-in-Vremurile-De-Suferinta-si-Incertitudine.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.509722
-Scroll Position: 176
+Video Zoom Percent: 0.500000
+Scroll Position: 243
 Active Line: 193
-Video Position: 23105
+Video Position: 27527
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -210,12 +210,74 @@ Dialogue: 0,0:12:12.06,0:12:14.06,Default,,0,0,0,, {\i1}"În fiecare dimineață
 Dialogue: 0,0:12:14.06,0:12:17.40,Default,,0,0,0,,Acum hai să ne uităm la 4 feluri
 Dialogue: 0,0:12:17.40,0:12:21.12,Default,,0,0,0,,de -cred că putem spune- religii, culturi, opinii.
 Dialogue: 0,0:12:21.12,0:12:23.32,Default,,0,0,0,,Patru feluri din istorie
-Dialogue: 0,0:12:23.32,0:12:27.68,Default,,0,0,0,,care oamenii le-au învățat pentru-ca să facă față la suferință
-Dialogue: 0,0:12:27.68,0:12:29.88,Default,,0,0,0,,în primul rând, hai să vorbim despre religiile Karmice.
-Dialogue: 0,0:12:29.88,0:12:33.64,Default,,0,0,0,,Religiile Karmice, da, religiile care cred în Karma
-Dialogue: 0,0:12:33.64,0:12:36.96,Default,,0,0,0,,sunt religiile care cred în reîncarnare
-Dialogue: 0,0:12:36.96,0:12:38.96,Default,,0,0,0,,Ele cred că atunci când murim,
+Dialogue: 0,0:12:23.32,0:12:27.68,Default,,0,0,0,,pe care oamenii le-au învățat pentru-ca să facă față suferinței.
+Dialogue: 0,0:12:27.68,0:12:29.88,Default,,0,0,0,,În primul rând, hai să vorbim despre religiile Karmice.
+Dialogue: 0,0:12:29.88,0:12:33.64,Default,,0,0,0,,Religiile Karmice, da, religiile care cred în Karma,
+Dialogue: 0,0:12:33.64,0:12:36.96,Default,,0,0,0,,sunt religiile care cred în reîncarnare.
+Dialogue: 0,0:12:36.96,0:12:38.96,Default,,0,0,0,,Ele cred că atunci când murim
 Dialogue: 0,0:12:38.96,0:12:42.64,Default,,0,0,0,, sufletul nostru migrează într-un alt trup și o altă viață.
 Dialogue: 0,0:12:42.64,0:12:48.02,Default,,0,0,0,, Și suntem ... judecați
-Dialogue: 0,0:12:48.02,0:12:50.96,Default,,0,0,0,, după felul în care am trăit
-Dialogue: 0,0:12:51.12,0:12:53.32,Default,,0,0,0,,Mr Keller it shows up as i write it! magic
+Dialogue: 0,0:12:48.02,0:12:50.86,Default,,0,0,0,,după felul în care am trăit.
+Dialogue: 0,0:12:51.12,0:12:53.32,Default,,0,0,0,,Ceea ce inseamnă că dacă nu am făcut alegeri bune,
+Dialogue: 0,0:12:53.32,0:12:55.32,Default,,0,0,0,,dacă am fost nemilos, imoral,
+Dialogue: 0,0:12:55.32,0:12:57.32,Default,,0,0,0,,dacă am fost un om rău, atunci 
+Dialogue: 0,0:12:57.32,0:12:59.32,Default,,0,0,0,,în următoarea viață e posibil să sufăr.
+Dialogue: 0,0:12:59.32,0:13:01.32,Default,,0,0,0,,Dacă am fost un om bun,
+Dialogue: 0,0:13:01.32,0:13:03.32,Default,,0,0,0,,în următoarea viață e posibil să o duc bine. Iar într-un final,
+Dialogue: 0,0:13:03.32,0:13:05.24,Default,,0,0,0,,încerci, trăind corect,
+Dialogue: 0,0:13:05.24,0:13:07.36,Default,,0,0,0,,să pășești în afara
+Dialogue: 0,0:13:07.36,0:13:09.32,Default,,0,0,0,,ciclului de viață și moarte. 
+Dialogue: 0,0:13:09.32,0:13:11.32,Default,,0,0,0,,Astfel, ajungi în sfârșit împreuna cu  
+Dialogue: 0,0:13:11.32,0:13:13.32,Default,,0,0,0,,sufletul pământului, în extazul 
+Dialogue: 0,0:13:13.32,0:13:15.32,Default,,0,0,0,,nirvanei. Iată ce susțin
+Dialogue: 0,0:13:15.32,0:13:17.32,Default,,0,0,0,,religiile Karmice despre suferință.
+Dialogue: 0,0:13:17.32,0:13:19.32,Default,,0,0,0,,Dacă suferi acum,
+Dialogue: 0,0:13:19.32,0:13:21.32,Default,,0,0,0,,suferi de fapt pentru 
+Dialogue: 0,0:13:21.32,0:13:23.32,Default,,0,0,0,,ceva ce ai făcut într-o viață trecută.
+Dialogue: 0,0:13:23.32,0:13:25.60,Default,,0,0,0,,Asta înseamnă că toată suferința e justificată.
+Dialogue: 0,0:13:25.60,0:13:28.60,Default,,0,0,0,,E o filozofie de viață foarte interesantă.
+Dialogue: 0,0:13:28.60,0:13:31.00,Default,,0,0,0,,Dacă tu trăiești o viață privilegiată,
+Dialogue: 0,0:13:31.00,0:13:33.00,Default,,0,0,0,,poate e din cauza a ceva bun ce ai făcut
+Dialogue: 0,0:13:33.00,0:13:35.00,Default,,0,0,0,,în trecut, în viața trecută.
+Dialogue: 0,0:13:35.00,0:13:37.00,Default,,0,0,0,,Dacă ai o viață groaznică, e din cauză că
+Dialogue: 0,0:13:37.00,0:13:39.00,Default,,0,0,0,,ai făcut ceva rău. Asta înseamnă că nu
+Dialogue: 0,0:13:39.00,0:13:41.00,Default,,0,0,0,,există nici o suferință nedreaptă. 
+Dialogue: 0,0:13:41.00,0:13:43.00,Default,,0,0,0,,Și cred că putem spune că religiile Karmice
+Dialogue: 0,0:13:43.00,0:13:45.00,Default,,0,0,0,,ar spune că strategia
+Dialogue: 0,0:13:45.00,0:13:47.00,Default,,0,0,0,,în privința suferinței este una
+Dialogue: 0,0:13:47.00,0:13:49.00,Default,,0,0,0,,de resemnare.
+Dialogue: 0,0:13:49.00,0:13:51.00,Default,,0,0,0,,Tot ceea ce trăiești acum
+Dialogue: 0,0:13:51.00,0:13:53.00,Default,,0,0,0,,e perfect just 
+Dialogue: 0,0:13:53.00,0:13:54.00,Default,,0,0,0,,și drept.
+Dialogue: 0,0:13:54.00,0:13:56.00,Default,,0,0,0,,Și aș vreau sa vă dau 
+Dialogue: 0,0:13:56.00,0:13:58.00,Default,,0,0,0,,mai multe detalii, pentru că Budismul 
+Dialogue: 0,0:13:58.00,0:14:00.00,Default,,0,0,0,,mi s-a părut mereu fascinant. 
+Dialogue: 0,0:14:00.00,0:14:02.00,Default,,0,0,0,,Mai precis, faptul că Budismul s-a năascut
+Dialogue: 0,0:14:02.00,0:14:04.00,Default,,0,0,0,,ca un răspuns la suferință.
+Dialogue: 0,0:14:04.00,0:14:06.00,Default,,0,0,0,,De fapt, e o religie
+Dialogue: 0,0:14:06.00,0:14:08.00,Default,,0,0,0,,care există {\i1}pentru{\i0} a se ocupa
+Dialogue: 0,0:14:08.00,0:14:10.00,Default,,0,0,0,,de problema suferinței. Nu e 
+Dialogue: 0,0:14:10.00,0:14:12.00,Default,,0,0,0,,un subiect oarecare pentru Budism.
+Dialogue: 0,0:14:12.00,0:14:16.00,Default,,0,0,0,,...În concordanță cu o tradiție Budista,
+Dialogue: 0,0:14:16.00,0:14:21.93,Default,,0,0,0,,Buddha, al cărui nume era Siddhartha Gautama,
+Dialogue: 0,0:14:21.93,0:14:23.93,Default,,0,0,0,,era un prinț, care a crescut
+Dialogue: 0,0:14:23.93,0:14:26.70,Default,,0,0,0,,într-un castel foarte bogat,
+Dialogue: 0,0:14:26.70,0:14:28.70,Default,,0,0,0,,iar la un moment dat a părăsit castelul tatălui său,
+Dialogue: 0,0:14:28.70,0:14:30.70,Default,,0,0,0,,a plecat în lume și a văzut suferință.
+Dialogue: 0,0:14:30.70,0:14:35.66,Default,,0,0,0,,A avut parte de ceea ce se știe ca {\i1}Cele patru adevaruri nobile.{\i0}
+Dialogue: 0,0:14:35.66,0:14:37.83,Default,,0,0,0,,Cele patru adevaruri nobile
+Dialogue: 0,0:14:37.83,0:14:40.53,Default,,0,0,0,,presupun că a văzut un om bolnav,
+Dialogue: 0,0:14:40.53,0:14:42.53,Default,,0,0,0,,a văzut un om bătrân,
+Dialogue: 0,0:14:42.53,0:14:45.83,Default,,0,0,0,,a văzut un om mort, 
+Dialogue: 0,0:14:45.83,0:14:47.83,Default,,0,0,0,,și a văzut un om sărac.
+Dialogue: 0,0:14:47.83,0:14:49.83,Default,,0,0,0,,Și a recunoscut suferința.
+Dialogue: 0,0:14:49.83,0:14:51.83,Default,,0,0,0,,Iar la un moment dat, 
+Dialogue: 0,0:14:51.83,0:14:54.58,Default,,0,0,0,,Siddhartha s-a așezat sub un arbore Bodhi
+Dialogue: 0,0:14:54.58,0:14:56.58,Default,,0,0,0,,și a meditat, încercând să înțeleagă
+Dialogue: 0,0:14:56.58,0:15:01.00,Default,,0,0,0,,Umm...Ghicitoarea, problema suferinței.
+Dialogue: 0,0:15:01.00,0:15:03.00,Default,,0,0,0,,Iar când s-a ridicat, 
+Dialogue: 0,0:15:03.00,0:15:05.43,Default,,0,0,0,,când a fost luminat, s-a ridicat și a fost numit Buddha,
+Dialogue: 0,0:15:05.43,0:15:07.43,Default,,0,0,0,,ceea ce înseamnă, bineînțeles, {\i1}Cel luminat{\i0}.
+Dialogue: 0,0:15:07.43,0:15:11.13,Default,,0,0,0,,El a enunțat {\i1}Cele patru adevaruri nobile{\i0}
+Dialogue: 0,0:15:11.13,0:15:14.20,Default,,0,0,0,,care reprezintă modul Budist de înțelegere al suferinței.
+Dialogue: 0,0:15:14.21,0:15:15.13,Default,,0,0,0,,
