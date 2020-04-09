@@ -14,10 +14,10 @@ Audio File: Pace-in-Vremurile-De-Suferinta-si-Incertitudine.mp4
 Video File: Pace-in-Vremurile-De-Suferinta-si-Incertitudine.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 1.200000
+Video Zoom Percent: 0.509722
 Scroll Position: 176
 Active Line: 193
-Video Position: 23188
+Video Position: 23105
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -167,13 +167,13 @@ Dialogue: 0,0:10:00.22,0:10:02.86,Default,,0,0,0,,{\i1}, alte mâhniri lovesc ce
 Dialogue: 0,0:10:02.86,0:10:04.96,Default,,0,0,0,,Mâhnirea este inevitabilă, însă
 Dialogue: 0,0:10:04.96,0:10:09.46,Default,,0,0,0,,pentru un moment, doar o secundă, am să vorbesc pe unde ne afăm în ziua de azi
 Dialogue: 0,0:10:10.04,0:10:13.16,Default,,0,0,0,,În vremurile trecute, majoritoatea oamenilor au înțeles
-Dialogue: 0,0:10:13.16,0:10:15.40,Default,,0,0,0,,că suferința este inevitabilă, 
+Dialogue: 0,0:10:13.16,0:10:15.40,Default,,0,0,0,,că suferința este inevitabilă,
 Dialogue: 0,0:10:15.40,0:10:18.48,Default,,0,0,0,,că viața era neplăcută, crudă și scurtă.
 Dialogue: 0,0:10:19.50,0:10:22.96,Default,,0,0,0,,Oamenii știau că foametea
 Dialogue: 0,0:10:22.96,0:10:28.12,Default,,0,0,0,,molima sau războiul puteau să pătrundă oricând prin țara lor
 Dialogue: 0,0:10:28.12,0:10:30.06,Default,,0,0,0,,și să afecteze tote lucrurile
 Dialogue: 0,0:10:30.06,0:10:33.34,Default,,0,0,0,,Toată lumea știa că viața este fragilă, că suferința este inevitabilă
-Dialogue: 0,0:10:33.34,0:10:35.34,Default,,0,0,0,,Părerea mea este că în zilele de azi, 
+Dialogue: 0,0:10:33.34,0:10:35.34,Default,,0,0,0,,Părerea mea este că în zilele de azi,
 Dialogue: 0,0:10:35.34,0:10:37.96,Default,,0,0,0,,am pierdut o parte din acestă realizare,
 Dialogue: 0,0:10:37.96,0:10:39.86,Default,,0,0,0,,mai ales după al doilea război mondial
 Dialogue: 0,0:10:39.86,0:10:42.56,Default,,0,0,0,,avem o opinie care ne spune: "Hei!
@@ -184,7 +184,7 @@ Dialogue: 0,0:10:50.28,0:10:52.42,Default,,0,0,0,,Pe de altă parte, am învăț
 Dialogue: 0,0:10:52.42,0:10:55.22,Default,,0,0,0,,că atunci când avem o tehnologie înaltă, și suntem conectați,
 Dialogue: 0,0:10:55.22,0:10:58.18,Default,,0,0,0,,suntem loviți de necazuri {\b1}noi{\b0}.
 Dialogue: 0,0:10:58.18,0:11:00.06,Default,,0,0,0,,apar noi probleme
-Dialogue: 0,0:11:00.06,0:11:03.50,Default,,0,0,0,,din cauza technologiei, din cauza conexiunilor 
+Dialogue: 0,0:11:00.06,0:11:03.50,Default,,0,0,0,,din cauza technologiei, din cauza conexiunilor
 Dialogue: 0,0:11:03.50,0:11:05.50,Default,,0,0,0,,Realitatea e că viața este fragilă.
 Dialogue: 0,0:11:05.50,0:11:08.34,Default,,0,0,0,,Suferința este inevitabilă.
 Dialogue: 0,0:11:08.34,0:11:10.90,Default,,0,0,0,,Și deci nu avem nici-o altă posibilitate
@@ -218,4 +218,4 @@ Dialogue: 0,0:12:36.96,0:12:38.96,Default,,0,0,0,,Ele cred că atunci când muri
 Dialogue: 0,0:12:38.96,0:12:42.64,Default,,0,0,0,, sufletul nostru migrează într-un alt trup și o altă viață.
 Dialogue: 0,0:12:42.64,0:12:48.02,Default,,0,0,0,, Și suntem ... judecați
 Dialogue: 0,0:12:48.02,0:12:50.96,Default,,0,0,0,, după felul în care am trăit
-Dialogue: 0,0:12:50.96,0:12:53.56,Default,,0,0,0,,
+Dialogue: 0,0:12:51.12,0:12:53.32,Default,,0,0,0,,Mr Keller it shows up as i write it! magic
