@@ -14,10 +14,10 @@ Audio File: Pace-in-Vremurile-De-Suferinta-si-Incertitudine.mp4
 Video File: Pace-in-Vremurile-De-Suferinta-si-Incertitudine.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 1.000000
-Scroll Position: 279
-Active Line: 287
-Video Position: 31499
+Video Zoom Percent: 0.500000
+Scroll Position: 330
+Active Line: 351
+Video Position: 36315
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -211,8 +211,8 @@ Dialogue: 0,0:12:14.06,0:12:17.40,Default,,0,0,0,,Acum hai să ne uităm la 4 fe
 Dialogue: 0,0:12:17.40,0:12:21.12,Default,,0,0,0,,de -cred că putem spune- religii, culturi, opinii.
 Dialogue: 0,0:12:21.12,0:12:23.32,Default,,0,0,0,,Patru feluri din istorie
 Dialogue: 0,0:12:23.32,0:12:27.68,Default,,0,0,0,,pe care oamenii le-au învățat pentru-ca să facă față suferinței.
-Dialogue: 0,0:12:27.68,0:12:29.88,Default,,0,0,0,,În primul rând, hai să vorbim despre religiile Karmice.
-Dialogue: 0,0:12:29.88,0:12:33.64,Default,,0,0,0,,Religiile Karmice, da, religiile care cred în Karma,
+Dialogue: 0,0:12:27.68,0:12:29.88,Default,,0,0,0,,În primul rând, hai să vorbim despre religiile karmice.
+Dialogue: 0,0:12:29.88,0:12:33.64,Default,,0,0,0,,Religiile karmice, da, religiile care cred în karma,
 Dialogue: 0,0:12:33.64,0:12:36.96,Default,,0,0,0,,sunt religiile care cred în reîncarnare.
 Dialogue: 0,0:12:36.96,0:12:38.96,Default,,0,0,0,,Ele cred că atunci când murim
 Dialogue: 0,0:12:38.96,0:12:42.64,Default,,0,0,0,, sufletul nostru migrează într-un alt trup și o altă viață.
@@ -230,7 +230,7 @@ Dialogue: 0,0:13:07.36,0:13:09.32,Default,,0,0,0,,ciclului de viață și moarte
 Dialogue: 0,0:13:09.32,0:13:11.32,Default,,0,0,0,,Astfel, ajungi în sfârșit împreuna cu
 Dialogue: 0,0:13:11.32,0:13:13.32,Default,,0,0,0,,sufletul pământului, în extazul
 Dialogue: 0,0:13:13.32,0:13:15.32,Default,,0,0,0,,nirvanei. Iată ce susțin
-Dialogue: 0,0:13:15.32,0:13:17.32,Default,,0,0,0,,religiile Karmice despre suferință.
+Dialogue: 0,0:13:15.32,0:13:17.32,Default,,0,0,0,,religiile karmice despre suferință.
 Dialogue: 0,0:13:17.32,0:13:19.32,Default,,0,0,0,,Dacă suferi acum,
 Dialogue: 0,0:13:19.32,0:13:21.32,Default,,0,0,0,,suferi de fapt pentru
 Dialogue: 0,0:13:21.32,0:13:23.32,Default,,0,0,0,,ceva ce ai făcut într-o viață trecută.
@@ -250,14 +250,14 @@ Dialogue: 0,0:13:49.00,0:13:51.00,Default,,0,0,0,,Tot ceea ce trăiești acum
 Dialogue: 0,0:13:51.00,0:13:53.00,Default,,0,0,0,,e perfect justificat
 Dialogue: 0,0:13:53.00,0:13:54.00,Default,,0,0,0,,și drept.
 Dialogue: 0,0:13:54.00,0:13:56.00,Default,,0,0,0,,Și aș vreau sa vă dau
-Dialogue: 0,0:13:56.00,0:13:58.00,Default,,0,0,0,,mai multe detalii, pentru că Budismul
+Dialogue: 0,0:13:56.00,0:13:58.00,Default,,0,0,0,,mai multe detalii, pentru că budismul
 Dialogue: 0,0:13:58.00,0:14:00.00,Default,,0,0,0,,mi s-a părut mereu fascinant.
-Dialogue: 0,0:14:00.00,0:14:02.00,Default,,0,0,0,,Mai precis, faptul că Budismul s-a născut
+Dialogue: 0,0:14:00.00,0:14:02.00,Default,,0,0,0,,Mai precis, faptul că budismul s-a născut
 Dialogue: 0,0:14:02.00,0:14:04.00,Default,,0,0,0,,ca un răspuns la suferință.
 Dialogue: 0,0:14:04.00,0:14:06.00,Default,,0,0,0,,De fapt, e o religie
 Dialogue: 0,0:14:06.00,0:14:08.00,Default,,0,0,0,,care există {\i1}pentru{\i0} a se ocupa
 Dialogue: 0,0:14:08.00,0:14:10.00,Default,,0,0,0,,de problema suferinței. Nu e
-Dialogue: 0,0:14:10.00,0:14:12.00,Default,,0,0,0,,un subiect oarecare pentru Budism.
+Dialogue: 0,0:14:10.00,0:14:12.00,Default,,0,0,0,,un subiect oarecare pentru budism.
 Dialogue: 0,0:14:12.00,0:14:16.00,Default,,0,0,0,,...În concordanță cu o tradiție Budista,
 Dialogue: 0,0:14:16.00,0:14:21.93,Default,,0,0,0,,Buddha, al cărui nume era Siddhartha Gautama,
 Dialogue: 0,0:14:21.93,0:14:23.93,Default,,0,0,0,,era un prinț, care a crescut
@@ -279,7 +279,7 @@ Dialogue: 0,0:15:01.00,0:15:03.00,Default,,0,0,0,,Iar când s-a ridicat,
 Dialogue: 0,0:15:03.00,0:15:05.43,Default,,0,0,0,,când a fost luminat, s-a ridicat și a fost numit Buddha,
 Dialogue: 0,0:15:05.43,0:15:07.43,Default,,0,0,0,,ceea ce înseamnă, bineînțeles, {\i1}Cel luminat{\i0}.
 Dialogue: 0,0:15:07.43,0:15:11.13,Default,,0,0,0,,El a enunțat {\i1}Cele patru adevaruri nobile{\i0}
-Dialogue: 0,0:15:11.13,0:15:14.20,Default,,0,0,0,,care reprezintă modul Budist de înțelegere al suferinței.
+Dialogue: 0,0:15:11.13,0:15:14.20,Default,,0,0,0,,care reprezintă modul budist de înțelegere al suferinței.
 Dialogue: 0,0:15:14.21,0:15:18.08,Default,,0,0,0,,Primul adevăr nobil este că viața e suferință
 Dialogue: 0,0:15:18.08,0:15:22.24,Default,,0,0,0,,Budismul este foarte realist In privința aceasta, viața este suferință.
 Dialogue: 0,0:15:22.24,0:15:25.76,Default,,0,0,0,,Nu credeți că o putem evita, în viață avem multe suferințe!
@@ -290,7 +290,7 @@ Dialogue: 0,0:15:38.48,0:15:40.84,Default,,0,0,0,,Și deci avem dorința,
 Dialogue: 0,0:15:40.84,0:15:43.78,Default,,0,0,0,,iar dorința ne e niciodată satisfăcută de ceea ce avem.
 Dialogue: 0,0:15:43.78,0:15:47.28,Default,,0,0,0,,Iar între ceea ce vrem și ceea ce obținem este un gol: acolo e suferința.
 Dialogue: 0,0:15:47.28,0:15:49.28,Default,,0,0,0,,Aceasta este suferința.
-Dialogue: 0,0:15:49.28,0:15:55.36,Default,,0,0,0,,Deci, primul adevar nobil e că viața e sfuerința. Al doilea, e că suferința vine din poftă și dorință.
+Dialogue: 0,0:15:49.28,0:15:55.36,Default,,0,0,0,,Deci, primul adevar nobil e că viața e suferința. Al doilea, e că suferința vine din poftă și dorință.
 Dialogue: 0,0:15:55.36,0:16:00.46,Default,,0,0,0,,Al treilea adevăr nobil, e că pentru a face fața suferinței, trebuie să oprim dorința.
 Dialogue: 0,0:16:00.46,0:16:06.20,Default,,0,0,0,,Pentru a face aceasta, trebuie să reducem sau sa liniștim pofta.
 Dialogue: 0,0:16:06.42,0:16:08.78,Default,,0,0,0,,Al patrulea adevăr nobil e de fapt
@@ -313,3 +313,67 @@ Dialogue: 0,0:17:07.94,0:17:10.40,Default,,0,0,0,,nu vă atașați de nimic.
 Dialogue: 0,0:17:10.40,0:17:17.54,Default,,0,0,0,,Deci strategia budismului în suferință, este de a ne detașa.
 Dialogue: 0,0:17:17.86,0:17:20.32,Default,,0,0,0,,Deci strategia karmică este resemnarea,
 Dialogue: 0,0:17:20.32,0:17:24.60,Default,,0,0,0,,iar cea budistă e: "Nu ne resemnăm, ci ne transformăm"
+Dialogue: 0,0:17:24.60,0:17:27.86,Default,,0,0,0,,și te detașezi, recunoscând tot mai mult
+Dialogue: 0,0:17:27.86,0:17:30.93,Default,,0,0,0,,că ești una cu totul, așa că renunți la dorințele acestea.
+Dialogue: 0,0:17:30.93,0:17:34.63,Default,,0,0,0,,O a treia abordare ar fi cea a culturii bazate pe rușine și onoare.
+Dialogue: 0,0:17:34.63,0:17:36.63,Default,,0,0,0,,Cultura bazată pe rușine și onoare
+Dialogue: 0,0:17:36.63,0:17:39.20,Default,,0,0,0,,a rezistat de-a lungul istoriei și încă există,
+Dialogue: 0,0:17:39.20,0:17:41.20,Default,,0,0,0,,mai ales în unele părți ale lumii de astăzi.
+Dialogue: 0,0:17:41.20,0:17:43.80,Default,,0,0,0,,Iar semnificația vieții într-o astfel de cultură
+Dialogue: 0,0:17:43.80,0:17:46.23,Default,,0,0,0,,e să fii puternic, nobil, 
+Dialogue: 0,0:17:46.23,0:17:49.96,Default,,0,0,0,,și să te sacrifici pentru binele tribului sau familiei tale.
+Dialogue: 0,0:17:49.96,0:17:51.96,Default,,0,0,0,,În asta constă viața.
+Dialogue: 0,0:17:51.96,0:17:54.10,Default,,0,0,0,,În cultura bazată pe rușine și onoare,
+Dialogue: 0,0:17:54.10,0:17:56.10,Default,,0,0,0,,care e mentalitatea războinicului, de fapt,
+Dialogue: 0,0:17:56.10,0:17:59.22,Default,,0,0,0,,... suferința e aproape binevenită.
+Dialogue: 0,0:17:59.22,0:18:00.20,Default,,0,0,0,,.. aproape.
+Dialogue: 0,0:18:00.20,0:18:04.00,Default,,0,0,0,,Pentru că e o oportunitate pentru tine să te sacrifici pentru alții.
+Dialogue: 0,0:18:04.00,0:18:06.30,Default,,0,0,0,,E o oportunitate să fii puternic
+Dialogue: 0,0:18:06.30,0:18:09.83,Default,,0,0,0,,și apropo, nu e o întamplare că în..
+Dialogue: 0,0:18:09.83,0:18:12.43,Default,,0,0,0,,știți filmele alea {\i1}Cum să îți dresezi dragonul{\i0}?
+Dialogue: 0,0:18:12.43,0:18:16.10,Default,,0,0,0,,Pe tatăl viking îl cheamă Stoic.
+Dialogue: 0,0:18:16.10,0:18:18.10,Default,,0,0,0,,Asta e pentru că..
+Dialogue: 0,0:18:18.10,0:18:20.10,Default,,0,0,0,,în cultura bazată pe rușine și onoare 
+Dialogue: 0,0:18:20.10,0:18:23.90,Default,,0,0,0,,strategia pe care trebuie s-o folosești împotriva suferinței este stoicismul. 
+Dialogue: 0,0:18:23.90,0:18:26.83,Default,,0,0,0,,{\i1}"Nu te lăsa doborât. Rămâi pe poziții."{\i0}
+Dialogue: 0,0:18:26.83,0:18:29.66,Default,,0,0,0,,{\i1}"Fii puternic."{\i0}
+Dialogue: 0,0:18:29.66,0:18:32.63,Default,,0,0,0,,Există stoicism, există detașare.
+Dialogue: 0,0:18:32.63,0:18:35.80,Default,,0,0,0,,Există...resemnare.
+Dialogue: 0,0:18:35.80,0:18:38.10,Default,,0,0,0,,Acum, vreau doar să spun ceva pe scurt.
+Dialogue: 0,0:18:38.10,0:18:40.10,Default,,0,0,0,,Acestea sunt culturi antice.
+Dialogue: 0,0:18:40.10,0:18:42.10,Default,,0,0,0,,Și ați observat ceva?
+Dialogue: 0,0:18:42.10,0:18:44.46,Default,,0,0,0,,Toate spun că pentru a face față suferinței
+Dialogue: 0,0:18:44.46,0:18:46.93,Default,,0,0,0,,trebuie să acceptăm lucrurile așa cum sunt.
+Dialogue: 0,0:18:46.93,0:18:49.23,Default,,0,0,0,,Nu să încercam să schimbăm ceva,
+Dialogue: 0,0:18:49.23,0:18:51.23,Default,,0,0,0,,nu să încercăm să...
+Dialogue: 0,0:18:51.23,0:18:53.73,Default,,0,0,0,,ne răzvrătim împotriva suferinței și a nedreptății.
+Dialogue: 0,0:18:53.73,0:18:55.73,Default,,0,0,0,,sau să ne revoltăm împotriva lumii. 
+Dialogue: 0,0:18:55.73,0:18:57.90,Default,,0,0,0,,Ci să acceptăm și să învățăm să o acceptăm.
+Dialogue: 0,0:18:57.90,0:19:00.70,Default,,0,0,0,,Și abia atunci o să putem face față suferinței.
+Dialogue: 0,0:19:00.70,0:19:02.90,Default,,0,0,0,,Iar.. ideea modernă
+Dialogue: 0,0:19:02.90,0:19:05.56,Default,,0,0,0,,că lucrurile trebuie să se schimbe a venit din creștinism.
+Dialogue: 0,0:19:05.56,0:19:07.56,Default,,0,0,0,,Și am să vă arăt cum imediat.
+Dialogue: 0,0:19:07.56,0:19:09.90,Default,,0,0,0,,Și am să detaliez mai mult luna viitoare,
+Dialogue: 0,0:19:09.90,0:19:14.76,Default,,0,0,0,,dacă veți lua parte la evenimentul nostru, luna viitoare.
+Dialogue: 0,0:19:14.76,0:19:16.86,Default,,0,0,0,,Dar deocamdată hai să ne uitam la secularism.
+Dialogue: 0,0:19:16.86,0:19:18.76,Default,,0,0,0,,Am văzut religiile karmice, 
+Dialogue: 0,0:19:18.76,0:19:20.33,Default,,0,0,0,,ne-am uitat la budismul, 
+Dialogue: 0,0:19:20.33,0:19:22.10,Default,,0,0,0,,la cultura bazată pe rușine și onoare
+Dialogue: 0,0:19:22.10,0:19:22.93,Default,,0,0,0,,erau toate antice.
+Dialogue: 0,0:19:22.93,0:19:25.26,Default,,0,0,0,,Acum să ne uitam la societatea seculară modernă.
+Dialogue: 0,0:19:25.26,0:19:28.76,Default,,0,0,0,,Societatea seculară modernă...
+Dialogue: 0,0:19:28.76,0:19:30.13,Default,,0,0,0,,ce vreau să spun prin secular?
+Dialogue: 0,0:19:30.13,0:19:32.06,Default,,0,0,0,,O societate seculară 
+Dialogue: 0,0:19:32.06,0:19:34.55,Default,,0,0,0,,fie spune că nu există Dumnezeu
+Dialogue: 0,0:19:34.55,0:19:37.55,Default,,0,0,0,,fie că {\i1}dacă{\i0} există, Dumnezeu nu face minuni,
+Dialogue: 0,0:19:37.55,0:19:39.55,Default,,0,0,0,,nu există supranatural,
+Dialogue: 0,0:19:39.55,0:19:42.26,Default,,0,0,0,,iar totul are o explicație științifică.
+Dialogue: 0,0:19:42.26,0:19:44.26,Default,,0,0,0,,Secularismul spune că 
+Dialogue: 0,0:19:44.26,0:19:49.60,Default,,0,0,0,,nu există decât {\i1}aici{\i0} și {\i1}acum{\i0}, doar lumea materială și palpabilă.
+Dialogue: 0,0:19:49.60,0:19:54.46,Default,,0,0,0,,Dar..cum ne ajută secularismul să facem față suferinței?
+Dialogue: 0,0:19:54.46,0:19:59.30,Default,,0,0,0,,Richard Shweder, un antropolog cultural renumit, 
+Dialogue: 0,0:19:59.30,0:20:01.86,Default,,0,0,0,,a scris de nenumărate ori
+Dialogue: 0,0:20:01.86,0:20:05.40,Default,,0,0,0,,că societatea seculară modernă
+Dialogue: 0,0:20:05.40,0:20:07.60,Default,,0,0,0,,e cea mai slabă cultură din istoria lumii
+Dialogue: 0,0:20:07.60,0:20:10.50,Default,,0,0,0,,în echiparea oamenilor pentru a face față suferinței.
+Dialogue: 0,0:20:10.50,0:20:12.50,Default,,0,0,0,,
