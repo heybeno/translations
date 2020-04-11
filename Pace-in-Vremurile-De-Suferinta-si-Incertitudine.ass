@@ -10,14 +10,14 @@ PlayResX: 1280
 PlayResY: 720
 
 [Aegisub Project Garbage]
-Audio File: Pace-in-Vremurile-De-Suferinta-si-Incertitudine.mp4
-Video File: Pace-in-Vremurile-De-Suferinta-si-Incertitudine.mp4
+Audio File: ../../Pace-in-Vremurile-De-Suferinta-si-Incertitudine.mp4
+Video File: ../../Pace-in-Vremurile-De-Suferinta-si-Incertitudine.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 356
-Active Line: 380
-Video Position: 40514
+Video Zoom Percent: 0.500000
+Scroll Position: 399
+Active Line: 402
+Video Position: 41232
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -380,11 +380,11 @@ Dialogue: 0,0:20:10.50,0:20:14.56,Default,,0,0,0,,El a spus că "problema cu soc
 Dialogue: 0,0:20:14.56,0:20:17.80,Default,,0,0,0,,o strategie să ajute pe oameni să facă față suferinței
 Dialogue: 0,0:20:17.80,0:20:21.38,Default,,0,0,0,,și că omul modern, secular, are de fapt cea mai mare problemă".
 Dialogue: 0,0:20:21.38,0:20:26.64,Default,,0,0,0,,Mai mult decât hinduismul, budismul, mai mult decât în cultura de rușine si onoare, mai mult decât oricine.
-Dialogue: 0,0:20:26.64,0:20:29.36,Default,,0,0,0,,Pico Lyer, 
+Dialogue: 0,0:20:26.64,0:20:29.36,Default,,0,0,0,,Pico Lyer,
 Dialogue: 0,0:20:29.36,0:20:32.44,Default,,0,0,0,,un scriitor englez cunoscut,
 Dialogue: 0,0:20:32.44,0:20:36.30,Default,,0,0,0,,care a trăit muți ani în Japonia,
 Dialogue: 0,0:20:36.30,0:20:40.52,Default,,0,0,0,,Dacă mergeți pe înternet veți găsi articole biografice scrise de el.
-Dialogue: 0,0:20:40.52,0:20:43.76,Default,,0,0,0,,El a plecat din Japonia, însa a predat acolo mulți ani cred
+Dialogue: 0,0:20:40.52,0:20:43.76,Default,,0,0,0,,El a plecat din Japonia, însa a predat acolo mulți ani, cred.
 Dialogue: 0,0:20:43.76,0:20:47.48,Default,,0,0,0,,El subliniază faptul că atunci când a venit tsunamiul,
 Dialogue: 0,0:20:47.48,0:20:49.36,Default,,0,0,0,,sau alte suferințe,
 Dialogue: 0,0:20:49.36,0:20:53.18,Default,,0,0,0,,a rămas surprins că Japonezii erau mult mai capabili
@@ -396,13 +396,50 @@ Dialogue: 0,0:21:09.26,0:21:11.70,Default,,0,0,0,,care a lucrat pentru a trata l
 Dialogue: 0,0:21:11.70,0:21:16.38,Default,,0,0,0,,El era englez, însă a petrecut jumătate din cariera lui în India,
 Dialogue: 0,0:21:16.38,0:21:19.86,Default,,0,0,0,,iar cealaltă jumătate în America.
 Dialogue: 0,0:21:19.86,0:21:21.90,Default,,0,0,0,,A scris următoarele:
-Dialogue: 0,0:21:21.90,0:21:27.14,Default,,0,0,0,,"În America am întâlnit o societate care a încercă sa evite suferința cu orice preț,"
-Dialogue: 0,0:21:27.78,0:21:32.44,Default,,0,0,0,,Pacienți aveau un nivel de confort mai mare decât mulți alți pacienți pe care am tratat,
-Dialogue: 0,0:21:32.44,0:21:38.16,Default,,0,0,0,,însă par mult mai puțin pregătiți sa facă față suferinței, și mult mai traumatizați de ea.
-Dialogue: 0,0:21:38.16,0:21:43.54,Default,,0,0,0,,Acum, de ce ar fi lumea secularăi așa de nepotrivită în a ne pregăti
+Dialogue: 0,0:21:21.90,0:21:27.14,Default,,0,0,0,,"În America am întâlnit o societate care a încerat sa evite suferința cu orice preț,
+Dialogue: 0,0:21:27.78,0:21:32.44,Default,,0,0,0,,Pacienții aveau un nivel de confort mai mare decât mulți alți pacienți pe care i-am tratat,
+Dialogue: 0,0:21:32.44,0:21:38.16,Default,,0,0,0,,însă par mult mai puțin pregătiți sa facă față suferinței și mult mai traumatizați de ea."
+Dialogue: 0,0:21:38.16,0:21:43.54,Default,,0,0,0,,Acum, de ce ar fi lumea seculară așa de nepotrivită în a ne pregăti
 Dialogue: 0,0:21:43.54,0:21:45.54,Default,,0,0,0,,pentru suferință?
 Dialogue: 0,0:21:45.54,0:21:52.00,Default,,0,0,0,,Terry Eagleton, un critic literar englez/irlandez cred,
 Dialogue: 0,0:21:52.00,0:21:56.40,Default,,0,0,0,,a scris o carte mică pentru "Oxford University Press" cu titlu "Scopul vieții".
-Dialogue: 0,0:21:56.40,0:21:59.88,Default,,0,0,0,,Cartea se cheama "Scopul vieții, o introducer scurtă".
-Dialogue: 0,0:21:59.88,0:22:03.08,Default,,0,0,0,,Este o carte academică minunată, însa e foarte scurtă
-Dialogue: 0,0:22:03.08,0:22:05.08,Default,,0,0,0,,
+Dialogue: 0,0:21:56.40,0:21:59.88,Default,,0,0,0,,Cartea se cheama "Scopul vieții, o introducere scurtă".
+Dialogue: 0,0:21:59.88,0:22:03.08,Default,,0,0,0,,Este o carte academică minunată, însa e foarte scurtă.
+Dialogue: 0,0:22:03.08,0:22:05.08,Default,,0,0,0,,Un lucru ce-l spune e că
+Dialogue: 0,0:22:05.08,0:22:08.29,Default,,0,0,0,,Oamenii seculari moderni au libertatea 
+Dialogue: 0,0:22:08.29,0:22:10.73,Default,,0,0,0,,să aleagă orice semnificație vor în viață.
+Dialogue: 0,0:22:10.73,0:22:14.06,Default,,0,0,0,,Vezi, religiile ne {\i1}spun{\i0} care e semnificația vieții.
+Dialogue: 0,0:22:14.06,0:22:16.63,Default,,0,0,0,,Toate spun "Pentru {\i1}asta{\i0} trebuie să trăiești".
+Dialogue: 0,0:22:16.63,0:22:18.20,Default,,0,0,0,,Dar oamenii seculari..
+Dialogue: 0,0:22:18.20,0:22:20.40,Default,,0,0,0,,noi putem alege orice semnificație vrem.
+Dialogue: 0,0:22:20.40,0:22:22.40,Default,,0,0,0,,Există libertate, spune Terry Eagleton.
+Dialogue: 0,0:22:22.40,0:22:23.70,Default,,0,0,0,,Dar aici e o problemă.
+Dialogue: 0,0:22:23.70,0:22:26.03,Default,,0,0,0,,Orice am alege în viață
+Dialogue: 0,0:22:26.03,0:22:28.33,Default,,0,0,0,,trebuie să fie ceva în lumea asta
+Dialogue: 0,0:22:28.33,0:22:30.76,Default,,0,0,0,,dând semnificație vieții. Poate o relație romantică 
+Dialogue: 0,0:22:30.76,0:22:32.40,Default,,0,0,0,,sau familia e semnificația vieții
+Dialogue: 0,0:22:32.40,0:22:34.53,Default,,0,0,0,,sau.. cariera e semnificația vieții
+Dialogue: 0,0:22:34.53,0:22:37.53,Default,,0,0,0,,sau o mișcare politică e semnificația vieții
+Dialogue: 0,0:22:37.53,0:22:39.40,Default,,0,0,0,,Iar problema, bineînțeles, e că
+Dialogue: 0,0:22:39.40,0:22:42.96,Default,,0,0,0,,suferința ne ia lucrurile astea...pentru totdeauna.
+Dialogue: 0,0:22:42.96,0:22:45.06,Default,,0,0,0,,Vedeți, orice altă religie
+Dialogue: 0,0:22:45.06,0:22:47.06,Default,,0,0,0,,sau orice altă cultură a spus mereu
+Dialogue: 0,0:22:47.06,0:22:49.76,Default,,0,0,0,,că semnificația vieții e ceva {\i1}în afara{\i0} lumii 
+Dialogue: 0,0:22:49.76,0:22:51.76,Default,,0,0,0,,Deci semnificația vieții era fie să 
+Dialogue: 0,0:22:51.76,0:22:54.40,Default,,0,0,0,,mergi în Rai și să trăiești cu cei iubiți pentru totdeauna,
+Dialogue: 0,0:22:54.40,0:22:59.63,Default,,0,0,0,,fie să ieși din ciclul reîncarnărilor și să intri în fericirea eternă,
+Dialogue: 0,0:22:59.63,0:23:03.36,Default,,0,0,0,,fie să ieși din iluzia trăirii ca să ajungi la sufletul vieții,
+Dialogue: 0,0:23:03.36,0:23:05.36,Default,,0,0,0,,al lumii, al universului
+Dialogue: 0,0:23:05.36,0:23:07.90,Default,,0,0,0,,sau semnificația vieții e să trăiești 
+Dialogue: 0,0:23:07.90,0:23:09.90,Default,,0,0,0,,o viață morală, virtuasă, onorabilă
+Dialogue: 0,0:23:09.90,0:23:12.50,Default,,0,0,0,,în ciuda încercărilor și a condamnării.
+Dialogue: 0,0:23:12.50,0:23:14.50,Default,,0,0,0,,Dar, în fiecare caz,
+Dialogue: 0,0:23:14.50,0:23:18.03,Default,,0,0,0,,fiecare cultură spune că semnificația vieții e în afara noastră,
+Dialogue: 0,0:23:18.03,0:23:22.00,Default,,0,0,0,,asta înseamnă că atunci când apare suferința și ia ceva de la tine
+Dialogue: 0,0:23:22.00,0:23:24.70,Default,,0,0,0,,nu îți poate lua semnificația vieții.
+Dialogue: 0,0:23:24.70,0:23:29.63,Default,,0,0,0,,Nu doar că nu se poate atinge de ea, dar și îmbogațește semnificația vieții.
+Dialogue: 0,0:23:29.63,0:23:31.63,Default,,0,0,0,,Pentru că îți dă o oportunitate
+Dialogue: 0,0:23:31.63,0:23:34.16,Default,,0,0,0,,să dezvolți mai multă detașare
+Dialogue: 0,0:23:34.16,0:23:36.60,Default,,0,0,0,,sau mai mult curaj
+Dialogue: 0,0:23:36.60,0:23:39.54,Default,,0,0,0,,sau mai multă credincioșie față de Dumnezeu.
+Dialogue: 0,0:23:39.54,0:23:41.54,Default,,0,0,0,,
