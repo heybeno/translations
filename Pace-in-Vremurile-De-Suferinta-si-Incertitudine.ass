@@ -10,14 +10,14 @@ PlayResX: 1280
 PlayResY: 720
 
 [Aegisub Project Garbage]
-Audio File: ../../Pace-in-Vremurile-De-Suferinta-si-Incertitudine.mp4
-Video File: ../../Pace-in-Vremurile-De-Suferinta-si-Incertitudine.mp4
+Audio File: Pace-in-Vremurile-De-Suferinta-si-Incertitudine.mp4
+Video File: Pace-in-Vremurile-De-Suferinta-si-Incertitudine.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 399
-Active Line: 402
-Video Position: 41232
+Video Zoom Percent: 0.875000
+Scroll Position: 418
+Active Line: 443
+Video Position: 45873
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -406,7 +406,7 @@ Dialogue: 0,0:21:52.00,0:21:56.40,Default,,0,0,0,,a scris o carte mică pentru "
 Dialogue: 0,0:21:56.40,0:21:59.88,Default,,0,0,0,,Cartea se cheama "Scopul vieții, o introducere scurtă".
 Dialogue: 0,0:21:59.88,0:22:03.08,Default,,0,0,0,,Este o carte academică minunată, însa e foarte scurtă.
 Dialogue: 0,0:22:03.08,0:22:05.08,Default,,0,0,0,,Un lucru ce-l spune e că
-Dialogue: 0,0:22:05.08,0:22:08.29,Default,,0,0,0,,Oamenii seculari moderni au libertatea 
+Dialogue: 0,0:22:05.08,0:22:08.29,Default,,0,0,0,,Oamenii seculari moderni au libertatea
 Dialogue: 0,0:22:08.29,0:22:10.73,Default,,0,0,0,,să aleagă orice semnificație vor în viață.
 Dialogue: 0,0:22:10.73,0:22:14.06,Default,,0,0,0,,Vezi, religiile ne {\i1}spun{\i0} care e semnificația vieții.
 Dialogue: 0,0:22:14.06,0:22:16.63,Default,,0,0,0,,Toate spun "Pentru {\i1}asta{\i0} trebuie să trăiești".
@@ -414,9 +414,9 @@ Dialogue: 0,0:22:16.63,0:22:18.20,Default,,0,0,0,,Dar oamenii seculari..
 Dialogue: 0,0:22:18.20,0:22:20.40,Default,,0,0,0,,noi putem alege orice semnificație vrem.
 Dialogue: 0,0:22:20.40,0:22:22.40,Default,,0,0,0,,Există libertate, spune Terry Eagleton.
 Dialogue: 0,0:22:22.40,0:22:23.70,Default,,0,0,0,,Dar aici e o problemă.
-Dialogue: 0,0:22:23.70,0:22:26.03,Default,,0,0,0,,Orice am alege în viață
+Dialogue: 0,0:22:23.70,0:22:26.80,Default,,0,0,0,,Orice am alege în viață
 Dialogue: 0,0:22:26.03,0:22:28.33,Default,,0,0,0,,trebuie să fie ceva în lumea asta
-Dialogue: 0,0:22:28.33,0:22:30.76,Default,,0,0,0,,dând semnificație vieții. Poate o relație romantică 
+Dialogue: 0,0:22:28.33,0:22:30.76,Default,,0,0,0,,dând semnificație vieții. Poate o relație romantică
 Dialogue: 0,0:22:30.76,0:22:32.40,Default,,0,0,0,,sau familia e semnificația vieții
 Dialogue: 0,0:22:32.40,0:22:34.53,Default,,0,0,0,,sau.. cariera e semnificația vieții
 Dialogue: 0,0:22:34.53,0:22:37.53,Default,,0,0,0,,sau o mișcare politică e semnificația vieții
@@ -424,13 +424,13 @@ Dialogue: 0,0:22:37.53,0:22:39.40,Default,,0,0,0,,Iar problema, bineînțeles, e
 Dialogue: 0,0:22:39.40,0:22:42.96,Default,,0,0,0,,suferința ne ia lucrurile astea...pentru totdeauna.
 Dialogue: 0,0:22:42.96,0:22:45.06,Default,,0,0,0,,Vedeți, orice altă religie
 Dialogue: 0,0:22:45.06,0:22:47.06,Default,,0,0,0,,sau orice altă cultură a spus mereu
-Dialogue: 0,0:22:47.06,0:22:49.76,Default,,0,0,0,,că semnificația vieții e ceva {\i1}în afara{\i0} lumii 
-Dialogue: 0,0:22:49.76,0:22:51.76,Default,,0,0,0,,Deci semnificația vieții era fie să 
+Dialogue: 0,0:22:47.06,0:22:49.76,Default,,0,0,0,,că semnificația vieții e ceva {\i1}în afara{\i0} lumii
+Dialogue: 0,0:22:49.76,0:22:51.76,Default,,0,0,0,,Deci semnificația vieții era fie să
 Dialogue: 0,0:22:51.76,0:22:54.40,Default,,0,0,0,,mergi în Rai și să trăiești cu cei iubiți pentru totdeauna,
 Dialogue: 0,0:22:54.40,0:22:59.63,Default,,0,0,0,,fie să ieși din ciclul reîncarnărilor și să intri în fericirea eternă,
 Dialogue: 0,0:22:59.63,0:23:03.36,Default,,0,0,0,,fie să ieși din iluzia trăirii ca să ajungi la sufletul vieții,
 Dialogue: 0,0:23:03.36,0:23:05.36,Default,,0,0,0,,al lumii, al universului
-Dialogue: 0,0:23:05.36,0:23:07.90,Default,,0,0,0,,sau semnificația vieții e să trăiești 
+Dialogue: 0,0:23:05.36,0:23:07.90,Default,,0,0,0,,sau semnificația vieții e să trăiești
 Dialogue: 0,0:23:07.90,0:23:09.90,Default,,0,0,0,,o viață morală, virtuasă, onorabilă
 Dialogue: 0,0:23:09.90,0:23:12.50,Default,,0,0,0,,în ciuda încercărilor și a condamnării.
 Dialogue: 0,0:23:12.50,0:23:14.50,Default,,0,0,0,,Dar, în fiecare caz,
@@ -442,4 +442,30 @@ Dialogue: 0,0:23:29.63,0:23:31.63,Default,,0,0,0,,Pentru că îți dă o oportun
 Dialogue: 0,0:23:31.63,0:23:34.16,Default,,0,0,0,,să dezvolți mai multă detașare
 Dialogue: 0,0:23:34.16,0:23:36.60,Default,,0,0,0,,sau mai mult curaj
 Dialogue: 0,0:23:36.60,0:23:39.54,Default,,0,0,0,,sau mai multă credincioșie față de Dumnezeu.
-Dialogue: 0,0:23:39.54,0:23:41.54,Default,,0,0,0,,
+Dialogue: 0,0:23:39.54,0:23:42.58,Default,,0,0,0,,Cu alte cuvinte, orice altă cultură spune
+Dialogue: 0,0:23:42.62,0:23:46.72,Default,,0,0,0,,că dacă vine suferința, poate să îmbogățește semnificația vieții, oricât de dureros ar fi
+Dialogue: 0,0:23:46.72,0:23:53.96,Default,,0,0,0,,Dar oamenii moderni, pentru-că trebuie să găsească semnificația vieții în lume, asta e ceea ce suferința le ia: lucrurile din lume.
+Dialogue: 0,0:23:53.96,0:23:57.84,Default,,0,0,0,,Și din acest motiv, oamenii seculari nu au
+Dialogue: 0,0:23:57.84,0:24:01.96,Default,,0,0,0,,abilitatea de a controla situația,
+Dialogue: 0,0:24:01.96,0:24:06.98,Default,,0,0,0,,și de fapt nu au protecție în lume înportiva suferinței
+Dialogue: 0,0:24:07.10,0:24:11.40,Default,,0,0,0,,Acum, să rezumăm ceea ce am spus,
+Dialogue: 0,0:24:13.86,0:24:18.06,Default,,0,0,0,,secularismul însă pare că ne spune să luptăm înpotriva suferinței:
+Dialogue: 0,0:24:18.06,0:24:20.84,Default,,0,0,0,,când vine suferința, ar trebui să plângem cu jale.
+Dialogue: 0,0:24:20.84,0:24:27.18,Default,,0,0,0,,Celelalte ideologii ale lumii, ne spun ca să o acceptăm, nu ca să ne luptăm cu suferința.
+Dialogue: 0,0:24:27.18,0:24:29.66,Default,,0,0,0,,Și nu trebuie să plângem, ci să fim puternici.
+Dialogue: 0,0:24:29.66,0:24:31.66,Default,,0,0,0,,Unde se încadrează creștinismul aici?
+Dialogue: 0,0:24:31.66,0:24:35.90,Default,,0,0,0,,Am să vă spun acum, hai să vorbim despre aceasta în ultima parte.
+Dialogue: 0,0:24:35.90,0:24:39.10,Default,,0,0,0,,Ce ar avea creștinismul de oferit? Mult.
+Dialogue: 0,0:24:39.10,0:24:42.74,Default,,0,0,0,,Luke Ferry în cartea lui "O scurtă istorie a gândirii",
+Dialogue: 0,0:24:42.74,0:24:46.68,Default,,0,0,0,,subliniază un lucru care se poate găsi și în cărțile de istorie.
+Dialogue: 0,0:24:46.68,0:24:52.62,Default,,0,0,0,,Și anume, unul dintre lucrurile care au făcut creștinismul, în perioada de început, atât de
+Dialogue: 0,0:24:52.62,0:24:55.56,Default,,0,0,0,,atractiv în imperiul Roman.
+Dialogue: 0,0:24:55.56,0:24:58.46,Default,,0,0,0,,De ce a crescut? Ei bine, a crescut din multe motive, 
+Dialogue: 0,0:24:58.46,0:25:05.24,Default,,0,0,0,,însă unul dintre motive a fost ceea ce creștinismul are de oferit oamenilor pentru a face față la suferință.
+Dialogue: 0,0:25:05.24,0:25:11.60,Default,,0,0,0,,Pentru-că lumea romană a fost plină de multe dintre lucurile de care deja am vorbit.
+Dialogue: 0,0:25:11.60,0:25:14.88,Default,,0,0,0,,De exemplu, Cicero și Seneca erau stoici,
+Dialogue: 0,0:25:14.88,0:25:18.80,Default,,0,0,0,,și ceea ce ne-au învățat a fost ca să nu ne atașăm inima de nimic.
+Dialogue: 0,0:25:18.80,0:25:23.12,Default,,0,0,0,,Epictetus, marele filozof Epictetus, a spus "atunci când ne sărutăm copilul,
+Dialogue: 0,0:25:23.12,0:25:25.92,Default,,0,0,0,,să ne re-amintim că poate mâine va muri".
+Dialogue: 0,0:25:25.92,0:25:29.10,Default,,0,0,0,,Deci, să ai compasiune pentru copil, însă detașează-te,
+Dialogue: 0,0:25:29.10,0:25:32.90,Default,,0,0,0,,nu-ți investi inima prea mult într-un lucru.
