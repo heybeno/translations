@@ -10,14 +10,14 @@ PlayResX: 1280
 PlayResY: 720
 
 [Aegisub Project Garbage]
-Audio File: Pace-in-Vremurile-De-Suferinta-si-Incertitudine.mp4
-Video File: Pace-in-Vremurile-De-Suferinta-si-Incertitudine.mp4
+Audio File: ../Pace-in-Vremurile-De-Suferinta-si-Incertitudine.mp4
+Video File: ../Pace-in-Vremurile-De-Suferinta-si-Incertitudine.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 433
-Active Line: 466
-Video Position: 48583
+Video Zoom Percent: 0.500000
+Scroll Position: 453
+Active Line: 537
+Video Position: 54078
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -480,11 +480,11 @@ Dialogue: 0,0:26:02.46,0:26:05.64,Default,,0,0,0,,Primul lucru este: creștinism
 Dialogue: 0,0:26:05.64,0:26:11.10,Default,,0,0,0,,un dumnezeu care a venit în lumea aceasta și a suferit.
 Dialogue: 0,0:26:11.10,0:26:14.46,Default,,0,0,0,,Lucrul acesta nu se găsește în nici-o altă religie
 Dialogue: 0,0:26:14.46,0:26:19.38,Default,,0,0,0,,Creștinismul spune că Dumnezeu, în persoana lui Isus Hristos, a venit în lumea noastră
-Dialogue: 0,0:26:19.38,0:26:24.72,Default,,0,0,0,,și a murit pentru noi. Motivul pentru aceasta îl vom discuta mai încolo, în seria aceasta. 
+Dialogue: 0,0:26:19.38,0:26:24.72,Default,,0,0,0,,și a murit pentru noi. Motivul pentru aceasta îl vom discuta mai încolo, în seria aceasta.
 Dialogue: 0,0:26:24.72,0:26:27.20,Default,,0,0,0,,Însă momentan, vă dați seama ce înseamnă.
 Dialogue: 0,0:26:27.20,0:26:30.02,Default,,0,0,0,,Acest dumnezeu este personal,
 Dialogue: 0,0:26:30.02,0:26:34.66,Default,,0,0,0,,și singurul dumnezeu din toate religiile majore ale lumii, cel puțin pe care le cunosc eu,
-Dialogue: 0,0:26:34.66,0:26:39.50,Default,,0,0,0,,care în persoana lui Isus a suferit pe nedrept. 
+Dialogue: 0,0:26:34.66,0:26:39.50,Default,,0,0,0,,care în persoana lui Isus a suferit pe nedrept.
 Dialogue: 0,0:26:39.50,0:26:42.18,Default,,0,0,0,,De exemplu, Isus în grădina Ghețismani,
 Dialogue: 0,0:26:42.18,0:26:44.18,Default,,0,0,0,,Isus pe cruce.
 Dialogue: 0,0:26:44.18,0:26:45.90,Default,,0,0,0,,El plânge,
@@ -492,3 +492,74 @@ Dialogue: 0,0:26:45.92,0:26:49.64,Default,,0,0,0,,strigă după ajutor. El nu es
 Dialogue: 0,0:26:49.64,0:26:53.96,Default,,0,0,0,,și se confruntă cu nedreptatea.
 Dialogue: 0,0:26:53.96,0:26:59.42,Default,,0,0,0,,Nu s-a găsit nici-o altă credință care să spună că există nedreptate.
 Dialogue: 0,0:26:59.42,0:27:02.86,Default,,0,0,0,,Religiile Karmice spun că nu există. Adevărul e că există!
+Dialogue: 0,0:27:02.86,0:27:05.00,Default,,0,0,0,,Și avem un dumnezeu,
+Dialogue: 0,0:27:05.00,0:27:08.36,Default,,0,0,0,,dacă ești creștin și te întorci spre El, care
+Dialogue: 0,0:27:08.36,0:27:11.16,Default,,0,0,0,,știe prin ce ai trecut. 
+Dialogue: 0,0:27:11.16,0:27:12.80,Default,,0,0,0,,Dacă ai pierdut un copil - 
+Dialogue: 0,0:27:12.80,0:27:15.80,Default,,0,0,0,,și Dumnezeu Tatăl a pierdut un copil.
+Dialogue: 0,0:27:15.80,0:27:17.80,Default,,0,0,0,,Dacă ai fost trădat,
+Dialogue: 0,0:27:17.80,0:27:19.80,Default,,0,0,0,,dacă ai fost respins,
+Dialogue: 0,0:27:19.80,0:27:24.00,Default,,0,0,0,,dacă ai fost victima unei nedreptăți, 
+Dialogue: 0,0:27:24.00,0:27:27.70,Default,,0,0,0,,Isus Hristos a trăit și El asta.
+Dialogue: 0,0:27:27.70,0:27:29.70,Default,,0,0,0,,Așa că avem un dumnezeu care
+Dialogue: 0,0:27:29.70,0:27:32.00,Default,,0,0,0,,nu doar a experimentat nedreptate,
+Dialogue: 0,0:27:32.00,0:27:34.16,Default,,0,0,0,,dar ne dă siguranță pentru a spune "Nu".
+Dialogue: 0,0:27:34.16,0:27:37.40,Default,,0,0,0,,"Nu te dai bătut în fața suferinței."
+Dialogue: 0,0:27:37.40,0:27:38.90,Default,,0,0,0,,"Poți să te lupți cu ea
+Dialogue: 0,0:27:38.90,0:27:40.90,Default,,0,0,0,,și poți să și plângi".
+Dialogue: 0,0:27:40.90,0:27:42.20,Default,,0,0,0,,Nu trebuie să fii stoic. 
+Dialogue: 0,0:27:42.20,0:27:45.20,Default,,0,0,0,,Deci în primul rând avem un dumnezeu care
+Dialogue: 0,0:27:45.20,0:27:48.02,Default,,0,0,0,,a avut parte de suferință nejustificată.
+Dialogue: 0,0:27:48.02,0:27:50.56,Default,,0,0,0,,În al doilea rând, avem o promisiune. 
+Dialogue: 0,0:27:50.56,0:27:53.20,Default,,0,0,0,,Promisiunea vieții veșnice,
+Dialogue: 0,0:27:53.20,0:27:55.56,Default,,0,0,0,,are e o lume a dragostei. 
+Dialogue: 0,0:27:55.56,0:27:57.76,Default,,0,0,0,,Religiile karmice spun că
+Dialogue: 0,0:27:57.76,0:28:02.03,Default,,0,0,0,,poți ieși din ciclul reîncarnării
+Dialogue: 0,0:28:02.03,0:28:04.03,Default,,0,0,0,,dacă trăiești o viață bună.
+Dialogue: 0,0:28:04.03,0:28:07.90,Default,,0,0,0,,Dar cănd devii una cu totul îți pierzi personalitatea.
+Dialogue: 0,0:28:07.90,0:28:10.02,Default,,0,0,0,,Nu rămâi ca o persoană.
+Dialogue: 0,0:28:10.02,0:28:11.80,Default,,0,0,0,,ci devii parte din tot.
+Dialogue: 0,0:28:11.80,0:28:14.40,Default,,0,0,0,,Iar budismul, bineînțeles, spune că e o iluzie 
+Dialogue: 0,0:28:14.40,0:28:16.40,Default,,0,0,0,,faptul că ești o persoană.
+Dialogue: 0,0:28:16.40,0:28:18.40,Default,,0,0,0,,De fapt, faci parte din tot.
+Dialogue: 0,0:28:18.40,0:28:20.40,Default,,0,0,0,,Este o problemă aici.
+Dialogue: 0,0:28:20.40,0:28:22.86,Default,,0,0,0,,Asta înseamnă că în viața de după moarte,
+Dialogue: 0,0:28:22.86,0:28:24.86,Default,,0,0,0,,chiar și atunci când crezi c'o să continui,
+Dialogue: 0,0:28:24.86,0:28:26.33,Default,,0,0,0,,nu există dragoste acolo.
+Dialogue: 0,0:28:26.33,0:28:28.13,Default,,0,0,0,,Iar cea mai profundă dorință a inimii
+Dialogue: 0,0:28:28.13,0:28:30.60,Default,,0,0,0,,când suferă e să nu piardă dragostea. 
+Dialogue: 0,0:28:30.60,0:28:36.30,Default,,0,0,0,,... Un poet japonez foarte faimos
+Dialogue: 0,0:28:36.30,0:28:38.30,Default,,0,0,0,,din secolul al XVIII-lea,
+Dialogue: 0,0:28:38.30,0:28:41.80,Default,,0,0,0,,Kobayashi Issa, dacă l-am zis corect,
+Dialogue: 0,0:28:41.80,0:28:43.80,Default,,0,0,0,,poate Is{\i1}a{\i0} sau {\i1}I{\i0}sa ..
+Dialogue: 0,0:28:43.80,0:28:47.36,Default,,0,0,0,,e foarte cunoscut pentru poeziile Haiku.
+Dialogue: 0,0:28:47.36,0:28:51.03,Default,,0,0,0,,Există o poezie Haiku foarte, foarte faimoasă,
+Dialogue: 0,0:28:51.03,0:28:53.00,Default,,0,0,0,,și am să vă dau traducerea imediat,
+Dialogue: 0,0:28:53.00,0:28:56.36,Default,,0,0,0,,dar mai întâi să vă dau un pic de context.
+Dialogue: 0,0:28:56.36,0:28:58.16,Default,,0,0,0,,El a avut parte de multe tragedii.
+Dialogue: 0,0:28:58.16,0:29:00.73,Default,,0,0,0,,E secolul al XVIII-lea, normal că oamenii se îmbolnăvesc.
+Dialogue: 0,0:29:00.73,0:29:02.73,Default,,0,0,0,,Și-a văzut părinții murind, iar apoi
+Dialogue: 0,0:29:02.73,0:29:06.10,Default,,0,0,0,,și-a văzut copiii începând să moară.
+Dialogue: 0,0:29:06.10,0:29:09.50,Default,,0,0,0,,Și-a pierdut doi nou-născuți.
+Dialogue: 0,0:29:09.50,0:29:12.26,Default,,0,0,0,,Și a scris o poezie despre asta.
+Dialogue: 0,0:29:12.26,0:29:14.90,Default,,0,0,0,,Iar asta e ce spune poezia..e foarte faimoasă.
+Dialogue: 0,0:29:14.90,0:29:16.73,Default,,0,0,0,,Asta e traducerea în română,
+Dialogue: 0,0:29:16.73,0:29:20.43,Default,,0,0,0,,așa că urmăriți-mă. Sunt trei versuri scurte.
+Dialogue: 0,0:29:20.43,0:29:23.53,Default,,0,0,0,,{\i1}Lumea de rouă{\i0}
+Dialogue: 0,0:29:23.53,0:29:27.23,Default,,0,0,0,,{\i1}o lume de rouă este, într-adevăr{\i0}
+Dialogue: 0,0:29:27.23,0:29:31.20,Default,,0,0,0,,{\i1}și totuși..și totuși.{\i0}
+Dialogue: 0,0:29:31.20,0:29:33.20,Default,,0,0,0,,{\i1}Lumea de rouă{\i0}
+Dialogue: 0,0:29:33.20,0:29:35.86,Default,,0,0,0,,{\i1}o lume de rouă este într-adevăr{\i0}
+Dialogue: 0,0:29:35.86,0:29:37.86,Default,,0,0,0,,{\i1}și totuși..și totuși.{\i0}
+Dialogue: 0,0:29:37.86,0:29:39.86,Default,,0,0,0,,Primele două versuri
+Dialogue: 0,0:29:39.86,0:29:41.13,Default,,0,0,0,,sunt un rezumat perfect 
+Dialogue: 0,0:29:41.13,0:29:43.13,Default,,0,0,0,,al abordării budiste asupra suferinței.
+Dialogue: 0,0:29:43.13,0:29:44.40,Default,,0,0,0,,Pentru că..
+Dialogue: 0,0:29:44.40,0:29:45.53,Default,,0,0,0,,Ce e un strop de rouă?
+Dialogue: 0,0:29:45.53,0:29:47.93,Default,,0,0,0,,E ceva atât de frumos..
+Dialogue: 0,0:29:47.93,0:29:50.80,Default,,0,0,0,,e strălucitor și frumos..dar e efemer
+Dialogue: 0,0:29:50.80,0:29:53.90,Default,,0,0,0,,și trecător. Nu durează mult.
+Dialogue: 0,0:29:53.90,0:29:56.10,Default,,0,0,0,,Iar cănd se duce în iaz
+Dialogue: 0,0:29:56.10,0:29:59.16,Default,,0,0,0,,sau cănd se duce în lac sau în ocean
+Dialogue: 0,0:29:59.16,0:30:02.60,Default,,0,0,0,,nu iși pierde strălucirea, dar pierde individualitatea.
+Dialogue: 0,0:30:02.60,0:30:04.60,Default,,0,0,0,,
