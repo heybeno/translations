@@ -10,14 +10,14 @@ PlayResX: 1280
 PlayResY: 720
 
 [Aegisub Project Garbage]
-Audio File: ../Pace-in-Vremurile-De-Suferinta-si-Incertitudine.mp4
-Video File: ../Pace-in-Vremurile-De-Suferinta-si-Incertitudine.mp4
+Audio File: Pace-in-Vremurile-De-Suferinta-si-Incertitudine.mp4
+Video File: Pace-in-Vremurile-De-Suferinta-si-Incertitudine.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 453
-Active Line: 537
-Video Position: 54078
+Video Zoom Percent: 0.875000
+Scroll Position: 540
+Active Line: 553
+Video Position: 55955
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -494,12 +494,12 @@ Dialogue: 0,0:26:53.96,0:26:59.42,Default,,0,0,0,,Nu s-a găsit nici-o altă cre
 Dialogue: 0,0:26:59.42,0:27:02.86,Default,,0,0,0,,Religiile Karmice spun că nu există. Adevărul e că există!
 Dialogue: 0,0:27:02.86,0:27:05.00,Default,,0,0,0,,Și avem un dumnezeu,
 Dialogue: 0,0:27:05.00,0:27:08.36,Default,,0,0,0,,dacă ești creștin și te întorci spre El, care
-Dialogue: 0,0:27:08.36,0:27:11.16,Default,,0,0,0,,știe prin ce ai trecut. 
-Dialogue: 0,0:27:11.16,0:27:12.80,Default,,0,0,0,,Dacă ai pierdut un copil - 
+Dialogue: 0,0:27:08.36,0:27:11.16,Default,,0,0,0,,știe prin ce ai trecut.
+Dialogue: 0,0:27:11.16,0:27:12.80,Default,,0,0,0,,Dacă ai pierdut un copil -
 Dialogue: 0,0:27:12.80,0:27:15.80,Default,,0,0,0,,și Dumnezeu Tatăl a pierdut un copil.
 Dialogue: 0,0:27:15.80,0:27:17.80,Default,,0,0,0,,Dacă ai fost trădat,
 Dialogue: 0,0:27:17.80,0:27:19.80,Default,,0,0,0,,dacă ai fost respins,
-Dialogue: 0,0:27:19.80,0:27:24.00,Default,,0,0,0,,dacă ai fost victima unei nedreptăți, 
+Dialogue: 0,0:27:19.80,0:27:24.00,Default,,0,0,0,,dacă ai fost victima unei nedreptăți,
 Dialogue: 0,0:27:24.00,0:27:27.70,Default,,0,0,0,,Isus Hristos a trăit și El asta.
 Dialogue: 0,0:27:27.70,0:27:29.70,Default,,0,0,0,,Așa că avem un dumnezeu care
 Dialogue: 0,0:27:29.70,0:27:32.00,Default,,0,0,0,,nu doar a experimentat nedreptate,
@@ -507,19 +507,19 @@ Dialogue: 0,0:27:32.00,0:27:34.16,Default,,0,0,0,,dar ne dă siguranță pentru 
 Dialogue: 0,0:27:34.16,0:27:37.40,Default,,0,0,0,,"Nu te dai bătut în fața suferinței."
 Dialogue: 0,0:27:37.40,0:27:38.90,Default,,0,0,0,,"Poți să te lupți cu ea
 Dialogue: 0,0:27:38.90,0:27:40.90,Default,,0,0,0,,și poți să și plângi".
-Dialogue: 0,0:27:40.90,0:27:42.20,Default,,0,0,0,,Nu trebuie să fii stoic. 
+Dialogue: 0,0:27:40.90,0:27:42.20,Default,,0,0,0,,Nu trebuie să fii stoic.
 Dialogue: 0,0:27:42.20,0:27:45.20,Default,,0,0,0,,Deci în primul rând avem un dumnezeu care
 Dialogue: 0,0:27:45.20,0:27:48.02,Default,,0,0,0,,a avut parte de suferință nejustificată.
-Dialogue: 0,0:27:48.02,0:27:50.56,Default,,0,0,0,,În al doilea rând, avem o promisiune. 
+Dialogue: 0,0:27:48.02,0:27:50.56,Default,,0,0,0,,În al doilea rând, avem o promisiune.
 Dialogue: 0,0:27:50.56,0:27:53.20,Default,,0,0,0,,Promisiunea vieții veșnice,
-Dialogue: 0,0:27:53.20,0:27:55.56,Default,,0,0,0,,are e o lume a dragostei. 
+Dialogue: 0,0:27:53.20,0:27:55.56,Default,,0,0,0,,are e o lume a dragostei.
 Dialogue: 0,0:27:55.56,0:27:57.76,Default,,0,0,0,,Religiile karmice spun că
 Dialogue: 0,0:27:57.76,0:28:02.03,Default,,0,0,0,,poți ieși din ciclul reîncarnării
 Dialogue: 0,0:28:02.03,0:28:04.03,Default,,0,0,0,,dacă trăiești o viață bună.
 Dialogue: 0,0:28:04.03,0:28:07.90,Default,,0,0,0,,Dar cănd devii una cu totul îți pierzi personalitatea.
 Dialogue: 0,0:28:07.90,0:28:10.02,Default,,0,0,0,,Nu rămâi ca o persoană.
 Dialogue: 0,0:28:10.02,0:28:11.80,Default,,0,0,0,,ci devii parte din tot.
-Dialogue: 0,0:28:11.80,0:28:14.40,Default,,0,0,0,,Iar budismul, bineînțeles, spune că e o iluzie 
+Dialogue: 0,0:28:11.80,0:28:14.40,Default,,0,0,0,,Iar budismul, bineînțeles, spune că e o iluzie
 Dialogue: 0,0:28:14.40,0:28:16.40,Default,,0,0,0,,faptul că ești o persoană.
 Dialogue: 0,0:28:16.40,0:28:18.40,Default,,0,0,0,,De fapt, faci parte din tot.
 Dialogue: 0,0:28:18.40,0:28:20.40,Default,,0,0,0,,Este o problemă aici.
@@ -527,7 +527,7 @@ Dialogue: 0,0:28:20.40,0:28:22.86,Default,,0,0,0,,Asta înseamnă că în viața
 Dialogue: 0,0:28:22.86,0:28:24.86,Default,,0,0,0,,chiar și atunci când crezi c'o să continui,
 Dialogue: 0,0:28:24.86,0:28:26.33,Default,,0,0,0,,nu există dragoste acolo.
 Dialogue: 0,0:28:26.33,0:28:28.13,Default,,0,0,0,,Iar cea mai profundă dorință a inimii
-Dialogue: 0,0:28:28.13,0:28:30.60,Default,,0,0,0,,când suferă e să nu piardă dragostea. 
+Dialogue: 0,0:28:28.13,0:28:30.60,Default,,0,0,0,,când suferă e să nu piardă dragostea.
 Dialogue: 0,0:28:30.60,0:28:36.30,Default,,0,0,0,,... Un poet japonez foarte faimos
 Dialogue: 0,0:28:36.30,0:28:38.30,Default,,0,0,0,,din secolul al XVIII-lea,
 Dialogue: 0,0:28:38.30,0:28:41.80,Default,,0,0,0,,Kobayashi Issa, dacă l-am zis corect,
@@ -545,14 +545,14 @@ Dialogue: 0,0:29:09.50,0:29:12.26,Default,,0,0,0,,Și a scris o poezie despre as
 Dialogue: 0,0:29:12.26,0:29:14.90,Default,,0,0,0,,Iar asta e ce spune poezia..e foarte faimoasă.
 Dialogue: 0,0:29:14.90,0:29:16.73,Default,,0,0,0,,Asta e traducerea în română,
 Dialogue: 0,0:29:16.73,0:29:20.43,Default,,0,0,0,,așa că urmăriți-mă. Sunt trei versuri scurte.
-Dialogue: 0,0:29:20.43,0:29:23.53,Default,,0,0,0,,{\i1}Lumea de rouă{\i0}
+Dialogue: 0,0:29:20.43,0:29:23.53,Default,,0,0,0,,{\i1}"Lumea de rouă{\i0}
 Dialogue: 0,0:29:23.53,0:29:27.23,Default,,0,0,0,,{\i1}o lume de rouă este, într-adevăr{\i0}
-Dialogue: 0,0:29:27.23,0:29:31.20,Default,,0,0,0,,{\i1}și totuși..și totuși.{\i0}
-Dialogue: 0,0:29:31.20,0:29:33.20,Default,,0,0,0,,{\i1}Lumea de rouă{\i0}
+Dialogue: 0,0:29:27.23,0:29:31.20,Default,,0,0,0,,{\i1}și totuși..și totuși."{\i0}
+Dialogue: 0,0:29:31.20,0:29:33.20,Default,,0,0,0,,{\i1}"Lumea de rouă{\i0}
 Dialogue: 0,0:29:33.20,0:29:35.86,Default,,0,0,0,,{\i1}o lume de rouă este într-adevăr{\i0}
-Dialogue: 0,0:29:35.86,0:29:37.86,Default,,0,0,0,,{\i1}și totuși..și totuși.{\i0}
+Dialogue: 0,0:29:35.86,0:29:37.86,Default,,0,0,0,,{\i1}și totuși..și totuși."{\i0}
 Dialogue: 0,0:29:37.86,0:29:39.86,Default,,0,0,0,,Primele două versuri
-Dialogue: 0,0:29:39.86,0:29:41.13,Default,,0,0,0,,sunt un rezumat perfect 
+Dialogue: 0,0:29:39.86,0:29:41.13,Default,,0,0,0,,sunt un rezumat perfect
 Dialogue: 0,0:29:41.13,0:29:43.13,Default,,0,0,0,,al abordării budiste asupra suferinței.
 Dialogue: 0,0:29:43.13,0:29:44.40,Default,,0,0,0,,Pentru că..
 Dialogue: 0,0:29:44.40,0:29:45.53,Default,,0,0,0,,Ce e un strop de rouă?
@@ -562,4 +562,20 @@ Dialogue: 0,0:29:50.80,0:29:53.90,Default,,0,0,0,,și trecător. Nu durează mul
 Dialogue: 0,0:29:53.90,0:29:56.10,Default,,0,0,0,,Iar cănd se duce în iaz
 Dialogue: 0,0:29:56.10,0:29:59.16,Default,,0,0,0,,sau cănd se duce în lac sau în ocean
 Dialogue: 0,0:29:59.16,0:30:02.60,Default,,0,0,0,,nu iși pierde strălucirea, dar pierde individualitatea.
-Dialogue: 0,0:30:02.60,0:30:04.60,Default,,0,0,0,,
+Dialogue: 0,0:30:02.60,0:30:10.74,Default,,0,0,0,,Iar Când Issa își pierdea copiii, el bineînțeles știa ce spune budismul: "{\i1}detașează-te!{\i0}"
+Dialogue: 0,0:30:10.74,0:30:15.68,Default,,0,0,0,,{\i1}"Nu uita că acei copii nu sunt de fapt indivizi,{\i0}
+Dialogue: 0,0:30:15.68,0:30:19.20,Default,,0,0,0,,{\i1}ei vor fi parte din tot,"{\i0}
+Dialogue: 0,0:30:19.20,0:30:21.28,Default,,0,0,0,,{\i1}și deci trebuie să renunți, {\i0}
+Dialogue: 0,0:30:21.28,0:30:24.96,Default,,0,0,0,,{\i1}nu te ține de ei, nu aspira la dragostea lor!{\i0}
+Dialogue: 0,0:30:24.96,0:30:31.62,Default,,0,0,0,,{\i1}Doar recunoaște că suntem fiecare dintre noi picături de rouă care ajungem în ocean."{\i0}
+Dialogue: 0,0:30:31.62,0:30:33.62,Default,,0,0,0,,Dar uitați-vă la ultimul vers:
+Dialogue: 0,0:30:33.62,0:30:35.30,Default,,0,0,0,,{\i1}"Lumea de rouă{\i0}
+Dialogue: 0,0:30:35.30,0:30:37.30,Default,,0,0,0,,{\i1}o lume de rouă este într-adevăr{\i0}
+Dialogue: 0,0:30:37.30,0:30:41.54,Default,,0,0,0,,{\i1}și totuși..și totuși."{\i0}
+Dialogue: 0,0:30:41.54,0:30:45.60,Default,,0,0,0,,E ca și cum ne-ar spune: {\i1}"Insă este foarte greu!"{\i0}
+Dialogue: 0,0:30:45.60,0:30:49.22,Default,,0,0,0,,{\i1}"De fapt, poate că este imposibil să nu aspirăm{\i0}
+Dialogue: 0,0:30:50.56,0:30:52.88,Default,,0,0,0,,{\i1}la o continuare a relației de dragoste."{\i0}
+Dialogue: 0,0:30:52.88,0:30:56.44,Default,,0,0,0,,Când cineva moare, dorința cea mai profundă este de a spune:
+Dialogue: 0,0:30:56.44,0:30:59.38,Default,,0,0,0,,{\i1}"Știi, după moarte, aș dori ca să fie dragoste!{\i0}
+Dialogue: 0,0:30:59.38,0:31:05.16,Default,,0,0,0,,{\i1}Vreau ca să fiu cu cei pe care îi iubesc, cu un dumnezeu al dragostei."{\i0} Creștinismul, bineînțeles, oferă acest lucru.
+Dialogue: 0,0:31:05.16,0:31:07.16,Default,,0,0,0,,
