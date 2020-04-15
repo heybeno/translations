@@ -15,9 +15,9 @@ Video File: Pace-in-Vremurile-De-Suferinta-si-Incertitudine.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 577
-Active Line: 601
-Video Position: 60109
+Scroll Position: 635
+Active Line: 659
+Video Position: 64830
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -590,14 +590,14 @@ Dialogue: 0,0:31:28.16,0:31:30.66,Default,,0,0,0,,În felul ăsta, dragostea Lui
 Dialogue: 0,0:31:30.66,0:31:33.93,Default,,0,0,0,,e o consolare, iar atunci când piezi oameni
 Dialogue: 0,0:31:33.93,0:31:36.85,Default,,0,0,0,,poți...o poți suporta.
 Dialogue: 0,0:31:36.85,0:31:39.50,Default,,0,0,0,,Și știi că dacă eu am dragostea lui Dumnezeu
-Dialogue: 0,0:31:39.50,0:31:40.80,Default,,0,0,0,,atunci cănd voi muri eu, 
+Dialogue: 0,0:31:39.50,0:31:40.80,Default,,0,0,0,,atunci cănd voi muri eu,
 Dialogue: 0,0:31:40.80,0:31:42.20,Default,,0,0,0,,voi fi înconjurat de dragoste
 Dialogue: 0,0:31:42.20,0:31:45.80,Default,,0,0,0,,voi fi alături de cei dragi, de însuși Dumnezeu.
 Dialogue: 0,0:31:45.80,0:31:48.50,Default,,0,0,0,,Ce face creștinismul este că
 Dialogue: 0,0:31:48.50,0:31:52.00,Default,,0,0,0,,ne promite o dragoste viitoare personală.
 Dialogue: 0,0:31:52.00,0:31:54.83,Default,,0,0,0,,O dragoste neimaginată.
 Dialogue: 0,0:31:54.83,0:31:58.43,Default,,0,0,0,,O dragoste infinit mai mai bună decăt cea de aici.
-Dialogue: 0,0:31:58.43,0:32:00.43,Default,,0,0,0,,Creștinismul nu spune că 
+Dialogue: 0,0:31:58.43,0:32:00.43,Default,,0,0,0,,Creștinismul nu spune că
 Dialogue: 0,0:32:00.43,0:32:04.26,Default,,0,0,0,,vei deveni parte din tot sau o forță impersonală
 Dialogue: 0,0:32:04.26,0:32:06.36,Default,,0,0,0,,sau praf stelar în univers..nu.
 Dialogue: 0,0:32:06.36,0:32:08.56,Default,,0,0,0,,Spune {\i1}nu asta e dorința inimii tale{\i0}.
@@ -615,7 +615,7 @@ Dialogue: 0,0:32:35.73,0:32:39.36,Default,,0,0,0,,Vă dați seama ce înseamnă 
 Dialogue: 0,0:32:39.36,0:32:42.26,Default,,0,0,0,,Învierea înseamnă că nu vom trăi pentru totdeauna
 Dialogue: 0,0:32:42.26,0:32:46.16,Default,,0,0,0,,ca.. niște ființe cerești, plutind,
 Dialogue: 0,0:32:46.16,0:32:47.90,Default,,0,0,0,,ca niște fantome sau așa ceva.
-Dialogue: 0,0:32:47.90,0:32:51.00,Default,,0,0,0,,Învierea înseamnă că Dumnezeu va recrea lumea asta 
+Dialogue: 0,0:32:47.90,0:32:51.00,Default,,0,0,0,,Învierea înseamnă că Dumnezeu va recrea lumea asta
 Dialogue: 0,0:32:51.00,0:32:54.44,Default,,0,0,0,,și o va curați de orice suferință.
 Dialogue: 0,0:32:54.44,0:32:56.80,Default,,0,0,0,,și orice răutate și orice moarte
 Dialogue: 0,0:32:56.80,0:32:58.80,Default,,0,0,0,,și orice imperfecțiune.
@@ -626,4 +626,62 @@ Dialogue: 0,0:33:09.83,0:33:13.33,Default,,0,0,0,,O, nu. Creștinismul oferă mu
 Dialogue: 0,0:33:13.33,0:33:17.13,Default,,0,0,0,,Promite restaurarea vieții pe care ai avut-o și chiar mai mult
 Dialogue: 0,0:33:17.13,0:33:20.66,Default,,0,0,0,,promite o viață pe care nici nu ai avut-o aici pe pământ.
 Dialogue: 0,0:33:20.66,0:33:23.63,Default,,0,0,0,,din cauza imperfecțiunilor și stricăciunii.
-Dialogue: 0,0:33:23.63,0:33:25.63,Default,,0,0,0,,
+Dialogue: 0,0:33:23.63,0:33:26.13,Default,,0,0,0,,Să facem un rezumat.
+Dialogue: 0,0:33:26.13,0:33:28.90,Default,,0,0,0,,Spre deosebire de religiile karmice,
+Dialogue: 0,0:33:28.90,0:33:31.20,Default,,0,0,0,,creștinismul spune {\i1}Nu..
+Dialogue: 0,0:33:31.20,0:33:33.20,Default,,0,0,0,,{\i1}multe suferinți sunt nedrepte{\i0}
+Dialogue: 0,0:33:33.20,0:33:35.20,Default,,0,0,0,,{\i1}și li te poți împotrivi{\i0}.
+Dialogue: 0,0:33:35.20,0:33:37.96,Default,,0,0,0,,Spre deosebire de budism,
+Dialogue: 0,0:33:37.96,0:33:41.23,Default,,0,0,0,,am spune că suferința {\i1}este{\i0} de fapt reală
+Dialogue: 0,0:33:41.23,0:33:44.60,Default,,0,0,0,,iar soluția este mai {\i1}multă{\i0} dragoste, nu mai puțină.
+Dialogue: 0,0:33:44.60,0:33:49.83,Default,,0,0,0,,Spre deosebire de cultura bazată pe rușine și onoare,
+Dialogue: 0,0:33:49.83,0:33:53.23,Default,,0,0,0,,spune {\i1}Nu trebuie să fii stoic, poți plânge.{\i0}.
+Dialogue: 0,0:33:53.23,0:33:55.23,Default,,0,0,0,,Deci hai să tragem o concluzie.
+Dialogue: 0,0:33:55.23,0:33:57.20,Default,,0,0,0,,Dacă ne uităm la Biblie și spui {\i1}bine{\i0}
+Dialogue: 0,0:33:57.20,0:33:59.20,Default,,0,0,0,,{\i1}cum înțeleg doctrinele astea?{\i0}
+Dialogue: 0,0:33:59.20,0:34:01.50,Default,,0,0,0,,Promisiunea unui dumnezeu care a suferit,
+Dialogue: 0,0:34:01.50,0:34:04.50,Default,,0,0,0,,promisiunea unei lumi cerești pline de dragoste,
+Dialogue: 0,0:34:04.50,0:34:05.76,Default,,0,0,0,,promisiunea învierii..
+Dialogue: 0,0:34:05.76,0:34:10.06,Default,,0,0,0,,Cum folosim astea pentru a înfrunta problemele pe care le avem?
+Dialogue: 0,0:34:10.06,0:34:13.96,Default,,0,0,0,,Vreau să vă dau rapid șase lucruri, șase pași 
+Dialogue: 0,0:34:13.96,0:34:18.83,Default,,0,0,0,,pe care cred că ni-i dă Biblia,
+Dialogue: 0,0:34:18.83,0:34:20.83,Default,,0,0,0,,nu în ordinea asta, dar ăștia sunt.
+Dialogue: 0,0:34:20.83,0:34:22.50,Default,,0,0,0,,Îi iau câte doi.
+Dialogue: 0,0:34:22.50,0:34:25.70,Default,,0,0,0,,Mai întai, {\i1}să plângi, dar să te încrezi{\i0}
+Dialogue: 0,0:34:25.70,0:34:29.20,Default,,0,0,0,,Să plângi, dar sâ ai încredere.
+Dialogue: 0,0:34:29.20,0:34:33.23,Default,,0,0,0,,Unul din cele mai importante lucruri despre cartea Iov
+Dialogue: 0,0:34:33.23,0:34:38.33,Default,,0,0,0,,e că îl vedem pe Iov rămânand mereu lângă Dumnezeu.
+Dialogue: 0,0:34:38.33,0:34:41.00,Default,,0,0,0,,Și totuși realismul emoției e minunat.
+Dialogue: 0,0:34:41.00,0:34:42.60,Default,,0,0,0,,Citiți cartea!
+Dialogue: 0,0:34:42.60,0:34:47.00,Default,,0,0,0,,El întreabă: "De ce m-ai lăsat să mă nasc?"
+Dialogue: 0,0:34:47.00,0:34:50.30,Default,,0,0,0,,El zice:"Nu înțeleg ce se întamplă."
+Dialogue: 0,0:34:50.30,0:34:52.30,Default,,0,0,0,,E un realism al trăirii.
+Dialogue: 0,0:34:52.30,0:34:55.20,Default,,0,0,0,,Dar până la sfârșit el rămâne credincios.
+Dialogue: 0,0:34:55.20,0:34:59.20,Default,,0,0,0,,Iar pentru că spune "la urma urmei trebuie să existe un dumnezeu"
+Dialogue: 0,0:34:59.20,0:35:01.20,Default,,0,0,0,,"altfel nu ai pe cine să fii furios."
+Dialogue: 0,0:35:01.20,0:35:04.93,Default,,0,0,0,,"Trebuie să fie un dumnezeu, altfel nu există bine și rău."
+Dialogue: 0,0:35:04.93,0:35:06.93,Default,,0,0,0,,Trebuie să fie un dumnezeu, 
+Dialogue: 0,0:35:06.93,0:35:09.66,Default,,0,0,0,,altfel cine poate spune ce e rău și ce nu?
+Dialogue: 0,0:35:09.66,0:35:12.43,Default,,0,0,0,,Și în același timp emoția e atât de reală..
+Dialogue: 0,0:35:12.43,0:35:14.63,Default,,0,0,0,,Ce vreau să spun prin asta e că
+Dialogue: 0,0:35:14.63,0:35:19.30,Default,,0,0,0,,unii spun "dacă ai încredere în Dumnezeu, nu trebuie să te superi prea tare".
+Dialogue: 0,0:35:19.30,0:35:21.56,Default,,0,0,0,,Dar Biblia spune "Nu, nu, nu."
+Dialogue: 0,0:35:21.56,0:35:24.73,Default,,0,0,0,,"Încrede-te în Dumnezeu și totuși poți fi supărat."
+Dialogue: 0,0:35:24.73,0:35:26.40,Default,,0,0,0,,Isus a spus "Facă-se voia Ta"
+Dialogue: 0,0:35:26.40,0:35:28.40,Default,,0,0,0,,dar striga de pe cruce.
+Dialogue: 0,0:35:28.40,0:35:30.29,Default,,0,0,0,,Deci plângi, dar te încrezi.
+Dialogue: 0,0:35:30.29,0:35:31.33,Default,,0,0,0,,În al doilea rând,
+Dialogue: 0,0:35:31.33,0:35:33.50,Default,,0,0,0,,te rogi, dar gândești.
+Dialogue: 0,0:35:33.50,0:35:36.00,Default,,0,0,0,,Acum, când zic {\i1}te rogi{\i0}..
+Dialogue: 0,0:35:36.00,0:35:38.40,Default,,0,0,0,,Uite cel mai interesant lucru la cartea Iov
+Dialogue: 0,0:35:38.40,0:35:40.00,Default,,0,0,0,,Îmi aduc aminte, ani în urmă,
+Dialogue: 0,0:35:40.00,0:35:42.00,Default,,0,0,0,,citeam Iov pentru prima dată
+Dialogue: 0,0:35:42.00,0:35:44.63,Default,,0,0,0,,și mi se părea tare greu de înțeles.
+Dialogue: 0,0:35:44.63,0:35:46.63,Default,,0,0,0,,Iov era...
+Dialogue: 0,0:35:46.63,0:35:48.63,Default,,0,0,0,,părea că se plânge tot timpul.
+Dialogue: 0,0:35:48.63,0:35:51.13,Default,,0,0,0,,Pare că îl ia la întrebări pe Dumnezeu
+Dialogue: 0,0:35:51.13,0:35:53.70,Default,,0,0,0,,nu pare, chiar asta face: îl întreabă pe Dumnezeu. 
+Dialogue: 0,0:35:53.70,0:35:55.03,Default,,0,0,0,,zice "De ce îmi faci asta?"
+Dialogue: 0,0:35:55.03,0:35:57.03,Default,,0,0,0,,"De ce lași suferință în viața mea?"
+Dialogue: 0,0:35:57.03,0:35:59.03,Default,,0,0,0,,"De ce mi se întâmplă toate astea?"
+Dialogue: 0,0:35:59.03,0:36:01.03,Default,,0,0,0,,
