@@ -14,10 +14,10 @@ Audio File: Pace-in-Vremurile-De-Suferinta-si-Incertitudine.mp4
 Video File: Pace-in-Vremurile-De-Suferinta-si-Incertitudine.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 635
-Active Line: 659
-Video Position: 64830
+Video Zoom Percent: 0.625000
+Scroll Position: 678
+Active Line: 687
+Video Position: 67255
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -573,7 +573,7 @@ Dialogue: 0,0:30:33.62,0:30:35.30,Default,,0,0,0,,{\i1}"Lumea de rouă{\i0}
 Dialogue: 0,0:30:35.30,0:30:37.30,Default,,0,0,0,,{\i1}o lume de rouă este într-adevăr{\i0}
 Dialogue: 0,0:30:37.30,0:30:41.54,Default,,0,0,0,,{\i1}și totuși..și totuși."{\i0}
 Dialogue: 0,0:30:41.54,0:30:45.60,Default,,0,0,0,,E ca și cum ne-ar spune: {\i1}"Insă este foarte greu!"{\i0}
-Dialogue: 0,0:30:45.60,0:30:49.22,Default,,0,0,0,,{\i1}"De fapt, poate că este imposibil să nu aspirăm{\i0}
+Dialogue: 0,0:30:45.60,0:30:50.48,Default,,0,0,0,,{\i1}"De fapt, poate că este imposibil să nu aspirăm{\i0}
 Dialogue: 0,0:30:50.56,0:30:52.88,Default,,0,0,0,,{\i1}la o continuare a relației de dragoste."{\i0}
 Dialogue: 0,0:30:52.88,0:30:56.44,Default,,0,0,0,,Când cineva moare, dorința cea mai profundă este de a spune:
 Dialogue: 0,0:30:56.44,0:30:59.38,Default,,0,0,0,,{\i1}"Știi, după moarte, aș dori ca să fie dragoste!{\i0}
@@ -643,7 +643,7 @@ Dialogue: 0,0:33:59.20,0:34:01.50,Default,,0,0,0,,Promisiunea unui dumnezeu care
 Dialogue: 0,0:34:01.50,0:34:04.50,Default,,0,0,0,,promisiunea unei lumi cerești pline de dragoste,
 Dialogue: 0,0:34:04.50,0:34:05.76,Default,,0,0,0,,promisiunea învierii..
 Dialogue: 0,0:34:05.76,0:34:10.06,Default,,0,0,0,,Cum folosim astea pentru a înfrunta problemele pe care le avem?
-Dialogue: 0,0:34:10.06,0:34:13.96,Default,,0,0,0,,Vreau să vă dau rapid șase lucruri, șase pași 
+Dialogue: 0,0:34:10.06,0:34:13.96,Default,,0,0,0,,Vreau să vă dau rapid șase lucruri, șase pași
 Dialogue: 0,0:34:13.96,0:34:18.83,Default,,0,0,0,,pe care cred că ni-i dă Biblia,
 Dialogue: 0,0:34:18.83,0:34:20.83,Default,,0,0,0,,nu în ordinea asta, dar ăștia sunt.
 Dialogue: 0,0:34:20.83,0:34:22.50,Default,,0,0,0,,Îi iau câte doi.
@@ -660,7 +660,7 @@ Dialogue: 0,0:34:52.30,0:34:55.20,Default,,0,0,0,,Dar până la sfârșit el ră
 Dialogue: 0,0:34:55.20,0:34:59.20,Default,,0,0,0,,Iar pentru că spune "la urma urmei trebuie să existe un dumnezeu"
 Dialogue: 0,0:34:59.20,0:35:01.20,Default,,0,0,0,,"altfel nu ai pe cine să fii furios."
 Dialogue: 0,0:35:01.20,0:35:04.93,Default,,0,0,0,,"Trebuie să fie un dumnezeu, altfel nu există bine și rău."
-Dialogue: 0,0:35:04.93,0:35:06.93,Default,,0,0,0,,Trebuie să fie un dumnezeu, 
+Dialogue: 0,0:35:04.93,0:35:06.93,Default,,0,0,0,,Trebuie să fie un dumnezeu,
 Dialogue: 0,0:35:06.93,0:35:09.66,Default,,0,0,0,,altfel cine poate spune ce e rău și ce nu?
 Dialogue: 0,0:35:09.66,0:35:12.43,Default,,0,0,0,,Și în același timp emoția e atât de reală..
 Dialogue: 0,0:35:12.43,0:35:14.63,Default,,0,0,0,,Ce vreau să spun prin asta e că
@@ -680,8 +680,36 @@ Dialogue: 0,0:35:42.00,0:35:44.63,Default,,0,0,0,,și mi se părea tare greu de 
 Dialogue: 0,0:35:44.63,0:35:46.63,Default,,0,0,0,,Iov era...
 Dialogue: 0,0:35:46.63,0:35:48.63,Default,,0,0,0,,părea că se plânge tot timpul.
 Dialogue: 0,0:35:48.63,0:35:51.13,Default,,0,0,0,,Pare că îl ia la întrebări pe Dumnezeu
-Dialogue: 0,0:35:51.13,0:35:53.70,Default,,0,0,0,,nu pare, chiar asta face: îl întreabă pe Dumnezeu. 
+Dialogue: 0,0:35:51.13,0:35:53.70,Default,,0,0,0,,nu pare, chiar asta face: îl întreabă pe Dumnezeu.
 Dialogue: 0,0:35:53.70,0:35:55.03,Default,,0,0,0,,zice "De ce îmi faci asta?"
 Dialogue: 0,0:35:55.03,0:35:57.03,Default,,0,0,0,,"De ce lași suferință în viața mea?"
 Dialogue: 0,0:35:57.03,0:35:59.03,Default,,0,0,0,,"De ce mi se întâmplă toate astea?"
-Dialogue: 0,0:35:59.03,0:36:01.03,Default,,0,0,0,,
+Dialogue: 0,0:35:59.03,0:36:02.32,Default,,0,0,0,,Și la final, Dumnezeu se arată și spune:{\i1} Iov{\i0}
+Dialogue: 0,0:36:02.32,0:36:03.96,Default,,0,0,0,,{\i1}tu ai făcut bine!{\i0} 
+Dialogue: 0,0:36:03.96,0:36:07.20,Default,,0,0,0,,Iar eu ma gândeam: Stai un pic!
+Dialogue: 0,0:36:07.20,0:36:09.08,Default,,0,0,0,,De ce ar spune Dumnezeu asta?
+Dialogue: 0,0:36:09.08,0:36:11.04,Default,,0,0,0,,Și am avut un profesor în {\i1}"vechiul testament"{\i0}
+Dialogue: 0,0:36:11.04,0:36:14.92,Default,,0,0,0,,care ne învăța din cartea lui Iov, și ne-a zis: {\i1}A, da!{\i0}
+Dialogue: 0,0:36:14.92,0:36:18.46,Default,,0,0,0,,{\i1}Iov se plângea, țipa, urla,{\i0}
+Dialogue: 0,0:36:18.46,0:36:21.94,Default,,0,0,0,,{\i1} facea "spume la gură"{\i0},
+Dialogue: 0,0:36:21.94,0:36:24.80,Default,,0,0,0,,{\i1}Însa facea așa înspre Dumnezeu{\i0}
+Dialogue: 0,0:36:24.80,0:36:26.40,Default,,0,0,0,,El nu a încetat să se roage!
+Dialogue: 0,0:36:26.40,0:36:28.40,Default,,0,0,0,,Toate plângerile lui
+Dialogue: 0,0:36:28.40,0:36:30.40,Default,,0,0,0,,le-a ridicat în fața lui Dumneze.
+Dialogue: 0,0:36:30.40,0:36:33.42,Default,,0,0,0,,Deci, rugați-vă, indiferent cât de rău vă simțiți.
+Dialogue: 0,0:36:33.42,0:36:35.42,Default,,0,0,0,,Însă folosiți-vă și mintea.
+Dialogue: 0,0:36:35.42,0:36:38.54,Default,,0,0,0,,Ceea ce vedeți la Iov este că se zbate,
+Dialogue: 0,0:36:38.54,0:36:40.72,Default,,0,0,0,,pentru-că sunt locuri în care el spune:
+Dialogue: 0,0:36:40.72,0:36:46.10,Default,,0,0,0,,{\i1}"Nu știu de ce Dumnezeu face așa, însă după ce mă va testa, eu voi ajunge ca și aurul"{\i0}
+Dialogue: 0,0:36:46.10,0:36:49.88,Default,,0,0,0,,Sunt și alte locuri unde spune: {\i1}Sigur, însă știu că răscumpăratorul meu trăiește,{\i0}
+Dialogue: 0,0:36:49.88,0:36:51.88,Default,,0,0,0,,{\i1}și că, la sfârșit, se va ridica pe pământ.{\i0}
+Dialogue: 0,0:36:51.88,0:36:56.02,Default,,0,0,0,,El încearcă și una și alta, se gândește, îsi amintește, se luptă,
+Dialogue: 0,0:36:56.04,0:36:57.70,Default,,0,0,0,,însă se și roagă.
+Dialogue: 0,0:36:57.70,0:37:02.74,Default,,0,0,0,,Acest lucru ... uitați-vă în psalmi: cel puțin o treime din psalmi este așa.
+Dialogue: 0,0:37:02.74,0:37:06.04,Default,,0,0,0,,Deci, {\i1}să plângi, dar să te încrezi!{\i0},
+Dialogue: 0,0:37:06.08,0:37:09.18,Default,,0,0,0,,apoi {\i1}"roagă-te dar folosește-ți mintea!"{\i0}
+Dialogue: 0,0:37:09.18,0:37:12.10,Default,,0,0,0,,Gândește-te la faptul că nu poți vedea totul așa cum ar trebui
+Dialogue: 0,0:37:12.12,0:37:15.52,Default,,0,0,0,,Gândește-te la faptul că numai Dumnezeu poate să vadă imaginea de asamblu, 
+Dialogue: 0,0:37:15.52,0:37:17.28,Default,,0,0,0,,cu privire la ceea ce se întâmplă.
+Dialogue: 0,0:37:17.28,0:37:19.28,Default,,0,0,0,,Și apoi ultimele două:
+Dialogue: 0,0:37:19.28,0:37:22.30,Default,,0,0,0,,"Reorganizează-ți ceea ce iubești, și ai speranță!"
