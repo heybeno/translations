@@ -14,10 +14,10 @@ Audio File: Pace-in-Vremurile-De-Suferinta-si-Incertitudine.mp4
 Video File: Pace-in-Vremurile-De-Suferinta-si-Incertitudine.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.875000
-Scroll Position: 678
-Active Line: 681
-Video Position: 73216
+Video Zoom Percent: 0.625000
+Scroll Position: 697
+Active Line: 721
+Video Position: 70987
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -685,7 +685,7 @@ Dialogue: 0,0:35:53.70,0:35:55.03,Default,,0,0,0,,zice "De ce îmi faci asta?"
 Dialogue: 0,0:35:55.03,0:35:57.03,Default,,0,0,0,,"De ce lași suferință în viața mea?"
 Dialogue: 0,0:35:57.03,0:35:59.03,Default,,0,0,0,,"De ce mi se întâmplă toate astea?"
 Dialogue: 0,0:35:59.03,0:36:02.32,Default,,0,0,0,,Și la final, Dumnezeu se arată și spune:{\i1} Iov{\i0}
-Dialogue: 0,0:36:02.32,0:36:03.96,Default,,0,0,0,,{\i1}tu ai făcut bine!{\i0} 
+Dialogue: 0,0:36:02.32,0:36:03.96,Default,,0,0,0,,{\i1}tu ai făcut bine!{\i0}
 Dialogue: 0,0:36:03.96,0:36:07.20,Default,,0,0,0,,Iar eu ma gândeam: Stai un pic!
 Dialogue: 0,0:36:07.20,0:36:09.08,Default,,0,0,0,,De ce ar spune Dumnezeu asta?
 Dialogue: 0,0:36:09.08,0:36:11.04,Default,,0,0,0,,Și am avut un profesor în {\i1}"vechiul testament"{\i0}
@@ -709,7 +709,41 @@ Dialogue: 0,0:36:57.70,0:37:02.74,Default,,0,0,0,,Acest lucru ... uitați-vă î
 Dialogue: 0,0:37:02.74,0:37:06.04,Default,,0,0,0,,Deci, {\i1}"să plângi, dar să te încrezi!"{\i0},
 Dialogue: 0,0:37:06.08,0:37:09.18,Default,,0,0,0,,apoi {\i1}"roagă-te dar folosește-ți mintea!"{\i0}
 Dialogue: 0,0:37:09.18,0:37:12.10,Default,,0,0,0,,Gândește-te la faptul că nu poți vedea totul așa cum ar trebui
-Dialogue: 0,0:37:12.12,0:37:15.52,Default,,0,0,0,,Gândește-te la faptul că numai Dumnezeu poate să vadă imaginea de asamblu, 
+Dialogue: 0,0:37:12.12,0:37:15.52,Default,,0,0,0,,Gândește-te la faptul că numai Dumnezeu poate să vadă imaginea de asamblu,
 Dialogue: 0,0:37:15.52,0:37:17.28,Default,,0,0,0,,cu privire la ceea ce se întâmplă.
 Dialogue: 0,0:37:17.28,0:37:19.28,Default,,0,0,0,,Și apoi ultimele două:
-Dialogue: 0,0:37:19.28,0:37:22.30,Default,,0,0,0,,"Reorganizează-ți ceea ce iubești, și ai speranță!"
+Dialogue: 0,0:37:19.28,0:37:22.80,Default,,0,0,0,,"Reorganizează-ți ceea ce iubești, și ai nădejde"
+Dialogue: 0,0:37:22.80,0:37:26.96,Default,,0,0,0,,Și când spun {\i1}Reorganizează-ți ceea ce iubești{\i0}, asta ar fi un subiect în sine,
+Dialogue: 0,0:37:26.96,0:37:29.64,Default,,0,0,0,,însă am să menționez ceva pe scurt.
+Dialogue: 0,0:37:29.64,0:37:32.52,Default,,0,0,0,,De multe ori când vine suferința,
+Dialogue: 0,0:37:32.52,0:37:37.70,Default,,0,0,0,,trebuie să îți reorganizezi prioritățile. Te uiți la viață și spui: {\i1}"Lucrurile astea sunt mult mai importante"{\i0}.
+Dialogue: 0,0:37:37.70,0:37:40.68,Default,,0,0,0,,Parcă ar fi o glumă, Îmi pare rău că trebuie să spun asta, insă
+Dialogue: 0,0:37:40.68,0:37:44.92,Default,,0,0,0,,pentru-că sunt un păstor, și am vorbit cu oameni pe patul de moarte,
+Dialogue: 0,0:37:44.92,0:37:49.00,Default,,0,0,0,,vreau să știți că, pe patul de moarte nimeni nu spune
+Dialogue: 0,0:37:49.00,0:37:51.94,Default,,0,0,0,,{\i1}"Ah, ce aș da ca să fi petrecut mai mult timp la serviciu!"{\i0}
+Dialogue: 0,0:37:51.94,0:37:53.92,Default,,0,0,0,,Nimeni nu spune asta!
+Dialogue: 0,0:37:53.92,0:37:57.92,Default,,0,0,0,,Când cineva moare, se uită în trecut
+Dialogue: 0,0:37:57.92,0:38:00.38,Default,,0,0,0,,și prioritățile incep să se schimbe.
+Dialogue: 0,0:38:00.38,0:38:04.04,Default,,0,0,0,,Suferința îți dă șansa să schimbi prioritățile acum
+Dialogue: 0,0:38:04.04,0:38:08.08,Default,,0,0,0,,și să reorganizezi ceea ce iubești. Poate că iubești ceva mai mult decât trebuie.
+Dialogue: 0,0:38:08.08,0:38:10.90,Default,,0,0,0,,Nu trebuie să iubești cariera mai mult decât familia!
+Dialogue: 0,0:38:10.90,0:38:14.96,Default,,0,0,0,,Dacă faci așa, atunci vei pierde familia și probabil și cariera
+Dialogue: 0,0:38:14.96,0:38:18.20,Default,,0,0,0,,Deci {\i1}Reorganizează-ți ceea ce iubești, și ai nădejde!"{\i0}
+Dialogue: 0,0:38:18.20,0:38:21.76,Default,,0,0,0,,Când spun nădejde mă refer la lucrurile per care le-am spus pe scurt.
+Dialogue: 0,0:38:21.76,0:38:25.54,Default,,0,0,0,,Faptul că în rai avem parte la dragoste și înviere.
+Dialogue: 0,0:38:25.54,0:38:28.86,Default,,0,0,0,,Să va spun vreo două citate interesante.
+Dialogue: 0,0:38:28.86,0:38:34.12,Default,,0,0,0,,Stiți ... unul dintre locurile mele preferate din "Lord of the Rings" (Regele Inelelor), 
+Dialogue: 0,0:38:34.12,0:38:37.52,Default,,0,0,0,,nu în film, dar in carte ...
+Dialogue: 0,0:38:37.52,0:38:40.68,Default,,0,0,0,,În a treia carte, Sam Gamgee descoperă că
+Dialogue: 0,0:38:40.68,0:38:45.14,Default,,0,0,0,,prietenul lui Gandalf nu este mort (așa cum credea), ci este viu,
+Dialogue: 0,0:38:45.14,0:38:47.14,Default,,0,0,0,,și Sam spune: {\i1}"Gandalf!{\i0}
+Dialogue: 0,0:38:47.14,0:38:49.74,Default,,0,0,0,,{\i1}Am crezut că ai murit!{\i0}
+Dialogue: 0,0:38:50.20,0:38:52.78,Default,,0,0,0,,{\i1}Dar apoi am crezut că și eu am murit {\i0}
+Dialogue: 0,0:38:52.78,0:38:57.58,Default,,0,0,0,,{\i1}Tot ce este trist ... va deveni  cumva neadevărat?{\i0}
+Dialogue: 0,0:38:57.58,0:39:01.16,Default,,0,0,0,,Știți, într-un fel,
+Dialogue: 0,0:39:01.16,0:39:04.32,Default,,0,0,0,, ... trebuie să spun cu atenție, și va trebui să calific lucru acesta,
+Dialogue: 0,0:39:04.32,0:39:06.60,Default,,0,0,0,,dacă ti crezi în înviere
+Dialogue: 0,0:39:06.60,0:39:10.02,Default,,0,0,0,,da, {\i1}Tot ce este trist ... va deveni  cumva neadevărat.{\i0}
+Dialogue: 0,0:39:10.02,0:39:15.04,Default,,0,0,0,,Cu alte cuvinte, lumea de care aparținem, 
+Dialogue: 0,0:39:15.04,0:39:17.84,Default,,0,0,0,,care a fost facută pentru noi,
+Dialogue: 0,0:39:17.84,0:39:21.12,Default,,0,0,0,,Va deveni eventual infinit mai glorioasă
