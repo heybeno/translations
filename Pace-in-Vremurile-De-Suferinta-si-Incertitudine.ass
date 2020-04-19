@@ -14,10 +14,10 @@ Audio File: Pace-in-Vremurile-De-Suferinta-si-Incertitudine.mp4
 Video File: Pace-in-Vremurile-De-Suferinta-si-Incertitudine.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 821
-Active Line: 840
-Video Position: 81000
+Video Zoom Percent: 0.500000
+Scroll Position: 979
+Active Line: 1003
+Video Position: 92252
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -771,7 +771,7 @@ Dialogue: 0,0:40:15.73,0:40:19.10,Default,,0,0,0,,{\i1}"dar să și justifici ce
 Dialogue: 0,0:40:19.10,0:40:21.50,Default,,0,0,0,,{\i1}"Aceasta e înfrângerea finală a suferinței."
 Dialogue: 0,0:40:21.50,0:40:25.66,Default,,0,0,0,,Eu. creștin fiind, cred că asta mi se oferă mie.
 Dialogue: 0,0:40:25.66,0:40:28.33,Default,,0,0,0,,Și cred că asta îți oferă ție creștinismul.
-Dialogue: 0,0:40:28.33,0:40:31.93,Default,,0,0,0,,Așa că Justin, te rog vino aici 
+Dialogue: 0,0:40:28.33,0:40:31.93,Default,,0,0,0,,Așa că Justin, te rog vino aici
 Dialogue: 0,0:40:31.93,0:40:33.93,Default,,0,0,0,,și spune-ne ce facem mai departe.
 Dialogue: 0,0:40:33.93,0:40:35.93,Default,,0,0,0,,
 Dialogue: 0,0:40:35.93,0:40:37.90,Default,,0,0,0,,
@@ -786,7 +786,7 @@ Dialogue: 0,0:41:00.13,0:41:05.50,Default,,0,0,0,,Unde intră iudaismul și isla
 Dialogue: 0,0:41:05.50,0:41:10.76,Default,,0,0,0,,Motivul pentru care nu am inclus iudaismul și islamul este că
 Dialogue: 0,0:41:10.76,0:41:13.33,Default,,0,0,0,,evident, ele sunt religii monoteiste
 Dialogue: 0,0:41:13.33,0:41:16.76,Default,,0,0,0,,deci cred într-un dumnezeu personal și infinit
-Dialogue: 0,0:41:16.76,0:41:20.10,Default,,0,0,0,,așa că modul în care înțeleg suferința nu e chiar 
+Dialogue: 0,0:41:16.76,0:41:20.10,Default,,0,0,0,,așa că modul în care înțeleg suferința nu e chiar
 Dialogue: 0,0:41:20.10,0:41:22.06,Default,,0,0,0,,atât de diferit față de creștinism.
 Dialogue: 0,0:41:22.06,0:41:24.06,Default,,0,0,0,,Creștinismul, sigur, are o..
 Dialogue: 0,0:41:24.06,0:41:27.33,Default,,0,0,0,,relație destul de interesantă cu ambele religii.
@@ -804,13 +804,13 @@ Dialogue: 0,0:42:01.80,0:42:05.80,Default,,0,0,0,,că există relații de dragos
 Dialogue: 0,0:42:05.80,0:42:10.16,Default,,0,0,0,,că nu te pierzi în tot, ci îți păstrezi personalitatea,
 Dialogue: 0,0:42:10.16,0:42:12.16,Default,,0,0,0,,ceea ce cred că e un lucru minunat, pe care
 Dialogue: 0,0:42:12.16,0:42:14.16,Default,,0,0,0,,înauntrul nostru vrem să îl credem.
-Dialogue: 0,0:42:14.16,0:42:16.96,Default,,0,0,0,,Dar..în seara asta nu am intenționat 
-Dialogue: 0,0:42:16.96,0:42:20.30,Default,,0,0,0,,să dovedesc validitatea creștinismului. 
+Dialogue: 0,0:42:14.16,0:42:16.96,Default,,0,0,0,,Dar..în seara asta nu am intenționat
+Dialogue: 0,0:42:16.96,0:42:20.30,Default,,0,0,0,,să dovedesc validitatea creștinismului.
 Dialogue: 0,0:42:20.30,0:42:22.53,Default,,0,0,0,,Încerc în seara asta să vă arăt doar ce oferă.
 Dialogue: 0,0:42:22.53,0:42:26.13,Default,,0,0,0,,Totuși, islamul si iudaismul, ambele cred asta.
 Dialogue: 0,0:42:26.13,0:42:28.13,Default,,0,0,0,,Iudaismul..depinde un pic
 Dialogue: 0,0:42:28.13,0:42:30.13,Default,,0,0,0,,cei care sunteți evrei,
-Dialogue: 0,0:42:30.13,0:42:33.73,Default,,0,0,0,,știți că bineînțeles sunt mulți evrei azi care 
+Dialogue: 0,0:42:30.13,0:42:33.73,Default,,0,0,0,,știți că bineînțeles sunt mulți evrei azi care
 Dialogue: 0,0:42:33.73,0:42:35.79,Default,,0,0,0,,nu prea cred într-o viață de dupa.
 Dialogue: 0,0:42:35.79,0:42:38.76,Default,,0,0,0,,Dar realitatea, din punct de vedere istoric,
 Dialogue: 0,0:42:38.76,0:42:41.56,Default,,0,0,0,,cartea Daniel, spre exemplu, dar și altele
@@ -844,7 +844,7 @@ Dialogue: 0,0:43:59.46,0:44:01.56,Default,,0,0,0,,de compasiune, nu de dorinți 
 Dialogue: 0,0:44:01.56,0:44:03.70,Default,,0,0,0,,Sunt multe lucruri pe care budismul le oferă.
 Dialogue: 0,0:44:03.70,0:44:06.00,Default,,0,0,0,,Aș spune că doar secularismul
 Dialogue: 0,0:44:06.00,0:44:08.00,Default,,0,0,0,,nu îți oferă aproape nimic.
-Dialogue: 0,0:44:08.00,0:44:10.00,Default,,0,0,0,,Dar, încă un lucru. 
+Dialogue: 0,0:44:08.00,0:44:10.00,Default,,0,0,0,,Dar, încă un lucru.
 Dialogue: 0,0:44:10.00,0:44:12.00,Default,,0,0,0,,Dacă tot comparăm pentr-un minut.
 Dialogue: 0,0:44:12.00,0:44:14.60,Default,,0,0,0,,Islamul și iudaismul au
 Dialogue: 0,0:44:14.60,0:44:17.33,Default,,0,0,0,,unele lucruri pe care le oferă creștinismul, nu toate.
@@ -865,4 +865,167 @@ Dialogue: 0,0:44:52.50,0:44:54.80,Default,,0,0,0,,Astea sunt idei ce nu au apăr
 Dialogue: 0,0:44:54.80,0:44:56.80,Default,,0,0,0,,religiile karmice, budism sau din
 Dialogue: 0,0:44:56.80,0:44:58.80,Default,,0,0,0,,culturile bazate pe rușine și onoare,
 Dialogue: 0,0:44:58.80,0:45:00.00,Default,,0,0,0,,ci din creștinism.
-Dialogue: 0,0:45:00.00,0:45:02.00,Default,,0,0,0,,
+Dialogue: 0,0:45:00.00,0:45:03.63,Default,,0,0,0,,Deci chiar și secularismul are {\i1}ceva{\i0} de oferit.
+Dialogue: 0,0:45:03.63,0:45:05.80,Default,,0,0,0,,Și anume, să ne luptăm împotriva suferinței.
+Dialogue: 0,0:45:05.80,0:45:08.00,Default,,0,0,0,,Dar din toate abordările, aș spune că cele mai
+Dialogue: 0,0:45:08.00,0:45:10.00,Default,,0,0,0,,multe resurse le oferă creștinismul
+Dialogue: 0,0:45:10.00,0:45:12.00,Default,,0,0,0,,iar secularismul cele mai puține. 
+Dialogue: 0,0:45:12.00,0:45:14.80,Default,,0,0,0,,Rămânând la ideea asta, 
+Dialogue: 0,0:45:14.80,0:45:17.33,Default,,0,0,0,,comparând diferite religii,
+Dialogue: 0,0:45:17.33,0:45:20.56,Default,,0,0,0,,și vorbind despre unicitatea creștinismului..
+Dialogue: 0,0:45:20.56,0:45:21.96,Default,,0,0,0,,avem o întrebare:
+Dialogue: 0,0:45:21.96,0:45:24.53,Default,,0,0,0,,Creștinismul spune că suferim
+Dialogue: 0,0:45:24.53,0:45:26.53,Default,,0,0,0,,din cauza păcatului primordial
+Dialogue: 0,0:45:26.53,0:45:29.23,Default,,0,0,0,,din cauza a ce au făcut Adam și Eva la început.
+Dialogue: 0,0:45:29.23,0:45:31.60,Default,,0,0,0,,Cum e asta fundamental diferit
+Dialogue: 0,0:45:31.60,0:45:33.76,Default,,0,0,0,,față de gândirea karmică asupra
+Dialogue: 0,0:45:33.76,0:45:36.76,Default,,0,0,0,,suferinței din cauza faptelor din trecut?
+Dialogue: 0,0:45:36.76,0:45:40.20,Default,,0,0,0,,Aa, pai.. Bine punctat. {\i1}Touche!{\i0} 
+Dialogue: 0,0:45:40.20,0:45:42.20,Default,,0,0,0,,E o întrebare foarte bună.
+Dialogue: 0,0:45:42.20,0:45:45.96,Default,,0,0,0,,Este similar..este într-adevar asemănător.
+Dialogue: 0,0:45:45.96,0:45:49.53,Default,,0,0,0,,Dar... nu pe de-a întregul, totuși. 
+Dialogue: 0,0:45:49.53,0:45:50.86,Default,,0,0,0,,De exemplu, 
+Dialogue: 0,0:45:50.86,0:45:53.70,Default,,0,0,0,,asta e chiar distractiv, trebuie să recunosc..
+Dialogue: 0,0:45:53.70,0:45:55.70,Default,,0,0,0,,În seara asta, în loc de a spune
+Dialogue: 0,0:45:55.70,0:45:57.70,Default,,0,0,0,,cine are dreptate și cine greșește
+Dialogue: 0,0:45:57.70,0:45:58.70,Default,,0,0,0,,fac comparații.
+Dialogue: 0,0:45:58.70,0:46:01.35,Default,,0,0,0,,Mereu vă voi recomanda creștinismul.
+Dialogue: 0,0:46:01.35,0:46:03.35,Default,,0,0,0,,Și...asta voi face. 
+Dialogue: 0,0:46:03.35,0:46:05.35,Default,,0,0,0,,Si vreau să spun că
+Dialogue: 0,0:46:05.35,0:46:08.50,Default,,0,0,0,,Dacă tu compari ideea că
+Dialogue: 0,0:46:08.50,0:46:11.06,Default,,0,0,0,,noi suferim pentru ceva ce am făcut în Adam,
+Dialogue: 0,0:46:11.06,0:46:13.06,Default,,0,0,0,,ca și cum ar fi karma,
+Dialogue: 0,0:46:13.06,0:46:15.06,Default,,0,0,0,,atunci asta e aproape corect.
+Dialogue: 0,0:46:15.06,0:46:17.06,Default,,0,0,0,,Uite ce vreau să spun. 
+Dialogue: 0,0:46:17.06,0:46:19.63,Default,,0,0,0,,Am să fac un rezumat al învățăturii creștine.
+Dialogue: 0,0:46:19.63,0:46:21.50,Default,,0,0,0,,Creștinismul spune că Dumnezeu
+Dialogue: 0,0:46:21.50,0:46:23.50,Default,,0,0,0,,a creat un reprezentant. 
+Dialogue: 0,0:46:23.50,0:46:25.83,Default,,0,0,0,,Acum, dacă ești ales 
+Dialogue: 0,0:46:25.83,0:46:26.83,Default,,0,0,0,,să fii reprezentant,
+Dialogue: 0,0:46:26.83,0:46:27.86,Default,,0,0,0,,să mergi la congres
+Dialogue: 0,0:46:27.86,0:46:30.40,Default,,0,0,0,,sau dacă ești ambasador, mergi în altă țară
+Dialogue: 0,0:46:30.40,0:46:32.90,Default,,0,0,0,,și încerci să reprezinți pe cei ce te-au trimis,
+Dialogue: 0,0:46:32.90,0:46:35.50,Default,,0,0,0,,dar nu ai să îi reprezinți perfect niciodată, nu?
+Dialogue: 0,0:46:35.50,0:46:37.66,Default,,0,0,0,,Nu poți, dar te străduiești.
+Dialogue: 0,0:46:37.66,0:46:40.30,Default,,0,0,0,,Dar Dumnezeu a creat un reprezentant perfect.
+Dialogue: 0,0:46:40.30,0:46:41.96,Default,,0,0,0,,Iar când Adam a păcătuit,
+Dialogue: 0,0:46:41.96,0:46:44.80,Default,,0,0,0,,pur și simplu nu poți spune
+Dialogue: 0,0:46:44.80,0:46:46.80,Default,,0,0,0,,"Dacă eram eu acolo, nu păcătuiam."
+Dialogue: 0,0:46:46.80,0:46:48.80,Default,,0,0,0,,pentru că el era reprezentantul perfect.
+Dialogue: 0,0:46:48.80,0:46:50.80,Default,,0,0,0,,Deci, într-un mod, ai păcătuit în Adam.
+Dialogue: 0,0:46:50.80,0:46:53.00,Default,,0,0,0,,Aici da, se aseamănă cu karma.
+Dialogue: 0,0:46:53.00,0:46:55.00,Default,,0,0,0,,Dar uite care e diferența:
+Dialogue: 0,0:46:55.00,0:46:57.00,Default,,0,0,0,,Religia karmică ar spune că
+Dialogue: 0,0:46:57.00,0:46:59.60,Default,,0,0,0,,relația dintre suferința ta personală
+Dialogue: 0,0:46:59.60,0:47:02.60,Default,,0,0,0,,și păcatul tău din trecut e perfectă.
+Dialogue: 0,0:47:02.60,0:47:05.03,Default,,0,0,0,,Iar noi am spune
+Dialogue: 0,0:47:05.03,0:47:07.03,Default,,0,0,0,,"Nu, asta nu e adevărat."
+Dialogue: 0,0:47:07.03,0:47:10.70,Default,,0,0,0,,Ce am spune noi mai degrabă e că
+Dialogue: 0,0:47:10.70,0:47:14.23,Default,,0,0,0,,în general, lumea e decăzută
+Dialogue: 0,0:47:14.23,0:47:17.26,Default,,0,0,0,,și că în lume e mult necaz
+Dialogue: 0,0:47:17.26,0:47:19.26,Default,,0,0,0,,dar sunt unii care suferă
+Dialogue: 0,0:47:19.26,0:47:21.80,Default,,0,0,0,,direct din cauza a ce au făcut.
+Dialogue: 0,0:47:21.80,0:47:23.80,Default,,0,0,0,,Și sunt alții care, de fapt
+Dialogue: 0,0:47:23.80,0:47:27.06,Default,,0,0,0,,suferă doar din cauza stricăciunii din lume.
+Dialogue: 0,0:47:27.06,0:47:29.66,Default,,0,0,0,,Deci nu am spune, de exemplu, că.. 
+Dialogue: 0,0:47:29.66,0:47:31.66,Default,,0,0,0,,
+Dialogue: 0,0:47:31.66,0:47:34.75,Default,,0,0,0,,Adică sunt oameni săraci care sunt asupriți.
+Dialogue: 0,0:47:34.75,0:47:38.00,Default,,0,0,0,,Cuvântul pentru "sărac" în Vechiul Testament,
+Dialogue: 0,0:47:38.00,0:47:39.56,Default,,0,0,0,,unul din cuvintele folosite,
+Dialogue: 0,0:47:39.56,0:47:41.40,Default,,0,0,0,,"anni" - e un cuvânt ce chiar înseamnă
+Dialogue: 0,0:47:41.40,0:47:43.20,Default,,0,0,0,,"cei asupriți". 
+Dialogue: 0,0:47:43.20,0:47:45.90,Default,,0,0,0,,Deci, ce ne spune Biblia, Vechiul Testament, e că
+Dialogue: 0,0:47:45.90,0:47:47.90,Default,,0,0,0,,cei săraci sunt foarte des maltratați.
+Dialogue: 0,0:47:47.90,0:47:49.90,Default,,0,0,0,,Nu sunt tratați cum merită.
+Dialogue: 0,0:47:49.90,0:47:52.00,Default,,0,0,0,,Iar oamenii bogați
+Dialogue: 0,0:47:52.00,0:47:53.60,Default,,0,0,0,,care au păcătuit și ei în Adam,
+Dialogue: 0,0:47:53.60,0:47:55.03,Default,,0,0,0,,trăiesc vieți minunate
+Dialogue: 0,0:47:55.03,0:47:57.96,Default,,0,0,0,,iar săracii, care au păcătuit și ei în Adam,
+Dialogue: 0,0:47:57.96,0:48:00.76,Default,,0,0,0,,duc vieți groaznice, iar asta nu e drept.
+Dialogue: 0,0:48:00.76,0:48:02.76,Default,,0,0,0,,Deci, într-un fel,
+Dialogue: 0,0:48:02.76,0:48:04.76,Default,,0,0,0,,e adevărat și eu aș spune
+Dialogue: 0,0:48:04.76,0:48:06.76,Default,,0,0,0,,deși nu am spus asta, pentru că..
+Dialogue: 0,0:48:06.76,0:48:09.50,Default,,0,0,0,,pentru mulți e cam greu de acceptat.
+Dialogue: 0,0:48:09.50,0:48:12.00,Default,,0,0,0,,Eu sunt câteodată mângâiat de faptul că
+Dialogue: 0,0:48:12.00,0:48:14.40,Default,,0,0,0,,atunci când suferința apare în viața mea
+Dialogue: 0,0:48:14.40,0:48:17.03,Default,,0,0,0,,stau și îmi spun "Nu sunt un om perfect."
+Dialogue: 0,0:48:17.03,0:48:19.53,Default,,0,0,0,,"Sunt păcătos. Am făcut greșeli."
+Dialogue: 0,0:48:19.53,0:48:22.53,Default,,0,0,0,,"Și nu merit o viață grozavă."
+Dialogue: 0,0:48:22.53,0:48:24.53,Default,,0,0,0,,Și astfel..
+Dialogue: 0,0:48:24.53,0:48:26.60,Default,,0,0,0,,trebuie să fiu recunoscător lui Dumnezeu.
+Dialogue: 0,0:48:26.60,0:48:28.90,Default,,0,0,0,,pentru tot binele pe care mi l-a dat.
+Dialogue: 0,0:48:28.90,0:48:31.10,Default,,0,0,0,,Pe mine asta chiar m-a ajutat
+Dialogue: 0,0:48:31.10,0:48:33.10,Default,,0,0,0,,nu am spus-o, dar pe mine mă ajută.
+Dialogue: 0,0:48:33.10,0:48:35.10,Default,,0,0,0,,Totuși, creștinismul nu spune că este o 
+Dialogue: 0,0:48:35.10,0:48:37.10,Default,,0,0,0,,relație directă între păcatul din trecut
+Dialogue: 0,0:48:37.10,0:48:39.10,Default,,0,0,0,,și suferința prezentă. Niciodată.
+Dialogue: 0,0:48:39.10,0:48:41.10,Default,,0,0,0,,Dacă zici...
+Dialogue: 0,0:48:41.10,0:48:44.46,Default,,0,0,0,,să vă dau cel mai bun exemplu.
+Dialogue: 0,0:48:44.46,0:48:46.60,Default,,0,0,0,,Dacă un pastor vine și-mi spune
+Dialogue: 0,0:48:46.60,0:48:50.03,Default,,0,0,0,,"Sufăr mult, cred că trebuie să fi făcut ceva rău"
+Dialogue: 0,0:48:50.03,0:48:52.03,Default,,0,0,0,,"pentru care Dumnezeu mă pedepsește."
+Dialogue: 0,0:48:52.03,0:48:54.03,Default,,0,0,0,,Iar răspunsul meu e "Ok.."
+Dialogue: 0,0:48:54.03,0:48:56.03,Default,,0,0,0,,"L-ai văzut pe Isus Hristos?"
+Dialogue: 0,0:48:56.03,0:48:57.50,Default,,0,0,0,,"Vezi cât a suferit El?"
+Dialogue: 0,0:48:57.50,0:48:59.50,Default,,0,0,0,,"Iar El nu a meritat-o deloc."
+Dialogue: 0,0:48:59.50,0:49:01.50,Default,,0,0,0,,Iar realitatea e că sunt mulți care
+Dialogue: 0,0:49:01.50,0:49:03.50,Default,,0,0,0,,suferă în lumea asta și nu merită.
+Dialogue: 0,0:49:03.50,0:49:05.33,Default,,0,0,0,,Așa că nu...
+Dialogue: 0,0:49:05.33,0:49:07.33,Default,,0,0,0,,Poate...bineînțeles,
+Dialogue: 0,0:49:07.33,0:49:09.60,Default,,0,0,0,,dacă lucrezi prea mult faci ulcer.
+Dialogue: 0,0:49:09.60,0:49:12.33,Default,,0,0,0,,Și suferi pentru că ai lucrat prea mult.
+Dialogue: 0,0:49:12.33,0:49:16.03,Default,,0,0,0,,Ăsta e un caz în care păcatul rezultă în suferință.
+Dialogue: 0,0:49:16.03,0:49:17.70,Default,,0,0,0,,Dar nu e o relație unu-la-unu.
+Dialogue: 0,0:49:17.70,0:49:18.80,Default,,0,0,0,,Asta e toată ideea.
+Dialogue: 0,0:49:18.80,0:49:20.46,Default,,0,0,0,,Nu e ca religiile karmice unde
+Dialogue: 0,0:49:20.46,0:49:22.46,Default,,0,0,0,,e o relație unu-la-unu între
+Dialogue: 0,0:49:22.46,0:49:25.23,Default,,0,0,0,,orice trăiești acum și modul în care ai trăit.
+Dialogue: 0,0:49:25.23,0:49:26.73,Default,,0,0,0,,E multă nedreptate în lume..
+Dialogue: 0,0:49:26.73,0:49:28.73,Default,,0,0,0,,Deci în parte e adevărat
+Dialogue: 0,0:49:28.73,0:49:30.73,Default,,0,0,0,,și m-aș consola un pic cu faptul că
+Dialogue: 0,0:49:30.73,0:49:33.83,Default,,0,0,0,,păcătos fiind, nu merit o viață perfect bună.
+Dialogue: 0,0:49:33.83,0:49:36.23,Default,,0,0,0,,Deci sunt mai recunoscător pentru ceea ce am.
+Dialogue: 0,0:49:36.23,0:49:38.80,Default,,0,0,0,,Nu zic "Doamne, de ce nu îmi dai mai mult?"
+Dialogue: 0,0:49:38.80,0:49:41.07,Default,,0,0,0,,dar nu e nici relația aia unu-la-unu. 
+Dialogue: 0,0:49:41.07,0:49:43.07,Default,,0,0,0,,Asta e o întrebare foarte bună.
+Dialogue: 0,0:49:43.07,0:49:46.76,Default,,0,0,0,,Legat de asta, cred că e potrivit atunci să..
+Dialogue: 0,0:49:46.76,0:49:48.76,Default,,0,0,0,,Cineva a întrebat
+Dialogue: 0,0:49:48.76,0:49:52.23,Default,,0,0,0,,ceva ce cred că se leagă de cum ai răspuns acum.
+Dialogue: 0,0:49:52.23,0:49:54.60,Default,,0,0,0,,Zice așa: "De ce unii creștini spun"
+Dialogue: 0,0:49:54.60,0:49:56.23,Default,,0,0,0,,"că dacă ești creștin, atunci"
+Dialogue: 0,0:49:56.23,0:50:00.00,Default,,0,0,0,,"nu ar trebui să suferi pentru că Împărăția lui Dumnezeu a venit."
+Dialogue: 0,0:50:00.00,0:50:02.00,Default,,0,0,0,,Cum răspunzi la asta? Cred că poate
+Dialogue: 0,0:50:02.00,0:50:06.46,Default,,0,0,0,,specific cu privire la.. suferința creștină.
+Dialogue: 0,0:50:06.46,0:50:08.46,Default,,0,0,0,,Deci, dacă ești creștin
+Dialogue: 0,0:50:08.46,0:50:11.13,Default,,0,0,0,,dacă devii creștin, Dumnezeu nu va lăsa
+Dialogue: 0,0:50:11.13,0:50:14.00,Default,,0,0,0,,ceva foarte rău să ți se întâmple, nu?
+Dialogue: 0,0:50:14.00,0:50:15.53,Default,,0,0,0,,Știi de ce zic oamenii asta?
+Dialogue: 0,0:50:15.53,0:50:17.53,Default,,0,0,0,,Pentru că's înșelați amarnic.
+Dialogue: 0,0:50:17.53,0:50:19.53,Default,,0,0,0,,
+Dialogue: 0,0:50:19.53,0:50:23.16,Default,,0,0,0,,Uf... Isus a fost cea mai bună persoană care a trăit
+Dialogue: 0,0:50:23.16,0:50:24.86,Default,,0,0,0,,iar El a suferit..mult.
+Dialogue: 0,0:50:24.86,0:50:28.03,Default,,0,0,0,,Și nu există...
+Dialogue: 0,0:50:28.03,0:50:30.03,Default,,0,0,0,,....
+Dialogue: 0,0:50:30.03,0:50:32.03,Default,,0,0,0,,
+Dialogue: 0,0:50:32.03,0:50:34.03,Default,,0,0,0,,De fapt, cred că trebuie să
+Dialogue: 0,0:50:34.03,0:50:36.03,Default,,0,0,0,,mergem până acolo să zicem că
+Dialogue: 0,0:50:36.03,0:50:38.03,Default,,0,0,0,,în general, majoritate creștinilor
+Dialogue: 0,0:50:38.03,0:50:40.03,Default,,0,0,0,,ar spune că din cauza
+Dialogue: 0,0:50:40.03,0:50:42.03,Default,,0,0,0,,mândriei lor sau..
+Dialogue: 0,0:50:42.03,0:50:44.03,Default,,0,0,0,,din cauza încăpățânării lor,
+Dialogue: 0,0:50:44.03,0:50:46.03,Default,,0,0,0,,majoritatea am spune că
+Dialogue: 0,0:50:46.03,0:50:48.03,Default,,0,0,0,,cele mai bune lecții învățate
+Dialogue: 0,0:50:48.03,0:50:51.05,Default,,0,0,0,,au venit prin ceva dificultăți
+Dialogue: 0,0:50:51.05,0:50:53.05,Default,,0,0,0,,în viață care ne-au trezit.
+Dialogue: 0,0:50:53.05,0:50:55.50,Default,,0,0,0,,Dacă ceva nu..
+Dialogue: 0,0:50:55.50,0:50:58.00,Default,,0,0,0,,Sincer vorbind, dacă ai 
+Dialogue: 0,0:50:58.00,0:51:00.26,Default,,0,0,0,,o viață nemaipomenită și toate merg strună
+Dialogue: 0,0:51:00.26,0:51:01.63,Default,,0,0,0,,vei fi superfial,
+Dialogue: 0,0:51:01.63,0:51:03.63,Default,,0,0,0,,nu vei ști multe despre propriile
+Dialogue: 0,0:51:03.63,0:51:05.16,Default,,0,0,0,,puncte tari și slabe,
+Dialogue: 0,0:51:05.16,0:51:06.40,Default,,0,0,0,,îți vei asuma meritele, 
+Dialogue: 0,0:51:06.40,0:51:08.40,Default,,0,0,0,,căci ăsta e lucrul firesc făcut de inimă
+Dialogue: 0,0:51:08.40,0:51:09.96,Default,,0,0,0,,ne înușim lucrurile bune.
+Dialogue: 0,0:51:09.96,0:51:12.43,Default,,0,0,0,,Când se întâmplă ceva bun e pentru că suntem deștepți.
+Dialogue: 0,0:51:12.43,0:51:15.06,Default,,0,0,0,,Când e ceva rău, zicem "De ce lasă Dumnezeu asta?"
+Dialogue: 0,0:51:15.06,0:51:17.06,Default,,0,0,0,,
