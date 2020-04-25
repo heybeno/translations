@@ -14,10 +14,10 @@ Audio File: Pace-in-Vremurile-De-Suferinta-si-Incertitudine.mp4
 Video File: Pace-in-Vremurile-De-Suferinta-si-Incertitudine.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 1024
-Active Line: 1048
-Video Position: 95721
+Video Zoom Percent: 0.625000
+Scroll Position: 1066
+Active Line: 1082
+Video Position: 99223
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1066,11 +1066,45 @@ Dialogue: 0,0:52:44.63,0:52:46.63,Default,,0,0,0,,La fel cum aurul e trecut prin
 Dialogue: 0,0:52:46.63,0:52:50.00,Default,,0,0,0,,Deci e... groaznic de rău
 Dialogue: 0,0:52:50.00,0:52:52.00,Default,,0,0,0,,ca oamenii să spună "Dacă sunt creștin
 Dialogue: 0,0:52:52.00,0:52:54.23,Default,,0,0,0,,Dumnezeu nu va îngadui lucruri rele."
-Dialogue: 0,0:52:54.23,0:52:56.63,Default,,0,0,0,,Ele vor veni. El poate și are și scop în asta. 
+Dialogue: 0,0:52:54.23,0:52:56.63,Default,,0,0,0,,Ele vor veni. El poate și are și scop în asta.
 Dialogue: 0,0:52:56.63,0:52:58.93,Default,,0,0,0,,Dacă ești creștin există mereu un motiv.
 Dialogue: 0,0:52:58.93,0:53:00.20,Default,,0,0,0,,Chiar dacă nu îl vezi
 Dialogue: 0,0:53:00.20,0:53:02.86,Default,,0,0,0,,și nu îl vezi de partea asta a Raiului.
 Dialogue: 0,0:53:02.86,0:53:06.60,Default,,0,0,0,,Uh, ok. Din nou, legat de asta,
 Dialogue: 0,0:53:06.60,0:53:09.33,Default,,0,0,0,,Deci...una din întrebări
 Dialogue: 0,0:53:09.33,0:53:10.70,Default,,0,0,0,,spune așa
-Dialogue: 0,0:53:10.70,0:53:12.70,Default,,0,0,0,,
+Dialogue: 0,0:53:10.70,0:53:13.56,Default,,0,0,0,,{\i1}"Dacă adoptăm un punct de vedere din lume ,\i0}
+Dialogue: 0,0:53:13.56,0:53:16.22,Default,,0,0,0,,- sau o religie ca și creștinismul -
+Dialogue: 0,0:53:16.22,0:53:19.50,Default,,0,0,0,,{\i1}să-l adoptăm pentru-că e folositor în a ne ajuta cu suferința?{\i0}
+Dialogue: 0,0:53:19.50,0:53:22.04,Default,,0,0,0,,{\i1}Sau pentru-că este adevărat?"{\i0}
+Dialogue: 0,0:53:22.04,0:53:23.22,Default,,0,0,0,,Și în legătură cu asta, 
+Dialogue: 0,0:53:23.22,0:53:25.22,Default,,0,0,0,,{\i1}Am putea ști dacă un lucru este adevărat,{\i0}
+Dialogue: 0,0:53:25.22,0:53:28.86,Default,,0,0,0,,{\i1}sau doar că este mai utilitar{\i0}
+Dialogue: 0,0:53:28.86,0:53:32.64,Default,,0,0,0,,{\i1}în această lume grea în comparație cu altele?"{\i0}
+Dialogue: 0,0:53:32.64,0:53:35.82,Default,,0,0,0,,Este o întrebare foarte bună, mulțumesc!
+Dialogue: 0,0:53:35.82,0:53:37.82,Default,,0,0,0,,...
+Dialogue: 0,0:53:37.82,0:53:42.64,Default,,0,0,0,,Să nu credeți în ceva numai pentru-că pare folositor.
+Dialogue: 0,0:53:42.64,0:53:45.64,Default,,0,0,0,,De fapt, exemplul pe care l-am dat mai înainte:
+Dialogue: 0,0:53:45.64,0:53:48.82,Default,,0,0,0,,Dacă Dumezeu s-ar fi arătat lui Iov și i-ar fi spus:
+Dialogue: 0,0:53:48.82,0:53:51.00,Default,,0,0,0,,{\i1}"Dacă reziști și ai răbdare în suferință,{\i0}
+Dialogue: 0,0:53:51.00,0:53:54.14,Default,,0,0,0,,{\i1}într-o zi vei fi foarte faimos în istorie."{\i0}
+Dialogue: 0,0:53:54.14,0:53:57.18,Default,,0,0,0,,Atunci, Dumnezeu ar fi subminat
+Dialogue: 0,0:53:57.18,0:54:00.00,Default,,0,0,0,,ideea că Iov a rămas credincios.
+Dialogue: 0,0:54:00.00,0:54:06.14,Default,,0,0,0,,Iov ar fi putut să aspire la o ambițe egoistă.
+Dialogue: 0,0:54:06.14,0:54:09.72,Default,,0,0,0,,Deci acest lucru înseamnă că dacă
+Dialogue: 0,0:54:09.72,0:54:12.74,Default,,0,0,0,,alegi creștinismul doar pentr-că tu crezi că e folositor,
+Dialogue: 0,0:54:12.74,0:54:14.74,Default,,0,0,0,,de fapt nu iți va fi folositor.
+Dialogue: 0,0:54:14.74,0:54:16.74,Default,,0,0,0,,...
+Dialogue: 0,0:54:16.74,0:54:20.20,Default,,0,0,0,,Lucrul remarcabil în creștinism este cănd
+Dialogue: 0,0:54:20.20,0:54:23.98,Default,,0,0,0,,spunem: {\i1}"Nu fac așa pentru-că imi este de folos, ci pentru-că e adevărat!"{\i0}
+Dialogue: 0,0:54:23.98,0:54:28.44,Default,,0,0,0,,Cred că la asta s-a referit întrebarea. Cam asta ar fi implicația.
+Dialogue: 0,0:54:28.44,0:54:31.76,Default,,0,0,0,,Dacă creștinismul este adevărat, atunci îți va fi de folos.
+Dialogue: 0,0:54:31.76,0:54:34.86,Default,,0,0,0,,Nu crede pentru-că îți este de folos, ci pentru-că e adevărat!
+Dialogue: 0,0:54:34.86,0:54:40.14,Default,,0,0,0,,Acum, întrădevăr, de ce am petrecut o seară întreagă
+Dialogue: 0,0:54:40.14,0:54:44.90,Default,,0,0,0,,și nu am vorbit de faptul ca creștinismul e adevărat, ci că e plin de resurse?
+Dialogue: 0,0:54:44.90,0:54:46.40,Default,,0,0,0,,Răspunsul e că
+Dialogue: 0,0:54:46.40,0:54:52.32,Default,,0,0,0,,eu cred că până nu vezi resursele din creștinism,
+Dialogue: 0,0:54:52.32,0:54:56.18,Default,,0,0,0,,nu îți faci timpul necesar ca să vezi dacă e adevărat.
+Dialogue: 0,0:54:56.18,0:54:58.96,Default,,0,0,0,,Sau, după cum spune Blaise Pascal
+Dialogue: 0,0:54:58.96,0:55:03.34,Default,,0,0,0,,- Pascal, matematicianul francez de renume -
+Dialogue: 0,0:55:03.34,0:55:07.46,Default,,0,0,0,,A scris Pensées, o carte cu un fel de proverbe din creștinism
