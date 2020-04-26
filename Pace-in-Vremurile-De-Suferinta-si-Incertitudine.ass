@@ -15,9 +15,9 @@ Video File: Pace-in-Vremurile-De-Suferinta-si-Incertitudine.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 1066
-Active Line: 1082
-Video Position: 99223
+Scroll Position: 1077
+Active Line: 1100
+Video Position: 100925
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1077,7 +1077,7 @@ Dialogue: 0,0:53:10.70,0:53:13.56,Default,,0,0,0,,{\i1}"Dacă adoptăm un punct 
 Dialogue: 0,0:53:13.56,0:53:16.22,Default,,0,0,0,,- sau o religie ca și creștinismul -
 Dialogue: 0,0:53:16.22,0:53:19.50,Default,,0,0,0,,{\i1}să-l adoptăm pentru-că e folositor în a ne ajuta cu suferința?{\i0}
 Dialogue: 0,0:53:19.50,0:53:22.04,Default,,0,0,0,,{\i1}Sau pentru-că este adevărat?"{\i0}
-Dialogue: 0,0:53:22.04,0:53:23.22,Default,,0,0,0,,Și în legătură cu asta, 
+Dialogue: 0,0:53:22.04,0:53:23.22,Default,,0,0,0,,Și în legătură cu asta,
 Dialogue: 0,0:53:23.22,0:53:25.22,Default,,0,0,0,,{\i1}Am putea ști dacă un lucru este adevărat,{\i0}
 Dialogue: 0,0:53:25.22,0:53:28.86,Default,,0,0,0,,{\i1}sau doar că este mai utilitar{\i0}
 Dialogue: 0,0:53:28.86,0:53:32.64,Default,,0,0,0,,{\i1}în această lume grea în comparație cu altele?"{\i0}
@@ -1107,4 +1107,22 @@ Dialogue: 0,0:54:46.40,0:54:52.32,Default,,0,0,0,,eu cred că până nu vezi res
 Dialogue: 0,0:54:52.32,0:54:56.18,Default,,0,0,0,,nu îți faci timpul necesar ca să vezi dacă e adevărat.
 Dialogue: 0,0:54:56.18,0:54:58.96,Default,,0,0,0,,Sau, după cum spune Blaise Pascal
 Dialogue: 0,0:54:58.96,0:55:03.34,Default,,0,0,0,,- Pascal, matematicianul francez de renume -
-Dialogue: 0,0:55:03.34,0:55:07.46,Default,,0,0,0,,A scris Pensées, o carte cu un fel de proverbe din creștinism
+Dialogue: 0,0:55:03.34,0:55:07.46,Default,,0,0,0,,A scris Pensées, o carte cu un fel de proverbe din creștinism.
+Dialogue: 0,0:55:07.46,0:55:09.76,Default,,0,0,0,,Este un loc unde a scris
+Dialogue: 0,0:55:09.76,0:55:13.52,Default,,0,0,0,,{\i1}"Oamenii vor trebui să dorească ca să vie adevărat Creștinismul,{\i0}
+Dialogue: 0,0:55:13.52,0:55:16.14,Default,,0,0,0,,{\i1}înainte a afla că este adevărat."{\i0}
+Dialogue: 0,0:55:16.14,0:55:19.34,Default,,0,0,0,,Si puteți spune: {\i1}"Dar asta nu e o dorință deșartă?"{\i0}
+Dialogue: 0,0:55:19.34,0:55:21.96,Default,,0,0,0,,Da, trebuie să fim atenți în privința asta, insă
+Dialogue: 0,0:55:21.96,0:55:25.74,Default,,0,0,0,,de ce ne-am face timp pentru-ca să vedem dacă este adevărat
+Dialogue: 0,0:55:25.74,0:55:28.44,Default,,0,0,0,,dacă nu  am vedea lucrul acesta relevant?
+Dialogue: 0,0:55:28.44,0:55:32.18,Default,,0,0,0,,Eu aș spune că în acest moment în viața mea,
+Dialogue: 0,0:55:32.18,0:55:35.90,Default,,0,0,0,,când mă uit la cultura americană de acum
+Dialogue: 0,0:55:35.90,0:55:39.90,Default,,0,0,0,,majoritatea oamenilor nu știu de resursele oferite de creștinism.
+Dialogue: 0,0:55:39.90,0:55:43.40,Default,,0,0,0,,Însă dacă le arăt, nu vreau să-mi spună: {\i1}"OK, dă-mi-le atunci!"{\i0}
+Dialogue: 0,0:55:43.40,0:55:45.30,Default,,0,0,0,,Eu aș spune: {\i1}așteaptă un pic!{\i0}
+Dialogue: 0,0:55:45.30,0:55:48.74,Default,,0,0,0,,vor fi momente în care ți se pare că creștinismul nu are sens
+Dialogue: 0,0:55:48.74,0:55:52.08,Default,,0,0,0,,și în acele momente, ceea ce te va ajuta este să știi că este adevărat
+Dialogue: 0,0:55:52.08,0:55:54.90,Default,,0,0,0,,indiferent dacă este profitabil sau nu.
+Dialogue: 0,0:55:54.90,0:55:57.36,Default,,0,0,0,,De fapt, ironia este
+Dialogue: 0,0:55:57.36,0:56:00.48,Default,,0,0,0,,faptul ca pentru-că Iov
+Dialogue: 0,0:56:00.48,0:56:03.18,Default,,0,0,0,,nu a rămas răbdător
