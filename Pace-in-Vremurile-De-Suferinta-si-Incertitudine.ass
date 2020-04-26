@@ -15,9 +15,9 @@ Video File: Pace-in-Vremurile-De-Suferinta-si-Incertitudine.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 1077
-Active Line: 1100
-Video Position: 100925
+Scroll Position: 1131
+Active Line: 1150
+Video Position: 104945
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1114,7 +1114,7 @@ Dialogue: 0,0:55:13.52,0:55:16.14,Default,,0,0,0,,{\i1}înainte a afla că este 
 Dialogue: 0,0:55:16.14,0:55:19.34,Default,,0,0,0,,Si puteți spune: {\i1}"Dar asta nu e o dorință deșartă?"{\i0}
 Dialogue: 0,0:55:19.34,0:55:21.96,Default,,0,0,0,,Da, trebuie să fim atenți în privința asta, insă
 Dialogue: 0,0:55:21.96,0:55:25.74,Default,,0,0,0,,de ce ne-am face timp pentru-ca să vedem dacă este adevărat
-Dialogue: 0,0:55:25.74,0:55:28.44,Default,,0,0,0,,dacă nu  am vedea lucrul acesta relevant?
+Dialogue: 0,0:55:25.74,0:55:28.44,Default,,0,0,0,,dacă nu am vedea lucrul acesta relevant?
 Dialogue: 0,0:55:28.44,0:55:32.18,Default,,0,0,0,,Eu aș spune că în acest moment în viața mea,
 Dialogue: 0,0:55:32.18,0:55:35.90,Default,,0,0,0,,când mă uit la cultura americană de acum
 Dialogue: 0,0:55:35.90,0:55:39.90,Default,,0,0,0,,majoritatea oamenilor nu știu de resursele oferite de creștinism.
@@ -1124,5 +1124,55 @@ Dialogue: 0,0:55:45.30,0:55:48.74,Default,,0,0,0,,vor fi momente în care ți se
 Dialogue: 0,0:55:48.74,0:55:52.08,Default,,0,0,0,,și în acele momente, ceea ce te va ajuta este să știi că este adevărat
 Dialogue: 0,0:55:52.08,0:55:54.90,Default,,0,0,0,,indiferent dacă este profitabil sau nu.
 Dialogue: 0,0:55:54.90,0:55:57.36,Default,,0,0,0,,De fapt, ironia este
-Dialogue: 0,0:55:57.36,0:56:00.48,Default,,0,0,0,,faptul ca pentru-că Iov
+Dialogue: 0,0:55:57.36,0:56:00.48,Default,,0,0,0,,faptul că pentru-că Iov
 Dialogue: 0,0:56:00.48,0:56:03.18,Default,,0,0,0,,nu a rămas răbdător
+Dialogue: 0,0:56:03.18,0:56:06.35,Default,,0,0,0,,um...dintr-o motivație egoistă
+Dialogue: 0,0:56:06.35,0:56:08.35,Default,,0,0,0,,ci pentru că Dumnezeu e Dumnezeu
+Dialogue: 0,0:56:08.35,0:56:10.53,Default,,0,0,0,,și îi datorez asta lui Dumnezeu.
+Dialogue: 0,0:56:10.53,0:56:13.10,Default,,0,0,0,,Asta e ce l-a făcut pe Iov un mare om.
+Dialogue: 0,0:56:13.10,0:56:16.06,Default,,0,0,0,,Dacă ar fi zis "O să mă încred în Dumnezeu ca să fiu cineva"
+Dialogue: 0,0:56:16.06,0:56:19.46,Default,,0,0,0,,nu ar fi fost cineva mare, ci un om mic și egoist.
+Dialogue: 0,0:56:19.46,0:56:21.70,Default,,0,0,0,,Pentru că a vrut să se încreadă în Dumnezeu
+Dialogue: 0,0:56:21.70,0:56:24.60,Default,,0,0,0,,și nu să îi pese dacă ajunge {\i1}cineva{\i0}, asta l-a făcut mare.
+Dialogue: 0,0:56:24.60,0:56:27.50,Default,,0,0,0,,Așa că relația dintre adevăr și relevanță este 
+Dialogue: 0,0:56:27.50,0:56:30.40,Default,,0,0,0,,importantă. Trebuie să le vezi pe amândouă.
+Dialogue: 0,0:56:30.40,0:56:33.50,Default,,0,0,0,,Majoritatea vedem mai întâi relevanța înaintea adevărului
+Dialogue: 0,0:56:33.50,0:56:35.55,Default,,0,0,0,,altfel nu suntem motivați să aflăm adevărul.
+Dialogue: 0,0:56:35.55,0:56:37.55,Default,,0,0,0,,Dar odată ce-l găsim, știm că e adevărat
+Dialogue: 0,0:56:37.55,0:56:40.30,Default,,0,0,0,,indiferent dacă într-o perioadă anume
+Dialogue: 0,0:56:40.30,0:56:42.30,Default,,0,0,0,,moment sau într-un an este relevant.
+Dialogue: 0,0:56:42.30,0:56:44.30,Default,,0,0,0,,Ca o continuare la asta..
+Dialogue: 0,0:56:44.30,0:56:46.30,Default,,0,0,0,,O întrebare primită acum.
+Dialogue: 0,0:56:46.30,0:56:50.50,Default,,0,0,0,,"Mi se pare că oamenii sunt mai predispuși să descopere"
+Dialogue: 0,0:56:50.50,0:56:52.50,Default,,0,0,0,,"creștinismul prin suferință."
+Dialogue: 0,0:56:52.50,0:56:56.10,Default,,0,0,0,,"Cei care se mulțumesc cu a o duce bine în viață"
+Dialogue: 0,0:56:56.10,0:56:59.70,Default,,0,0,0,,"sunt mai puțin predispuși să caute ceva să umple golul."
+Dialogue: 0,0:56:59.70,0:57:01.70,Default,,0,0,0,,"Sunteți deacord sau nu?"
+Dialogue: 0,0:57:01.70,0:57:03.70,Default,,0,0,0,,Da...dar vreau să... Da. 
+Dialogue: 0,0:57:03.70,0:57:05.70,Default,,0,0,0,,Urăsc să spun "Da, {\i1}dar{\i0}.." însă
+Dialogue: 0,0:57:05.70,0:57:08.13,Default,,0,0,0,,Da, dar..am văzut oameni
+Dialogue: 0,0:57:08.13,0:57:12.83,Default,,0,0,0,,La începuturile sale, în biserica "Izbăvitorul" am avut oameni care sufereau.
+Dialogue: 0,0:57:12.83,0:57:16.13,Default,,0,0,0,,Apropo, în 1991 era o criză groaznică.
+Dialogue: 0,0:57:16.13,0:57:19.70,Default,,0,0,0,,A început cu căderea bursei de valori în octombrie 1987,
+Dialogue: 0,0:57:19.70,0:57:22.20,Default,,0,0,0,,adică luna în care am început să vizitez,
+Dialogue: 0,0:57:22.20,0:57:25.10,Default,,0,0,0,,să încep plantarea unei biserici.
+Dialogue: 0,0:57:25.10,0:57:29.00,Default,,0,0,0,,Deci luna în care am început, bursa de valori pierduse..nu știu căt.
+Dialogue: 0,0:57:29.00,0:57:32.60,Default,,0,0,0,,Iar când am început biserica erau mulți fără locuri de muncă.
+Dialogue: 0,0:57:32.60,0:57:35.20,Default,,0,0,0,,Și desigur erau unii care veneau și spuneau
+Dialogue: 0,0:57:35.20,0:57:37.20,Default,,0,0,0,,"Sufăr. Mi-e ego-ul rănit."
+Dialogue: 0,0:57:37.20,0:57:38.36,Default,,0,0,0,,Bine, ei n-o spuneau așa.
+Dialogue: 0,0:57:38.36,0:57:41.93,Default,,0,0,0,,Ego-ul lor suferea pentru că nu credeau că
+Dialogue: 0,0:57:41.93,0:57:44.30,Default,,0,0,0,,își vor recupera cariera.
+Dialogue: 0,0:57:44.30,0:57:47.06,Default,,0,0,0,,Și aveau nevoie de o comunitate și de Dumnezeu.
+Dialogue: 0,0:57:47.06,0:57:52.45,Default,,0,0,0,,Iar...unii dintre ei s-au implicat și păreau a crede.
+Dialogue: 0,0:57:52.45,0:57:56.73,Default,,0,0,0,,Dar când viețile lor au început să se îmbunătățească, au plecat.
+Dialogue: 0,0:57:56.73,0:57:59.75,Default,,0,0,0,,Isus chiar vorbește despre..{\i1}asta
+Dialogue: 0,0:57:59.75,0:58:02.33,Default,,0,0,0,,în Pilda sămănătorului
+Dialogue: 0,0:58:02.33,0:58:05.20,Default,,0,0,0,,și spune despre genul de om care
+Dialogue: 0,0:58:05.20,0:58:06.80,Default,,0,0,0,,
+Dialogue: 0,0:58:06.80,0:58:10.26,Default,,0,0,0,,..care începe bine, dar după după dispare.
+Dialogue: 0,0:58:10.26,0:58:11.76,Default,,0,0,0,,Și în cazul ăsta uite ce cred.
+Dialogue: 0,0:58:11.76,0:58:14.16,Default,,0,0,0,,Cred că au realizat relevanța creștinismului,
+Dialogue: 0,0:58:14.16,0:58:16.40,Default,,0,0,0,,dar nu au depus efortul intelectual
+Dialogue: 0,0:58:16.40,0:58:18.16,Default,,0,0,0,,ca să decidă dacă e adevărat.
+Dialogue: 0,0:58:18.16,0:58:20.16,Default,,0,0,0,,
