@@ -14,10 +14,10 @@ Audio File: Pace-in-Vremurile-De-Suferinta-si-Incertitudine.mp4
 Video File: Pace-in-Vremurile-De-Suferinta-si-Incertitudine.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 1133
-Active Line: 1152
-Video Position: 105164
+Video Zoom Percent: 0.875000
+Scroll Position: 1182
+Active Line: 1195
+Video Position: 110561
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1095,7 +1095,7 @@ Dialogue: 0,0:54:06.14,0:54:09.72,Default,,0,0,0,,Deci acest lucru înseamnă c�
 Dialogue: 0,0:54:09.72,0:54:12.74,Default,,0,0,0,,alegi creștinismul doar pentr-că tu crezi că e folositor,
 Dialogue: 0,0:54:12.74,0:54:14.74,Default,,0,0,0,,de fapt nu iți va fi folositor.
 Dialogue: 0,0:54:14.74,0:54:16.74,Default,,0,0,0,,...
-Dialogue: 0,0:54:16.74,0:54:20.20,Default,,0,0,0,,Lucrul remarcabil în creștinism este cănd
+Dialogue: 0,0:54:16.74,0:54:20.20,Default,,0,0,0,,Lucrul remarcabil în creștinism este când
 Dialogue: 0,0:54:20.20,0:54:23.98,Default,,0,0,0,,spunem: {\i1}"Nu fac așa pentru-că imi este de folos, ci pentru-că e adevărat!"{\i0}
 Dialogue: 0,0:54:23.98,0:54:28.44,Default,,0,0,0,,Cred că la asta s-a referit întrebarea. Cam asta ar fi implicația.
 Dialogue: 0,0:54:28.44,0:54:31.76,Default,,0,0,0,,Dacă creștinismul este adevărat, atunci îți va fi de folos.
@@ -1110,9 +1110,9 @@ Dialogue: 0,0:54:58.96,0:55:03.34,Default,,0,0,0,,- Pascal, matematicianul franc
 Dialogue: 0,0:55:03.34,0:55:07.46,Default,,0,0,0,,A scris Pensées, o carte cu un fel de proverbe din creștinism.
 Dialogue: 0,0:55:07.46,0:55:09.76,Default,,0,0,0,,Este un loc unde a scris
 Dialogue: 0,0:55:09.76,0:55:13.52,Default,,0,0,0,,{\i1}"Oamenii vor trebui să dorească ca să vie adevărat Creștinismul,{\i0}
-Dialogue: 0,0:55:13.52,0:55:16.14,Default,,0,0,0,,{\i1}înainte a afla că este adevărat."{\i0}
+Dialogue: 0,0:55:13.52,0:55:16.14,Default,,0,0,0,,{\i1}înainte de a afla că este adevărat."{\i0}
 Dialogue: 0,0:55:16.14,0:55:19.34,Default,,0,0,0,,Si puteți spune: {\i1}"Dar asta nu e o dorință deșartă?"{\i0}
-Dialogue: 0,0:55:19.34,0:55:21.96,Default,,0,0,0,,Da, trebuie să fim atenți în privința asta, insă
+Dialogue: 0,0:55:19.34,0:55:21.96,Default,,0,0,0,,Da, trebuie să fim atenți în privința asta, însă
 Dialogue: 0,0:55:21.96,0:55:25.74,Default,,0,0,0,,de ce ne-am face timp pentru-ca să vedem dacă este adevărat
 Dialogue: 0,0:55:25.74,0:55:28.44,Default,,0,0,0,,dacă nu am vedea lucrul acesta relevant?
 Dialogue: 0,0:55:28.44,0:55:32.18,Default,,0,0,0,,Eu aș spune că în acest moment în viața mea,
@@ -1130,7 +1130,7 @@ Dialogue: 0,0:56:03.18,0:56:06.35,Default,,0,0,0,,um...dintr-o motivație egoist
 Dialogue: 0,0:56:06.35,0:56:08.35,Default,,0,0,0,,ci pentru că Dumnezeu e Dumnezeu
 Dialogue: 0,0:56:08.35,0:56:10.53,Default,,0,0,0,,și îi datorez asta lui Dumnezeu.
 Dialogue: 0,0:56:10.53,0:56:13.10,Default,,0,0,0,,Asta e ce l-a făcut pe Iov un mare om.
-Dialogue: 0,0:56:13.10,0:56:16.06,Default,,0,0,0,,Dacă ar fi zis "O să mă încred în Dumnezeu ca să fiu cineva"
+Dialogue: 0,0:56:13.10,0:56:16.06,Default,,0,0,0,,Dacă ar fi zis "Am să mă încred în Dumnezeu ca să fiu cineva"
 Dialogue: 0,0:56:16.06,0:56:19.46,Default,,0,0,0,,nu ar fi fost cineva mare, ci un om mic și egoist.
 Dialogue: 0,0:56:19.46,0:56:21.70,Default,,0,0,0,,Pentru că a vrut să se încreadă în Dumnezeu
 Dialogue: 0,0:56:21.70,0:56:24.60,Default,,0,0,0,,și nu să îi pese dacă ajunge {\i1}cineva{\i0}, asta l-a făcut mare.
@@ -1177,4 +1177,47 @@ Dialogue: 0,0:58:14.16,0:58:16.40,Default,,0,0,0,,dar nu au depus efortul intele
 Dialogue: 0,0:58:16.40,0:58:18.16,Default,,0,0,0,,ca să decidă dacă e adevărat.
 Dialogue: 0,0:58:18.16,0:58:20.16,Default,,0,0,0,,
 Dialogue: 0,0:58:20.16,0:58:23.60,Default,,0,0,0,,Ar trebui să fac o precizare, căci nu știu când mai apuc.
-Dialogue: 0,0:58:23.60,0:58:25.60,Default,,0,0,0,,
+Dialogue: 0,0:58:23.60,0:58:27.18,Default,,0,0,0,,Cel mai des, felul cum funcționează
+Dialogue: 0,0:58:27.18,0:58:30.30,Default,,0,0,0,,este că avem o nevoie, așa cum ai precizat.
+Dialogue: 0,0:58:30.30,0:58:34.86,Default,,0,0,0,,Se întâmplă ceva și spui: "Credeam că mă pot descurca singur ... însa nu pot".
+Dialogue: 0,0:58:34.86,0:58:39.94,Default,,0,0,0,,Dacă nu scăpăm de iluzia că "ne putem descurca singuri", de ce am avea nevoie de Dumnezeu?
+Dialogue: 0,0:58:39.94,0:58:43.08,Default,,0,0,0,,Deci se întâmplă ceva și ne doboară iluzia,
+Dialogue: 0,0:58:43.08,0:58:45.31,Default,,0,0,0,,apoi vedem relevanța creștinismului,
+Dialogue: 0,0:58:45.31,0:58:50.34,Default,,0,0,0,,și apoi ne facem timp să ne uităm în biblie,
+Dialogue: 0,0:58:50.34,0:58:53.65,Default,,0,0,0,,să ne luptăm cu întrebări grele, ne uitam la dovezi,
+Dialogue: 0,0:58:53.65,0:58:56.91,Default,,0,0,0,,și să decidem că este nu numai folositor, dar și adevărat.
+Dialogue: 0,0:58:56.91,0:59:00.68,Default,,0,0,0,,După ce descoperi că este adevărat, și ai o relație cu Dumnezeu,
+Dialogue: 0,0:59:00.68,0:59:03.02,Default,,0,0,0,,începi să ai o experiență.
+Dialogue: 0,0:59:03.02,0:59:06.80,Default,,0,0,0,,Este dificil de explicat din exterior,
+Dialogue: 0,0:59:06.80,0:59:10.68,Default,,0,0,0,,însă realitatea lui Dumnezeu devine adevărată pentru tine.
+Dialogue: 0,0:59:10.68,0:59:14.74,Default,,0,0,0,, în timp ce citești, te gândești și te rogi ... începi să îi simți prezența.
+Dialogue: 0,0:59:14.74,0:59:17.25,Default,,0,0,0,,îți descoperă lucruri și te iluminează.
+Dialogue: 0,0:59:17.25,0:59:19.94,Default,,0,0,0,,Deci de la relevanță, la adevăr și apoi experiență,
+Dialogue: 0,0:59:19.94,0:59:25.37,Default,,0,0,0,,sunt momente în care creștinismul nu dă roadă, și pare că nu merge pentru tine.
+Dialogue: 0,0:59:25.37,0:59:30.85,Default,,0,0,0,,Insă amândouă: experiența în realitatea lui Dumnezeu și convingerea intelectuală
+Dialogue: 0,0:59:30.85,0:59:34.51,Default,,0,0,0,,ne ajută să rezistăm, până vedem relevanța din nou.
+Dialogue: 0,0:59:34.51,0:59:38.68,Default,,0,0,0,,Deci, relevanța, apoi adevărul, și apoi experiența.
+Dialogue: 0,0:59:38.68,0:59:43.14,Default,,0,0,0,,Aceste 3 lucruri împreună fac creștinismul să pară ...
+Dialogue: 0,0:59:43.14,0:59:48.45,Default,,0,0,0,,um ... cu alte cuvinte ...
+Dialogue: 0,0:59:48.45,0:59:54.22,Default,,0,0,0,,plauzibilitatea și adevărul în creștinism consistă în aceste 3 lucruri:
+Dialogue: 0,0:59:54.22,0:59:58.28,Default,,0,0,0,,ani de-a rândul în a vedea relevanța creștinismului și resursele pentru viață
+Dialogue: 0,0:59:58.28,1:00:02.05,Default,,0,0,0,,ani întregi de gândit la obiecții și argumente,
+Dialogue: 0,1:00:02.05,1:00:05.02,Default,,0,0,0,,și ani întregi de experiență și rugăciune la un Dumnezeu ...
+Dialogue: 0,1:00:05.02,1:00:07.82,Default,,0,0,0,,ce nu le pot explica decât că este un Dumnezeu.
+Dialogue: 0,1:00:07.82,1:00:12.85,Default,,0,0,0,,Punem aceste 3 lucruri împreună și avem o fundație solidă pentru credință.
+Dialogue: 0,1:00:12.85,1:00:20.45,Default,,0,0,0,,Acum schimbăm subiectul un pic, în legătură cu niște lucruri pe care le-ai spus mai înainte,
+Dialogue: 0,1:00:20.45,1:00:24.00,Default,,0,0,0,,Avem câteva întrebări, una în special este așa:
+Dialogue: 0,1:00:24.00,1:00:27.14,Default,,0,0,0,,{\i1}"Nu înțeleg sensul învierii,{\i0}
+Dialogue: 0,1:00:27.14,1:00:31.08,Default,,0,0,0,,{\i1}în mod special, ce anume este refăcut după înviere,{\i0}
+Dialogue: 0,1:00:31.08,1:00:34.45,Default,,0,0,0,,{\i1}în lumina suferinței din viața aceasta."{\i0}
+Dialogue: 0,1:00:34.45,1:00:36.45,Default,,0,0,0,,Poți să mai elaborezi un pic?
+Dialogue: 0,1:00:36.45,1:00:38.51,Default,,0,0,0,,Bine, da ...
+Dialogue: 0,1:00:38.51,1:00:45.60,Default,,0,0,0,,în primul rând ... (sunet de tuse) ... scuze ... nu știu cum sună asta în microfon
+Dialogue: 0,1:00:45.60,1:00:47.60,Default,,0,0,0,,Um...
+Dialogue: 0,1:00:47.60,1:00:53.31,Default,,0,0,0,,Trupul înviat a lui Isus, Isus este primul cu un trup nou, așa ne spune biblia.
+Dialogue: 0,1:00:53.31,1:00:59.20,Default,,0,0,0,,Asta înseamnă că, Isus înviat ne arată cum vom fi și noi în viitor.
+Dialogue: 0,1:00:59.20,1:01:02.74,Default,,0,0,0,,Acum, într-un fel problema este că
+Dialogue: 0,1:01:02.74,1:01:07.08,Default,,0,0,0,,Isus a fost înviat înainte de refacerea restului lumii.
+Dialogue: 0,1:01:07.08,1:01:09.08,Default,,0,0,0,,In cartea Romani 8 (din bibile) spune: 
+Dialogue: 0,1:01:09.08,1:01:14.00,Default,,0,0,0,,{\i1}"că şi creaţia însăşi va fi eliberată din sclavia degradării."{\i0}
+Dialogue: 0,1:01:14.00,1:01:20.68,Default,,0,0,0,,Chiar și natura va avea imperfecțiunea dată la o parte într-un fel
