@@ -14,10 +14,10 @@ Audio File: Pace-in-Vremurile-De-Suferinta-si-Incertitudine.mp4
 Video File: Pace-in-Vremurile-De-Suferinta-si-Incertitudine.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.600000
-Scroll Position: 1328
-Active Line: 1348
-Video Position: 123704
+Video Zoom Percent: 0.750000
+Scroll Position: 1355
+Active Line: 1373
+Video Position: 126720
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1355,7 +1355,7 @@ Dialogue: 0,1:07:36.70,1:07:38.70,Default,,0,0,0,,
 Dialogue: 0,1:07:38.70,1:07:41.13,Default,,0,0,0,,Noi credem că Dumnezeu e în control, dar el nu
 Dialogue: 0,1:07:41.13,1:07:44.30,Default,,0,0,0,,{\i1}voiește{\i0} lucruri rele cum le voiește pe cele bune.
 Dialogue: 0,1:07:44.30,1:07:48.80,Default,,0,0,0,,De fapt sunt teolog reformat infralapsarian, dar hai sa nu mergem acolo.
-Dialogue: 0,1:07:48.80,1:07:50.20,Default,,0,0,0,,Nu, nu intrăm în asta. 
+Dialogue: 0,1:07:48.80,1:07:50.20,Default,,0,0,0,,Nu, nu intrăm în asta.
 Dialogue: 0,1:07:50.20,1:07:52.20,Default,,0,0,0,,Oricum, ideea e că..
 Dialogue: 0,1:07:52.20,1:07:56.06,Default,,0,0,0,,înțeleg lupta, bineînțeles că o înțeleg..
 Dialogue: 0,1:07:56.06,1:07:58.56,Default,,0,0,0,,Citești Iov și vezi că ai voie să te simți așa
@@ -1368,9 +1368,34 @@ Dialogue: 0,1:08:14.23,1:08:16.50,Default,,0,0,0,,"De ce să cred într-un dumne
 Dialogue: 0,1:08:16.50,1:08:18.50,Default,,0,0,0,,Dar uite ce cred eu.
 Dialogue: 0,1:08:18.50,1:08:20.50,Default,,0,0,0,,Eu..
 Dialogue: 0,1:08:20.50,1:08:24.70,Default,,0,0,0,,Să crezi într-un dumnezeu care urăște suferința,
-Dialogue: 0,1:08:24.70,1:08:28.63,Default,,0,0,0,,care o permite pentru că spune că va aduce 
+Dialogue: 0,1:08:24.70,1:08:28.63,Default,,0,0,0,,care o permite pentru că spune că va aduce
 Dialogue: 0,1:08:28.63,1:08:31.16,Default,,0,0,0,,o glorie măreață și binele suprem pe termen lung,
 Dialogue: 0,1:08:31.16,1:08:34.43,Default,,0,0,0,,care spune "Crede-mă, văd lucruri pe care tu nu le poți vedea."
 Dialogue: 0,1:08:34.43,1:08:37.38,Default,,0,0,0,,Asta, în sfârșit, pe mine mă consolează.
 Dialogue: 0,1:08:37.38,1:08:41.53,Default,,0,0,0,,Deși, într-o zi oarecare, pot să mă simt la fel cum spune întrebarea.
-Dialogue: 0,1:08:41.53,1:08:43.53,Default,,0,0,0,,
+Dialogue: 0,1:08:42.34,1:08:44.74,Default,,0,0,0,,Deci, ai vorbit un pic despre Iov,
+Dialogue: 0,1:08:44.74,1:08:47.42,Default,,0,0,0,,acum, și mai înainte,
+Dialogue: 0,1:08:47.42,1:08:51.14,Default,,0,0,0,,Ceea ce ai spun în deschidere, e că
+Dialogue: 0,1:08:51.14,1:08:53.82,Default,,0,0,0,,multe pasaje din Iov sunt ca o rugăciune.
+Dialogue: 0,1:08:53.82,1:08:58.11,Default,,0,0,0,,El vorbește cu Dumnezeu în timpul suferinței, și deci
+Dialogue: 0,1:08:58.11,1:09:02.80,Default,,0,0,0,,întrebarea este: {\i1}"Care este rolul rugăciunii când e vorba de suferință?{\i0}
+Dialogue: 0,1:09:02.80,1:09:06.97,Default,,0,0,0,,și {\i1}"trebuie să ne rugăm ca Dumnezeu să ne de ia suferința?" {\i0}
+Dialogue: 0,1:09:06.97,1:09:10.97,Default,,0,0,0,,Mai am și o altă întrebare, dar hai să începem cu asta.
+Dialogue: 0,1:09:10.97,1:09:14.68,Default,,0,0,0,,Ok, avem un exemplu în Isus.
+Dialogue: 0,1:09:14.68,1:09:17.88,Default,,0,0,0,,O rugăciune foarte scurtă în gradina din Ghețismani.
+Dialogue: 0,1:09:17.88,1:09:22.17,Default,,0,0,0,,{\i1}Tată, dacă vrei, îndepărtează de la Mine paharul acesta!{\i0}
+Dialogue: 0,1:09:22.17,1:09:28.45,Default,,0,0,0,,Paharul, în limba semitică înseamnă o experiență,
+Dialogue: 0,1:09:28.45,1:09:30.51,Default,,0,0,0,,și de obicei o experiența rea.
+Dialogue: 0,1:09:30.51,1:09:34.17,Default,,0,0,0,,Deci când vorbim despre "paharul acesta",
+Dialogue: 0,1:09:34.17,1:09:36.80,Default,,0,0,0,,vorbim despre o experiența neplăcută.
+Dialogue: 0,1:09:36.80,1:09:40.51,Default,,0,0,0,,Și deci Isus, înainte de a purta crucea, spune
+Dialogue: 0,1:09:40.51,1:09:47.48,Default,,0,0,0,, - este foarte remarcabil -  {\i1}îndepărtează de la Mine paharul acesta!{\i0} 
+Dialogue: 0,1:09:47.48,1:09:49.88,Default,,0,0,0,,{\i1}"Totuşi facă-se nu voia Mea."{\i0}
+Dialogue: 0,1:09:49.88,1:09:53.60,Default,,0,0,0,,Deci aici avem balanța perfectă -Isus a fost omul perfect-
+Dialogue: 0,1:09:53.60,1:09:58.85,Default,,0,0,0,,Și deci el nu spune: {\i1}"Știi ce doamne, așa e soarta!"{\i0}
+Dialogue: 0,1:09:58.85,1:10:02.00,Default,,0,0,0,,{\i1}Totul este predestinat, nu are rost să pun întrebări.{\i0}
+Dialogue: 0,1:10:02.00,1:10:04.97,Default,,0,0,0,,Cred că este remarcabil, tu ce crezi Justin? 
+Dialogue: 0,1:10:04.97,1:10:09.02,Default,,0,0,0,,Este remarcabil pentru-că Isus era rănit.
+Dialogue: 0,1:10:09.02,1:10:13.65,Default,,0,0,0,,El era rănit și striga, el era o ființa omenească intr-adevăr.
+Dialogue: 0,1:10:13.65,1:10:15.88,Default,,0,0,0,,Și se înfricoșa
+Dialogue: 0,1:10:15.88,1:10:20.17,Default,,0,0,0,, în fața prospectului de a trece prin ceea ce avea de urmat
