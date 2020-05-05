@@ -15,9 +15,9 @@ Video File: Pace-in-Vremurile-De-Suferinta-si-Incertitudine.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.600000
-Scroll Position: 1411
-Active Line: 1431
-Video Position: 131456
+Scroll Position: 1444
+Active Line: 1464
+Video Position: 135036
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1406,7 +1406,7 @@ Dialogue: 0,1:10:28.30,1:10:30.30,Default,,0,0,0,,"Nu e nici o altă cale?.."
 Dialogue: 0,1:10:30.30,1:10:32.30,Default,,0,0,0,,"Este vre-un alt mod?"
 Dialogue: 0,1:10:32.30,1:10:35.00,Default,,0,0,0,,"Te rog...găsește alt mod, ca să nu trebuiască să fac asta."
 Dialogue: 0,1:10:35.00,1:10:37.06,Default,,0,0,0,,Dar spune după "Voia Ta, nu voia Mea."
-Dialogue: 0,1:10:37.06,1:10:38.76,Default,,0,0,0,,Exact așa a încheiat si Iov. 
+Dialogue: 0,1:10:37.06,1:10:38.76,Default,,0,0,0,,Exact așa a încheiat si Iov.
 Dialogue: 0,1:10:38.76,1:10:46.86,Default,,0,0,0,,Acum..Iov a petrecut 40.. 42 de capitole, scrise în pentametru iambic,
 Dialogue: 0,1:10:46.86,1:10:50.13,Default,,0,0,0,,vorbind și trecând de la una la alta.
 Dialogue: 0,1:10:50.13,1:10:52.13,Default,,0,0,0,,Iar Isus era perfect.
@@ -1432,10 +1432,10 @@ Dialogue: 0,1:11:33.00,1:11:35.96,Default,,0,0,0,,În prezentare ai vorbit despr
 Dialogue: 0,1:11:35.96,1:11:37.76,Default,,0,0,0,,plângi, dar ai încredere,
 Dialogue: 0,1:11:37.76,1:11:39.60,Default,,0,0,0,,roagă-te, dar gândește..speră.
 Dialogue: 0,1:11:39.60,1:11:44.13,Default,,0,0,0,,Toate lucrurile astea...presupun o credință - a crede în ceva.
-Dialogue: 0,1:11:44.13,1:11:47.56,Default,,0,0,0,,Deci, plângi {\i1}cuiva{\i0}, speri în {\i1}ceva{\i0}, 
+Dialogue: 0,1:11:44.13,1:11:47.56,Default,,0,0,0,,Deci, plângi {\i1}cuiva{\i0}, speri în {\i1}ceva{\i0},
 Dialogue: 0,1:11:47.56,1:11:49.56,Default,,0,0,0,,te rogi {\i1}cuiva{\i0}..
 Dialogue: 0,1:11:49.56,1:11:53.10,Default,,0,0,0,,Dar pentru că, bineînțeles, mulți din prietenii noștri care ascultă
-Dialogue: 0,1:11:53.10,1:11:55.10,Default,,0,0,0,,nu cred la fel... cum să proceseze asta? 
+Dialogue: 0,1:11:53.10,1:11:55.10,Default,,0,0,0,,nu cred la fel... cum să proceseze asta?
 Dialogue: 0,1:11:55.10,1:11:59.10,Default,,0,0,0,,Ce înseamnă pentru ei să se roage cuiva în care...
 Dialogue: 0,1:11:59.10,1:12:01.10,Default,,0,0,0,,cel puțin deocamdată. nu cred.
 Dialogue: 0,1:12:01.10,1:12:03.10,Default,,0,0,0,,Păi...da, e drept.
@@ -1456,4 +1456,37 @@ Dialogue: 0,1:12:46.93,1:12:50.26,Default,,0,0,0,,o citești și spui "Doamne, n
 Dialogue: 0,1:12:50.26,1:12:54.20,Default,,0,0,0,,"și nici nu știu sigur ce {\i1}ar trebui{\i0} să faci"
 Dialogue: 0,1:12:54.20,1:12:58.30,Default,,0,0,0,,"nu știu dacă ești aici, dar aici sunt lucrurile pe care aș vrea să le faci"
 Dialogue: 0,1:12:58.30,1:13:01.86,Default,,0,0,0,,"dacă poți, te rog revelează-te mie."
-Dialogue: 0,1:13:01.86,1:13:03.86,Default,,0,0,0,,
+Dialogue: 0,1:13:01.86,1:13:06.90,Default,,0,0,0,,Iar eu nu cred că trebuie să aștepți o voce, deși, apropo, sunt prezbieterian.
+Dialogue: 0,1:13:06.90,1:13:12.76,Default,,0,0,0,,Iar... Nu, nu, hai să nu mergem acolo. E o pierdere de timp, da. 
+Dialogue: 0,1:13:12.76,1:13:16.28,Default,,0,0,0,,Dar sunt...sunt tradiții creștine
+Dialogue: 0,1:13:16.28,1:13:18.86,Default,,0,0,0,,care spun "Da, stai și așteaptă o voce."
+Dialogue: 0,1:13:18.86,1:13:21.96,Default,,0,0,0,,Cred..cu toată sinceritatea, că nu pot spune să faci asta.
+Dialogue: 0,1:13:21.96,1:13:25.33,Default,,0,0,0,,Au fost timpuri în care Dumnezeu chiar 
+Dialogue: 0,1:13:25.33,1:13:27.28,Default,,0,0,0,,mi-a dat să simt așa prezența Sa. 
+Dialogue: 0,1:13:27.28,1:13:31.26,Default,,0,0,0,,Iar eu simțeam că era cât se poate de vividă, cum e și o voce.
+Dialogue: 0,1:13:31.26,1:13:33.26,Default,,0,0,0,,Însă eu nu aș spune..
+Dialogue: 0,1:13:33.26,1:13:35.26,Default,,0,0,0,,Aș spune că, în general
+Dialogue: 0,1:13:35.26,1:13:39.13,Default,,0,0,0,,pentru majoritatea oamenilor ce se confruntă cu a crede
+Dialogue: 0,1:13:39.13,1:13:41.56,Default,,0,0,0,,este de fapt un proces..atât. 
+Dialogue: 0,1:13:41.56,1:13:43.56,Default,,0,0,0,,Deci nu văd nici o problemă în 
+Dialogue: 0,1:13:43.56,1:13:45.80,Default,,0,0,0,,a citi pasaje din Biblie ce aduc consolare
+Dialogue: 0,1:13:45.80,1:13:49.33,Default,,0,0,0,,și a cere lui Dumnezeu prezența Sa și ajutor..
+Dialogue: 0,1:13:49.33,1:13:52.73,Default,,0,0,0,,gânduri...adevăr.
+Dialogue: 0,1:13:52.73,1:13:55.66,Default,,0,0,0,,Pe lângă asta, ce rămâne de făcut,
+Dialogue: 0,1:13:55.66,1:13:57.66,Default,,0,0,0,,și încerc să vă spun e că, 
+Dialogue: 0,1:13:57.66,1:14:01.66,Default,,0,0,0,,dacă înțelegeți relevanța, hai să începem să vorbim despre adevăr,
+Dialogue: 0,1:14:01.66,1:14:03.66,Default,,0,0,0,,dacă e adevărat sau nu. 
+Dialogue: 0,1:14:03.66,1:14:06.20,Default,,0,0,0,,Din nou, schimbăm un pic direcția, 
+Dialogue: 0,1:14:06.20,1:14:10.06,Default,,0,0,0,,dar, știi, noi suntem aici cu un motiv. 
+Dialogue: 0,1:14:10.06,1:14:15.33,Default,,0,0,0,,Deci, transmitem cu un motiv, ne-am schimbat subiectul cu un motiv.
+Dialogue: 0,1:14:15.33,1:14:20.20,Default,,0,0,0,,Ăsta nu e doar un subiect ipotetic pe care îl tratăm.
+Dialogue: 0,1:14:20.20,1:14:25.16,Default,,0,0,0,,Există o problemă adevărată, un {\i1}anotimp{\i0} al suferinței, dezorintare..
+Dialogue: 0,1:14:25.16,1:14:30.50,Default,,0,0,0,,Cuvântul ăsta îmi tot vine în minte: {\i1}dezorintare{\i0}, atât de {\i1}derutant{\i0}..
+Dialogue: 0,1:14:30.50,1:14:34.13,Default,,0,0,0,,Deci având în vedere în ce ne aflăm cu pandemia asta..
+Dialogue: 0,1:14:34.13,1:14:40.46,Default,,0,0,0,,Cum evităm panica, în timpul epidemiei?
+Dialogue: 0,1:14:40.46,1:14:44.93,Default,,0,0,0,,Și cum să înțelegem suferința în perioada asta, specific în perioada asta?
+Dialogue: 0,1:14:44.93,1:14:49.86,Default,,0,0,0,,Și cum putem iubi și să fim iubiți într-o perioadă fără contact?
+Dialogue: 0,1:14:49.86,1:14:54.40,Default,,0,0,0,,Deci cum arată de fapt să ne purtăm de grijă unul-altuia
+Dialogue: 0,1:14:54.40,1:14:59.20,Default,,0,0,0,,și să ne oferim speranță într-un anotimp atât de derutant?
+Dialogue: 0,1:14:59.20,1:15:01.20,Default,,0,0,0,,Păi....uau. 
+Dialogue: 0,1:15:01.20,1:15:03.20,Default,,0,0,0,,
