@@ -16,7 +16,9 @@ Video File: Pace-in-Vremurile-De-Suferinta-si-Incertitudine.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.600000
-Video Position: 51
+Scroll Position: 24
+Active Line: 41
+Video Position: 6051
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -30,7 +32,7 @@ Dialogue: 0,0:00:08.78,0:00:13.74,Default,,0,0,0,,Voi fi gazda dumneavoastră î
 Dialogue: 0,0:00:13.74,0:00:16.10,Default,,0,0,0,,
 Dialogue: 0,0:00:16.10,0:00:21.70,Default,,0,0,0,,Noi suntem in legatură directă dintr-o locație separată
 Dialogue: 0,0:00:21.70,0:00:28.46,Default,,0,0,0,,in conformitate cu eforturile orașului nostru de a limita (bine înțeles) răspândirea virusului COVID-19
-Dialogue: 0,0:00:28.46,0:00:32.92,Default,,0,0,0,,"Intrebări asupra Creștinismului" este o serie de 5 episoade
+Dialogue: 0,0:00:28.46,0:00:32.92,Default,,0,0,0,,"Întrebări asupra Creștinismului" este o serie de 5 episoade
 Dialogue: 0,0:00:32.92,0:00:35.46,Default,,0,0,0,,din familia de biserici Redeemer
 Dialogue: 0,0:00:35.46,0:00:38.76,Default,,0,0,0,,unde urmărim sa ținem și să oferim un loc
 Dialogue: 0,0:00:38.76,0:00:41.80,Default,,0,0,0,,pentru prietenii noștri, care nu sunt creștini
@@ -42,7 +44,7 @@ Dialogue: 0,0:01:06.20,0:01:11.56,Default,,0,0,0,,am decis ca să amânăm subie
 Dialogue: 0,0:01:11.56,0:01:15.54,Default,,0,0,0,,Inițial vroiam ca să vorbim despre o temă în care discutăm
 Dialogue: 0,0:01:15.54,0:01:18.54,Default,,0,0,0,,dacă putem trăi fără biserică.
 Dialogue: 0,0:01:18.54,0:01:27.08,Default,,0,0,0,,Dacă sunteți interesați despre cealaltă discuție, o vom ține luna viitoare
-Dialogue: 0,0:01:27.08,0:01:30.84,Default,,0,0,0,,pe 16 Aprilie, ve-ți auzi despre aceasta mai târziu.
+Dialogue: 0,0:01:27.08,0:01:30.84,Default,,0,0,0,,pe 16 Aprilie. Ve-ți auzi despre aceasta mai târziu.
 Dialogue: 0,0:01:30.84,0:01:35.60,Default,,0,0,0,,În seara aceasta am decis ca să discutăm
 Dialogue: 0,0:01:35.60,0:01:39.22,Default,,0,0,0,,despre ce are de spus credința creștină în legătură cu următoarea întrebare:
 Dialogue: 0,0:01:39.22,0:01:44.82,Default,,0,0,0,,Cum putem avea pace in vremurile de suferință și incertitudine?
@@ -57,15 +59,15 @@ Dialogue: 0,0:02:22.34,0:02:30.00,Default,,0,0,0,,au fost legate de argumente is
 Dialogue: 0,0:02:30.00,0:02:39.20,Default,,0,0,0,,Dar probabil mai des, întrebările pentru mine au avut mai multă legătură
 Dialogue: 0,0:02:39.20,0:02:45.28,Default,,0,0,0,,cu faptul că aceste lucruri se exprimă intr-o realizare pentru mine
 Dialogue: 0,0:02:45.28,0:02:49.94,Default,,0,0,0,,Cum pot să trec prin vremurile acestea dificile și dureroase din viață?
-Dialogue: 0,0:02:49.94,0:02:55.00,Default,,0,0,0,,Dumenezeu, tu unde ești și cum te raportezi la suferință și durere?
+Dialogue: 0,0:02:49.94,0:02:55.00,Default,,0,0,0,,{\i1}Dumenezeule, tu unde ești și cum te raportezi la suferință și durere?{\i0}
 Dialogue: 0,0:02:55.00,0:03:00.56,Default,,0,0,0,,Poate și tu ai întrebările acestea, sau ți le-ai pus în trecut
-Dialogue: 0,0:03:00.56,0:03:03.98,Default,,0,0,0,,sau poate că le întrebi acum
+Dialogue: 0,0:03:00.56,0:03:03.98,Default,,0,0,0,,sau poate că le întrebi acum.
 Dialogue: 0,0:03:03.98,0:03:09.94,Default,,0,0,0,,Din motivul acestor întrebări, și a altora asemănătoare, am deschis acest forum:
-Dialogue: 0,0:03:09.94,0:03:11.94,Default,,0,0,0,,pentru-ca să analizăm creștinismul
+Dialogue: 0,0:03:09.94,0:03:11.94,Default,,0,0,0,,pentru-ca să analizăm creștinismul.
 Dialogue: 0,0:03:11.94,0:03:17.60,Default,,0,0,0,,La Redeemer încercăm și să extindem aceste întrebări
 Dialogue: 0,0:03:17.60,0:03:21.78,Default,,0,0,0,,și unul dintre moduri în care facem acest lucru este prin grupurile de analizare a creștinismului
-Dialogue: 0,0:03:21.78,0:03:25.54,Default,,0,0,0,,unde oamnii au mai mult timp ca să exploreze
-Dialogue: 0,0:03:25.54,0:03:29.38,Default,,0,0,0,,si analizeze întrebările ulterioare, care se deschid în afara discuției din seara asta
+Dialogue: 0,0:03:21.78,0:03:25.54,Default,,0,0,0,,unde oamenii au mai mult timp ca să exploreze
+Dialogue: 0,0:03:25.54,0:03:29.38,Default,,0,0,0,,și să analizeze întrebările ulterioare, care se vor pune în afara discuției din seara asta
 Dialogue: 0,0:03:29.38,0:03:32.14,Default,,0,0,0,,Grupurile acestea sunt pentru o perioada de 8 săptămâni,
 Dialogue: 0,0:03:32.14,0:03:36.30,Default,,0,0,0,,în care se discută la egal, la locuințele celor din grup în Manhattan.
 Dialogue: 0,0:03:36.36,0:03:42.20,Default,,0,0,0,,Se ia masa, se discută și fiecare are șansa să exploreze
