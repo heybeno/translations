@@ -16,9 +16,9 @@ Video File: Pace-in-Vremurile-De-Suferinta-si-Incertitudine.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.600000
-Scroll Position: 326
-Active Line: 351
-Video Position: 34687
+Scroll Position: 510
+Active Line: 535
+Video Position: 50266
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -382,73 +382,73 @@ Dialogue: 0,0:20:21.38,0:20:26.64,Default,,0,0,0,,Mai mult decât hinduismul, bu
 Dialogue: 0,0:20:26.64,0:20:29.36,Default,,0,0,0,,Pico Lyer,
 Dialogue: 0,0:20:29.36,0:20:32.44,Default,,0,0,0,,un scriitor englez cunoscut,
 Dialogue: 0,0:20:32.44,0:20:36.30,Default,,0,0,0,,care a trăit muți ani în Japonia,
-Dialogue: 0,0:20:36.30,0:20:40.52,Default,,0,0,0,,Dacă mergeți pe înternet veți găsi articole biografice scrise de el.
+Dialogue: 0,0:20:36.30,0:20:40.52,Default,,0,0,0,,... dacă mergeți pe internet veți găsi articole biografice scrise de el.
 Dialogue: 0,0:20:40.52,0:20:43.76,Default,,0,0,0,,El a plecat din Japonia, însa a predat acolo mulți ani, cred.
 Dialogue: 0,0:20:43.76,0:20:47.48,Default,,0,0,0,,El subliniază faptul că atunci când a venit tsunamiul,
 Dialogue: 0,0:20:47.48,0:20:49.36,Default,,0,0,0,,sau alte suferințe,
 Dialogue: 0,0:20:49.36,0:20:53.18,Default,,0,0,0,,a rămas surprins că Japonezii erau mult mai capabili
-Dialogue: 0,0:20:53.20,0:20:57.42,Default,,0,0,0,,să ia situația cu calm, în comparație cu oamenii moderni din vest
-Dialogue: 0,0:20:57.42,0:21:01.24,Default,,0,0,0,,Dr. Paul Brand, ...
+Dialogue: 0,0:20:53.20,0:20:57.42,Default,,0,0,0,,să ia situația cu calm, în comparație cu oamenii moderni din vest.
+Dialogue: 0,0:20:57.42,0:21:01.24,Default,,0,0,0,,Dr. Paul Brand ...
 Dialogue: 0,0:21:01.24,0:21:03.82,Default,,0,0,0,,Dr. Paul Brand
 Dialogue: 0,0:21:03.82,0:21:09.26,Default,,0,0,0,,a fost un doctor ortopedic foarte renumit
 Dialogue: 0,0:21:09.26,0:21:11.70,Default,,0,0,0,,care a lucrat pentru a trata lepra.
 Dialogue: 0,0:21:11.70,0:21:16.38,Default,,0,0,0,,El era englez, însă a petrecut jumătate din cariera lui în India,
 Dialogue: 0,0:21:16.38,0:21:19.86,Default,,0,0,0,,iar cealaltă jumătate în America.
 Dialogue: 0,0:21:19.86,0:21:21.90,Default,,0,0,0,,A scris următoarele:
-Dialogue: 0,0:21:21.90,0:21:27.14,Default,,0,0,0,,"În America am întâlnit o societate care a încerat sa evite suferința cu orice preț,
-Dialogue: 0,0:21:27.78,0:21:32.44,Default,,0,0,0,,Pacienții aveau un nivel de confort mai mare decât mulți alți pacienți pe care i-am tratat,
-Dialogue: 0,0:21:32.44,0:21:38.16,Default,,0,0,0,,însă par mult mai puțin pregătiți sa facă față suferinței și mult mai traumatizați de ea."
+Dialogue: 0,0:21:21.90,0:21:27.14,Default,,0,0,0,,{\i1}"În America am întâlnit o societate care a încerat să evite suferința cu orice preț.{\i0}
+Dialogue: 0,0:21:27.78,0:21:32.44,Default,,0,0,0,,{\i1}Pacienții aveau un nivel de confort mai mare decât mulți alți pacienți pe care i-am tratat,{\i0}
+Dialogue: 0,0:21:32.44,0:21:38.16,Default,,0,0,0,,{\i1}însă par mult mai puțin pregătiți sa facă față suferinței și mult mai traumatizați de ea."{\i0}
 Dialogue: 0,0:21:38.16,0:21:43.54,Default,,0,0,0,,Acum, de ce ar fi lumea seculară așa de nepotrivită în a ne pregăti
 Dialogue: 0,0:21:43.54,0:21:45.54,Default,,0,0,0,,pentru suferință?
 Dialogue: 0,0:21:45.54,0:21:52.00,Default,,0,0,0,,Terry Eagleton, un critic literar englez/irlandez cred,
-Dialogue: 0,0:21:52.00,0:21:56.40,Default,,0,0,0,,a scris o carte mică pentru "Oxford University Press" cu titlu "Scopul vieții".
-Dialogue: 0,0:21:56.40,0:21:59.88,Default,,0,0,0,,Cartea se cheama "Scopul vieții, o introducere scurtă".
+Dialogue: 0,0:21:52.00,0:21:56.40,Default,,0,0,0,,a scris o carte mică pentru "Oxford University Press" cu titlu {\i1}"Scopul vieții"{\i0}.
+Dialogue: 0,0:21:56.40,0:21:59.88,Default,,0,0,0,,Cartea se cheama {\i1}"Scopul vieții, o introducere scurtă"{\i0}.
 Dialogue: 0,0:21:59.88,0:22:03.08,Default,,0,0,0,,Este o carte academică minunată, însa e foarte scurtă.
 Dialogue: 0,0:22:03.08,0:22:05.08,Default,,0,0,0,,Un lucru ce-l spune e că
-Dialogue: 0,0:22:05.08,0:22:08.29,Default,,0,0,0,,Oamenii seculari moderni au libertatea
-Dialogue: 0,0:22:08.29,0:22:10.73,Default,,0,0,0,,să aleagă orice semnificație vor în viață.
+Dialogue: 0,0:22:05.08,0:22:08.29,Default,,0,0,0,,oamenii seculari moderni au libertatea
+Dialogue: 0,0:22:08.29,0:22:10.73,Default,,0,0,0,,să aleagă în viață orice semnificație vor ei.
 Dialogue: 0,0:22:10.73,0:22:14.06,Default,,0,0,0,,Vezi, religiile ne {\i1}spun{\i0} care e semnificația vieții.
-Dialogue: 0,0:22:14.06,0:22:16.63,Default,,0,0,0,,Toate spun "Pentru {\i1}asta{\i0} trebuie să trăiești".
-Dialogue: 0,0:22:16.63,0:22:18.20,Default,,0,0,0,,Dar oamenii seculari..
+Dialogue: 0,0:22:14.06,0:22:16.63,Default,,0,0,0,,Toate spun "Pentru {\i1}asta{\i0} trebuie să trăiești!".
+Dialogue: 0,0:22:16.63,0:22:18.20,Default,,0,0,0,,Dar oamenii seculari ...
 Dialogue: 0,0:22:18.20,0:22:20.40,Default,,0,0,0,,noi putem alege orice semnificație vrem.
-Dialogue: 0,0:22:20.40,0:22:22.40,Default,,0,0,0,,Există libertate, spune Terry Eagleton.
-Dialogue: 0,0:22:22.40,0:22:23.70,Default,,0,0,0,,Dar aici e o problemă.
-Dialogue: 0,0:22:23.70,0:22:26.80,Default,,0,0,0,,Orice am alege în viață
-Dialogue: 0,0:22:26.03,0:22:28.33,Default,,0,0,0,,trebuie să fie ceva în lumea asta
-Dialogue: 0,0:22:28.33,0:22:30.76,Default,,0,0,0,,dând semnificație vieții. Poate o relație romantică
-Dialogue: 0,0:22:30.76,0:22:32.40,Default,,0,0,0,,sau familia e semnificația vieții
-Dialogue: 0,0:22:32.40,0:22:34.53,Default,,0,0,0,,sau.. cariera e semnificația vieții
-Dialogue: 0,0:22:34.53,0:22:37.53,Default,,0,0,0,,sau o mișcare politică e semnificația vieții
+Dialogue: 0,0:22:20.40,0:22:22.40,Default,,0,0,0,,Există libertate, spune Terry Eagleton,
+Dialogue: 0,0:22:22.40,0:22:24.04,Default,,0,0,0,,dar aici e o problemă.
+Dialogue: 0,0:22:24.08,0:22:26.80,Default,,0,0,0,,Orice am alege în viață,
+Dialogue: 0,0:22:26.83,0:22:28.38,Default,,0,0,0,,trebuie să fie ceva în lumea asta
+Dialogue: 0,0:22:28.38,0:22:31.23,Default,,0,0,0,,dând semnificație vieții. Poate o relație romantică,
+Dialogue: 0,0:22:31.23,0:22:33.01,Default,,0,0,0,,sau familia e semnificația vieții,
+Dialogue: 0,0:22:33.01,0:22:34.88,Default,,0,0,0,,sau ... cariera e semnificația vieții,
+Dialogue: 0,0:22:34.91,0:22:37.53,Default,,0,0,0,,sau o mișcare politică e semnificația vieții.
 Dialogue: 0,0:22:37.53,0:22:39.40,Default,,0,0,0,,Iar problema, bineînțeles, e că
-Dialogue: 0,0:22:39.40,0:22:42.96,Default,,0,0,0,,suferința ne ia lucrurile astea...pentru totdeauna.
+Dialogue: 0,0:22:39.40,0:22:42.96,Default,,0,0,0,,suferința ne ia lucrurile astea ... pentru totdeauna.
 Dialogue: 0,0:22:42.96,0:22:45.06,Default,,0,0,0,,Vedeți, orice altă religie
 Dialogue: 0,0:22:45.06,0:22:47.06,Default,,0,0,0,,sau orice altă cultură a spus mereu
-Dialogue: 0,0:22:47.06,0:22:49.76,Default,,0,0,0,,că semnificația vieții e ceva {\i1}în afara{\i0} lumii
+Dialogue: 0,0:22:47.06,0:22:49.76,Default,,0,0,0,,că semnificația vieții e ceva {\i1}în afara{\i0} lumii.
 Dialogue: 0,0:22:49.76,0:22:51.76,Default,,0,0,0,,Deci semnificația vieții era fie să
-Dialogue: 0,0:22:51.76,0:22:54.40,Default,,0,0,0,,mergi în Rai și să trăiești cu cei iubiți pentru totdeauna,
+Dialogue: 0,0:22:51.76,0:22:54.40,Default,,0,0,0,,mergi în {\i1}Rai{\i0} și să trăiești cu cei iubiți pentru totdeauna,
 Dialogue: 0,0:22:54.40,0:22:59.63,Default,,0,0,0,,fie să ieși din ciclul reîncarnărilor și să intri în fericirea eternă,
 Dialogue: 0,0:22:59.63,0:23:03.36,Default,,0,0,0,,fie să ieși din iluzia trăirii ca să ajungi la sufletul vieții,
-Dialogue: 0,0:23:03.36,0:23:05.36,Default,,0,0,0,,al lumii, al universului
-Dialogue: 0,0:23:05.36,0:23:07.90,Default,,0,0,0,,sau semnificația vieții e să trăiești
+Dialogue: 0,0:23:03.36,0:23:05.36,Default,,0,0,0,,al lumii, al universului.
+Dialogue: 0,0:23:05.36,0:23:07.90,Default,,0,0,0,,Sau semnificația vieții e să trăiești
 Dialogue: 0,0:23:07.90,0:23:09.90,Default,,0,0,0,,o viață morală, virtuasă, onorabilă
 Dialogue: 0,0:23:09.90,0:23:12.50,Default,,0,0,0,,în ciuda încercărilor și a condamnării.
 Dialogue: 0,0:23:12.50,0:23:14.50,Default,,0,0,0,,Dar, în fiecare caz,
-Dialogue: 0,0:23:14.50,0:23:18.03,Default,,0,0,0,,fiecare cultură spune că semnificația vieții e în afara noastră,
-Dialogue: 0,0:23:18.03,0:23:22.00,Default,,0,0,0,,asta înseamnă că atunci când apare suferința și ia ceva de la tine
+Dialogue: 0,0:23:14.50,0:23:18.03,Default,,0,0,0,,fiecare cultură spune că semnificația vieții e în afara noastră.
+Dialogue: 0,0:23:18.03,0:23:22.00,Default,,0,0,0,,Asta înseamnă că atunci când apare suferința și ia ceva de la tine,
 Dialogue: 0,0:23:22.00,0:23:24.70,Default,,0,0,0,,nu îți poate lua semnificația vieții.
-Dialogue: 0,0:23:24.70,0:23:29.63,Default,,0,0,0,,Nu doar că nu se poate atinge de ea, dar și îmbogațește semnificația vieții.
+Dialogue: 0,0:23:24.70,0:23:29.63,Default,,0,0,0,,Nu doar că nu se poate atinge de ea, dar și îmbogățește semnificația vieții.
 Dialogue: 0,0:23:29.63,0:23:31.63,Default,,0,0,0,,Pentru că îți dă o oportunitate
 Dialogue: 0,0:23:31.63,0:23:34.16,Default,,0,0,0,,să dezvolți mai multă detașare
-Dialogue: 0,0:23:34.16,0:23:36.60,Default,,0,0,0,,sau mai mult curaj
+Dialogue: 0,0:23:34.16,0:23:36.60,Default,,0,0,0,,sau mai mult curaj,
 Dialogue: 0,0:23:36.60,0:23:39.54,Default,,0,0,0,,sau mai multă credincioșie față de Dumnezeu.
 Dialogue: 0,0:23:39.54,0:23:42.58,Default,,0,0,0,,Cu alte cuvinte, orice altă cultură spune
-Dialogue: 0,0:23:42.62,0:23:46.72,Default,,0,0,0,,că dacă vine suferința, poate să îmbogățește semnificația vieții, oricât de dureros ar fi
+Dialogue: 0,0:23:42.62,0:23:46.72,Default,,0,0,0,,că dacă vine suferința, poate să îmbogățească semnificația vieții, oricât de dureros ar fi.
 Dialogue: 0,0:23:46.72,0:23:53.96,Default,,0,0,0,,Dar oamenii moderni, pentru că trebuie să găsească semnificația vieții în lume, asta e ceea ce suferința le ia: lucrurile din lume.
 Dialogue: 0,0:23:53.96,0:23:57.84,Default,,0,0,0,,Și din acest motiv, oamenii seculari nu au
 Dialogue: 0,0:23:57.84,0:24:01.96,Default,,0,0,0,,abilitatea de a controla situația,
-Dialogue: 0,0:24:01.96,0:24:06.98,Default,,0,0,0,,și de fapt nu au protecție în lume înportiva suferinței
-Dialogue: 0,0:24:07.10,0:24:11.40,Default,,0,0,0,,Acum, să rezumăm ceea ce am spus,
-Dialogue: 0,0:24:13.86,0:24:18.06,Default,,0,0,0,,secularismul însă pare că ne spune să luptăm înpotriva suferinței:
+Dialogue: 0,0:24:01.96,0:24:06.98,Default,,0,0,0,,și de fapt nu au protecție în lume împortiva suferinței.
+Dialogue: 0,0:24:07.10,0:24:11.40,Default,,0,0,0,,Acum, să rezumăm ceea ce am spus.
+Dialogue: 0,0:24:13.86,0:24:18.06,Default,,0,0,0,,Secularismul pare că ne spune să luptăm înpotriva suferinței:
 Dialogue: 0,0:24:18.06,0:24:20.84,Default,,0,0,0,,când vine suferința, ar trebui să plângem cu jale.
 Dialogue: 0,0:24:20.84,0:24:27.18,Default,,0,0,0,,Celelalte ideologii ale lumii, ne spun ca să o acceptăm, nu ca să ne luptăm cu suferința.
 Dialogue: 0,0:24:27.18,0:24:29.66,Default,,0,0,0,,Și nu trebuie să plângem, ci să fim puternici.
@@ -457,17 +457,17 @@ Dialogue: 0,0:24:31.66,0:24:35.90,Default,,0,0,0,,Am să vă spun acum, hai să 
 Dialogue: 0,0:24:35.90,0:24:39.10,Default,,0,0,0,,Ce ar avea creștinismul de oferit? Mult.
 Dialogue: 0,0:24:39.10,0:24:42.74,Default,,0,0,0,,Luke Ferry în cartea lui "O scurtă istorie a gândirii",
 Dialogue: 0,0:24:42.74,0:24:46.68,Default,,0,0,0,,subliniază un lucru care se poate găsi și în cărțile de istorie.
-Dialogue: 0,0:24:46.68,0:24:52.62,Default,,0,0,0,,Și anume, unul dintre lucrurile care au făcut creștinismul, în perioada de început, atât de
+Dialogue: 0,0:24:46.68,0:24:52.62,Default,,0,0,0,,Și anume, unul dintre lucrurile care au făcut creștinismul, la perioada de început, atât de
 Dialogue: 0,0:24:52.62,0:24:55.56,Default,,0,0,0,,atractiv în imperiul Roman.
 Dialogue: 0,0:24:55.56,0:24:58.46,Default,,0,0,0,,De ce a crescut? Ei bine, a crescut din multe motive,
-Dialogue: 0,0:24:58.46,0:25:05.24,Default,,0,0,0,,însă unul dintre motive a fost ceea ce creștinismul are de oferit oamenilor pentru a face față la suferință.
+Dialogue: 0,0:24:58.46,0:25:05.24,Default,,0,0,0,,însă unul dintre motive a fost ceea ce creștinismul a avut de oferit oamenilor pentru a face față suferinței.
 Dialogue: 0,0:25:05.24,0:25:11.60,Default,,0,0,0,,Pentru că lumea romană a fost plină de multe dintre lucurile de care deja am vorbit.
 Dialogue: 0,0:25:11.60,0:25:14.88,Default,,0,0,0,,De exemplu, Cicero și Seneca erau stoici,
 Dialogue: 0,0:25:14.88,0:25:18.80,Default,,0,0,0,,și ceea ce ne-au învățat a fost ca să nu ne atașăm inima de nimic.
-Dialogue: 0,0:25:18.80,0:25:23.12,Default,,0,0,0,,Epictetus, marele filozof Epictetus, a spus "atunci când ne sărutăm copilul,
-Dialogue: 0,0:25:23.12,0:25:25.92,Default,,0,0,0,,să ne re-amintim că poate mâine va muri".
+Dialogue: 0,0:25:18.80,0:25:23.12,Default,,0,0,0,,Epictetus, marele filozof Epictetus, a spus {\i1}"atunci când ne sărutăm copilul,{\i0}
+Dialogue: 0,0:25:23.12,0:25:25.92,Default,,0,0,0,,{\i1}să ne re-amintim că poate mâine va muri".{\i0}
 Dialogue: 0,0:25:25.92,0:25:29.10,Default,,0,0,0,,Deci, să ai compasiune pentru copil, însă detașează-te,
-Dialogue: 0,0:25:29.10,0:25:32.90,Default,,0,0,0,,nu-ți investi inima prea mult într-un lucru.
+Dialogue: 0,0:25:29.10,0:25:32.90,Default,,0,0,0,,nu-ți investi inima prea mult în ceva.
 Dialogue: 0,0:25:32.90,0:25:36.90,Default,,0,0,0,,Deci am avut cultura de rușine și onoare, care ne cere să fim puternici,
 Dialogue: 0,0:25:36.90,0:25:39.64,Default,,0,0,0,,apoi cultura stoică, cerându-ne să ne detașăm,
 Dialogue: 0,0:25:39.64,0:25:44.78,Default,,0,0,0,,și majoritatea persoanelor au găsit aceste lucruri prea reci, foarte foarte impasibile.
@@ -477,7 +477,7 @@ Dialogue: 0,0:25:55.50,0:25:59.38,Default,,0,0,0,,Și oferă chiar acum, ție ș
 Dialogue: 0,0:25:59.38,0:26:02.46,Default,,0,0,0,,pe care cultura seculară nu le oferă. Acestea sunt cele 3 lucruri.
 Dialogue: 0,0:26:02.46,0:26:05.64,Default,,0,0,0,,Primul lucru este: creștinismul prezintă
 Dialogue: 0,0:26:05.64,0:26:11.10,Default,,0,0,0,,un dumnezeu care a venit în lumea aceasta și a suferit.
-Dialogue: 0,0:26:11.10,0:26:14.46,Default,,0,0,0,,Lucrul acesta nu se găsește în nici-o altă religie
+Dialogue: 0,0:26:11.10,0:26:14.46,Default,,0,0,0,,Lucrul acesta nu se găsește în nici-o altă religie.
 Dialogue: 0,0:26:14.46,0:26:19.38,Default,,0,0,0,,Creștinismul spune că Dumnezeu, în persoana lui Isus Hristos, a venit în lumea noastră
 Dialogue: 0,0:26:19.38,0:26:24.72,Default,,0,0,0,,și a murit pentru noi. Motivul pentru aceasta îl vom discuta mai încolo, în seria aceasta.
 Dialogue: 0,0:26:24.72,0:26:27.20,Default,,0,0,0,,Însă momentan, vă dați seama ce înseamnă.
@@ -491,31 +491,31 @@ Dialogue: 0,0:26:45.92,0:26:49.64,Default,,0,0,0,,strigă după ajutor. El nu es
 Dialogue: 0,0:26:49.64,0:26:53.96,Default,,0,0,0,,și se confruntă cu nedreptatea.
 Dialogue: 0,0:26:53.96,0:26:59.42,Default,,0,0,0,,Nu s-a găsit nici-o altă credință care să spună că există nedreptate.
 Dialogue: 0,0:26:59.42,0:27:02.86,Default,,0,0,0,,Religiile Karmice spun că nu există. Adevărul e că există!
-Dialogue: 0,0:27:02.86,0:27:05.00,Default,,0,0,0,,Și avem un dumnezeu,
+Dialogue: 0,0:27:02.86,0:27:05.00,Default,,0,0,0,,Și avem un Dumnezeu,
 Dialogue: 0,0:27:05.00,0:27:08.36,Default,,0,0,0,,dacă ești creștin și te întorci spre El, care
 Dialogue: 0,0:27:08.36,0:27:11.16,Default,,0,0,0,,știe prin ce ai trecut.
-Dialogue: 0,0:27:11.16,0:27:12.80,Default,,0,0,0,,Dacă ai pierdut un copil -
+Dialogue: 0,0:27:11.16,0:27:12.80,Default,,0,0,0,,Dacă ai pierdut un copil,
 Dialogue: 0,0:27:12.80,0:27:15.80,Default,,0,0,0,,și Dumnezeu Tatăl a pierdut un copil.
 Dialogue: 0,0:27:15.80,0:27:17.80,Default,,0,0,0,,Dacă ai fost trădat,
 Dialogue: 0,0:27:17.80,0:27:19.80,Default,,0,0,0,,dacă ai fost respins,
 Dialogue: 0,0:27:19.80,0:27:24.00,Default,,0,0,0,,dacă ai fost victima unei nedreptăți,
 Dialogue: 0,0:27:24.00,0:27:27.70,Default,,0,0,0,,Isus Hristos a trăit și El asta.
-Dialogue: 0,0:27:27.70,0:27:29.70,Default,,0,0,0,,Așa că avem un dumnezeu care
+Dialogue: 0,0:27:27.70,0:27:29.70,Default,,0,0,0,,Așa că avem un Dumnezeu care
 Dialogue: 0,0:27:29.70,0:27:32.00,Default,,0,0,0,,nu doar a experimentat nedreptate,
-Dialogue: 0,0:27:32.00,0:27:34.16,Default,,0,0,0,,dar ne dă siguranță pentru a spune "Nu".
-Dialogue: 0,0:27:34.16,0:27:37.40,Default,,0,0,0,,"Nu te dai bătut în fața suferinței."
-Dialogue: 0,0:27:37.40,0:27:38.90,Default,,0,0,0,,"Poți să te lupți cu ea
-Dialogue: 0,0:27:38.90,0:27:40.90,Default,,0,0,0,,și poți să și plângi".
+Dialogue: 0,0:27:32.00,0:27:34.16,Default,,0,0,0,,dar ne dă siguranță pentru a spune {\i1}"Nu"{\i0}.
+Dialogue: 0,0:27:34.16,0:27:37.40,Default,,0,0,0,,{\i1}"Nu te dai bătut în fața suferinței!"{\i0}
+Dialogue: 0,0:27:37.40,0:27:38.90,Default,,0,0,0,,{\i1}"Poți să te lupți cu ea{\i0}
+Dialogue: 0,0:27:38.90,0:27:40.90,Default,,0,0,0,,{\i1}și poți să și plângi".{\i0}
 Dialogue: 0,0:27:40.90,0:27:42.20,Default,,0,0,0,,Nu trebuie să fii stoic.
-Dialogue: 0,0:27:42.20,0:27:45.20,Default,,0,0,0,,Deci în primul rând avem un dumnezeu care
+Dialogue: 0,0:27:42.20,0:27:45.20,Default,,0,0,0,,Deci în primul rând avem un Dumnezeu care
 Dialogue: 0,0:27:45.20,0:27:48.02,Default,,0,0,0,,a avut parte de suferință nejustificată.
-Dialogue: 0,0:27:48.02,0:27:50.56,Default,,0,0,0,,În al doilea rând, avem o promisiune.
+Dialogue: 0,0:27:48.02,0:27:50.56,Default,,0,0,0,,În al doilea rând, avem o promisiune:
 Dialogue: 0,0:27:50.56,0:27:53.20,Default,,0,0,0,,Promisiunea vieții veșnice,
-Dialogue: 0,0:27:53.20,0:27:55.56,Default,,0,0,0,,are e o lume a dragostei.
+Dialogue: 0,0:27:53.20,0:27:55.56,Default,,0,0,0,,care e o lume a dragostei.
 Dialogue: 0,0:27:55.56,0:27:57.76,Default,,0,0,0,,Religiile karmice spun că
 Dialogue: 0,0:27:57.76,0:28:02.03,Default,,0,0,0,,poți ieși din ciclul reîncarnării
 Dialogue: 0,0:28:02.03,0:28:04.03,Default,,0,0,0,,dacă trăiești o viață bună.
-Dialogue: 0,0:28:04.03,0:28:07.90,Default,,0,0,0,,Dar cănd devii una cu totul îți pierzi personalitatea.
+Dialogue: 0,0:28:04.03,0:28:07.90,Default,,0,0,0,,Dar când devii una cu totul îți pierzi personalitatea.
 Dialogue: 0,0:28:07.90,0:28:10.02,Default,,0,0,0,,Nu rămâi ca o persoană.
 Dialogue: 0,0:28:10.02,0:28:11.80,Default,,0,0,0,,ci devii parte din tot.
 Dialogue: 0,0:28:11.80,0:28:14.40,Default,,0,0,0,,Iar budismul, bineînțeles, spune că e o iluzie
@@ -533,35 +533,35 @@ Dialogue: 0,0:28:38.30,0:28:41.80,Default,,0,0,0,,Kobayashi Issa, dacă l-am zis
 Dialogue: 0,0:28:41.80,0:28:43.80,Default,,0,0,0,,poate Is{\i1}a{\i0} sau {\i1}I{\i0}sa ..
 Dialogue: 0,0:28:43.80,0:28:47.36,Default,,0,0,0,,e foarte cunoscut pentru poeziile Haiku.
 Dialogue: 0,0:28:47.36,0:28:51.03,Default,,0,0,0,,Există o poezie Haiku foarte, foarte faimoasă,
-Dialogue: 0,0:28:51.03,0:28:53.00,Default,,0,0,0,,și am să vă dau traducerea imediat,
-Dialogue: 0,0:28:53.00,0:28:56.36,Default,,0,0,0,,dar mai întâi să vă dau un pic de context.
+Dialogue: 0,0:28:51.03,0:28:53.00,Default,,0,0,0,,și am să vă dau traducerea imediat.
+Dialogue: 0,0:28:53.00,0:28:56.36,Default,,0,0,0,,Dar mai întâi, să vă dau un pic de context.
 Dialogue: 0,0:28:56.36,0:28:58.16,Default,,0,0,0,,El a avut parte de multe tragedii.
 Dialogue: 0,0:28:58.16,0:29:00.73,Default,,0,0,0,,E secolul al XVIII-lea, normal că oamenii se îmbolnăvesc.
 Dialogue: 0,0:29:00.73,0:29:02.73,Default,,0,0,0,,Și-a văzut părinții murind, iar apoi
 Dialogue: 0,0:29:02.73,0:29:06.10,Default,,0,0,0,,și-a văzut copiii începând să moară.
 Dialogue: 0,0:29:06.10,0:29:09.50,Default,,0,0,0,,Și-a pierdut doi nou-născuți.
 Dialogue: 0,0:29:09.50,0:29:12.26,Default,,0,0,0,,Și a scris o poezie despre asta.
-Dialogue: 0,0:29:12.26,0:29:14.90,Default,,0,0,0,,Iar asta e ce spune poezia..e foarte faimoasă.
-Dialogue: 0,0:29:14.90,0:29:16.73,Default,,0,0,0,,Asta e traducerea în română,
+Dialogue: 0,0:29:12.26,0:29:14.90,Default,,0,0,0,,Iar asta e ce spune poezia ... e foarte faimoasă.
+Dialogue: 0,0:29:14.90,0:29:16.73,Default,,0,0,0,,Asta e traducerea în Română,
 Dialogue: 0,0:29:16.73,0:29:20.43,Default,,0,0,0,,așa că urmăriți-mă. Sunt trei versuri scurte.
-Dialogue: 0,0:29:20.43,0:29:23.53,Default,,0,0,0,,{\i1}"Lumea de rouă{\i0}
-Dialogue: 0,0:29:23.53,0:29:27.23,Default,,0,0,0,,{\i1}o lume de rouă este, într-adevăr{\i0}
-Dialogue: 0,0:29:27.23,0:29:31.20,Default,,0,0,0,,{\i1}și totuși..și totuși."{\i0}
-Dialogue: 0,0:29:31.20,0:29:33.20,Default,,0,0,0,,{\i1}"Lumea de rouă{\i0}
-Dialogue: 0,0:29:33.20,0:29:35.86,Default,,0,0,0,,{\i1}o lume de rouă este într-adevăr{\i0}
-Dialogue: 0,0:29:35.86,0:29:37.86,Default,,0,0,0,,{\i1}și totuși..și totuși."{\i0}
+Dialogue: 0,0:29:20.43,0:29:23.53,Default,,0,0,0,,{\i1}"Lumea de rouă,{\i0}
+Dialogue: 0,0:29:23.53,0:29:27.23,Default,,0,0,0,,{\i1}O lume de rouă este, într-adevăr,{\i0}
+Dialogue: 0,0:29:27.23,0:29:31.20,Default,,0,0,0,,{\i1}Și totuși ... și totuși."{\i0}
+Dialogue: 0,0:29:31.20,0:29:33.20,Default,,0,0,0,,{\i1}"Lumea de rouă,{\i0}
+Dialogue: 0,0:29:33.20,0:29:35.86,Default,,0,0,0,,{\i1}O lume de rouă este într-adevăr,{\i0}
+Dialogue: 0,0:29:35.86,0:29:37.86,Default,,0,0,0,,{\i1}Și totuși ... și totuși."{\i0}
 Dialogue: 0,0:29:37.86,0:29:39.86,Default,,0,0,0,,Primele două versuri
 Dialogue: 0,0:29:39.86,0:29:41.13,Default,,0,0,0,,sunt un rezumat perfect
 Dialogue: 0,0:29:41.13,0:29:43.13,Default,,0,0,0,,al abordării budiste asupra suferinței.
-Dialogue: 0,0:29:43.13,0:29:44.40,Default,,0,0,0,,Pentru că..
-Dialogue: 0,0:29:44.40,0:29:45.53,Default,,0,0,0,,Ce e un strop de rouă?
-Dialogue: 0,0:29:45.53,0:29:47.93,Default,,0,0,0,,E ceva atât de frumos..
-Dialogue: 0,0:29:47.93,0:29:50.80,Default,,0,0,0,,e strălucitor și frumos..dar e efemer
+Dialogue: 0,0:29:43.13,0:29:44.40,Default,,0,0,0,,Pentru că ...
+Dialogue: 0,0:29:44.40,0:29:45.53,Default,,0,0,0,,ce e un strop de rouă?
+Dialogue: 0,0:29:45.53,0:29:47.93,Default,,0,0,0,,E ceva atât de frumos ...
+Dialogue: 0,0:29:47.93,0:29:50.80,Default,,0,0,0,,e strălucitor și frumos ... dar e efemer
 Dialogue: 0,0:29:50.80,0:29:53.90,Default,,0,0,0,,și trecător. Nu durează mult.
-Dialogue: 0,0:29:53.90,0:29:56.10,Default,,0,0,0,,Iar cănd se duce în iaz
-Dialogue: 0,0:29:56.10,0:29:59.16,Default,,0,0,0,,sau cănd se duce în lac sau în ocean
-Dialogue: 0,0:29:59.16,0:30:02.60,Default,,0,0,0,,nu iși pierde strălucirea, dar pierde individualitatea.
-Dialogue: 0,0:30:02.60,0:30:10.74,Default,,0,0,0,,Iar Când Issa își pierdea copiii, el bineînțeles știa ce spune budismul: "{\i1}detașează-te!{\i0}"
+Dialogue: 0,0:29:53.90,0:29:56.10,Default,,0,0,0,,Iar când se duce în iaz
+Dialogue: 0,0:29:56.10,0:29:59.16,Default,,0,0,0,,sau când se duce în lac, sau în ocean,
+Dialogue: 0,0:29:59.16,0:30:02.60,Default,,0,0,0,,nu iși pierde strălucirea, dar își pierde individualitatea.
+Dialogue: 0,0:30:02.60,0:30:10.74,Default,,0,0,0,,Iar când Issa și-a pierdut copiii, el bineînțeles știa ce spune budismul: "{\i1}detașează-te!{\i0}"
 Dialogue: 0,0:30:10.74,0:30:15.68,Default,,0,0,0,,{\i1}"Nu uita că acei copii nu sunt de fapt indivizi,{\i0}
 Dialogue: 0,0:30:15.68,0:30:19.20,Default,,0,0,0,,{\i1}ei vor fi parte din tot,"{\i0}
 Dialogue: 0,0:30:19.20,0:30:21.28,Default,,0,0,0,,{\i1}și deci trebuie să renunți, {\i0}
