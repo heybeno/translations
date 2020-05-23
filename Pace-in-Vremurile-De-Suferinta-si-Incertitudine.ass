@@ -15,10 +15,10 @@ Audio File: Pace-in-Vremurile-De-Suferinta-si-Incertitudine.mp4
 Video File: Pace-in-Vremurile-De-Suferinta-si-Incertitudine.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.600000
-Scroll Position: 192
-Active Line: 200
-Video Position: 23677
+Video Zoom Percent: 0.875000
+Scroll Position: 879
+Active Line: 892
+Video Position: 83711
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -57,7 +57,7 @@ Dialogue: 0,0:02:10.02,0:02:15.56,Default,,0,0,0,,pe care le vom pune și în mo
 Dialogue: 0,0:02:15.56,0:02:22.34,Default,,0,0,0,,Întrebările și îndoielile pe care le-am avut pe parcursul anilor
 Dialogue: 0,0:02:22.34,0:02:30.00,Default,,0,0,0,,au fost legate de argumente istorice, teologice și filozofice în privința creștinismului.
 Dialogue: 0,0:02:30.00,0:02:39.20,Default,,0,0,0,,Dar probabil mai des, întrebările pentru mine au avut mai multă legătură
-Dialogue: 0,0:02:39.20,0:02:45.28,Default,,0,0,0,,cu ceea ce trăiesc și mi se întâmplă mie. 
+Dialogue: 0,0:02:39.20,0:02:45.28,Default,,0,0,0,,cu ceea ce trăiesc și mi se întâmplă mie.
 Dialogue: 0,0:02:45.28,0:02:49.94,Default,,0,0,0,,{\i1}Cum pot să trec prin vremurile acestea dificile și dureroase din viață?{\i0}
 Dialogue: 0,0:02:49.94,0:02:55.00,Default,,0,0,0,,{\i1}Dumenezeule, tu unde ești și cum te raportezi la suferință și durere?{\i0}
 Dialogue: 0,0:02:55.00,0:03:00.56,Default,,0,0,0,,Poate ai și tu întrebările acestea, sau ți le-ai pus în trecut,
@@ -566,11 +566,11 @@ Dialogue: 0,0:30:10.74,0:30:15.68,Default,,0,0,0,,{\i1}"Nu uita că acei copii n
 Dialogue: 0,0:30:15.68,0:30:19.20,Default,,0,0,0,,{\i1}ei vor fi parte din tot,"{\i0}
 Dialogue: 0,0:30:19.20,0:30:21.28,Default,,0,0,0,,{\i1}și deci trebuie să renunți, {\i0}
 Dialogue: 0,0:30:21.28,0:30:24.96,Default,,0,0,0,,{\i1}nu te ține de ei, nu aspira la dragostea lor!{\i0}
-Dialogue: 0,0:30:24.96,0:30:31.62,Default,,0,0,0,,{\i1}Doar recunoaște că suntem fiecare dintre noi picături de rouă care ajungem în ocean."{\i0}
+Dialogue: 0,0:30:24.96,0:30:31.62,Default,,0,0,0,,{\i1}Doar recunoaște că fiecare dintre noi este o picătură de rouă care ajunge în ocean."{\i0}
 Dialogue: 0,0:30:31.62,0:30:33.62,Default,,0,0,0,,Dar uitați-vă la ultimul vers:
-Dialogue: 0,0:30:33.62,0:30:35.30,Default,,0,0,0,,{\i1}"Lumea de rouă{\i0}
-Dialogue: 0,0:30:35.30,0:30:37.30,Default,,0,0,0,,{\i1}o lume de rouă este într-adevăr{\i0}
-Dialogue: 0,0:30:37.30,0:30:41.54,Default,,0,0,0,,{\i1}și totuși..și totuși."{\i0}
+Dialogue: 0,0:30:33.62,0:30:35.30,Default,,0,0,0,,{\i1}"Lumea de rouă,{\i0}
+Dialogue: 0,0:30:35.30,0:30:37.30,Default,,0,0,0,,{\i1}o lume de rouă este într-adevăr,{\i0}
+Dialogue: 0,0:30:37.30,0:30:41.54,Default,,0,0,0,,{\i1}și totuși ... și totuși."{\i0}
 Dialogue: 0,0:30:41.54,0:30:45.60,Default,,0,0,0,,E ca și cum ne-ar spune: {\i1}"Insă este foarte greu!"{\i0}
 Dialogue: 0,0:30:45.60,0:30:50.48,Default,,0,0,0,,{\i1}"De fapt, poate că este imposibil să nu aspirăm{\i0}
 Dialogue: 0,0:30:50.56,0:30:52.88,Default,,0,0,0,,{\i1}la o continuare a relației de dragoste."{\i0}
@@ -579,56 +579,56 @@ Dialogue: 0,0:30:56.44,0:30:59.38,Default,,0,0,0,,{\i1}"Știi, după moarte, aș
 Dialogue: 0,0:30:59.38,0:31:05.16,Default,,0,0,0,,{\i1}Vreau ca să fiu cu cei pe care îi iubesc, cu un dumnezeu al dragostei."{\i0} Creștinismul, bineînțeles, oferă acest lucru.
 Dialogue: 0,0:31:05.16,0:31:10.50,Default,,0,0,0,,Creștinismul, spre deosebire de budism sau religiile karmice
 Dialogue: 0,0:31:10.50,0:31:12.50,Default,,0,0,0,,spune în felul următor:
-Dialogue: 0,0:31:12.50,0:31:16.30,Default,,0,0,0,,{\i1}dacă iubești pe cineva și el moare{\i0}
-Dialogue: 0,0:31:16.30,0:31:18.90,Default,,0,0,0,,{\i1}bineînțeles că asta te distruge..dar{\i0}
-Dialogue: 0,0:31:18.90,0:31:20.90,Default,,0,0,0,,{\i1}soluția nu e să îi iubești mai puțin{\i0}
-Dialogue: 0,0:31:20.90,0:31:22.90,Default,,0,0,0,,{\i1}nu te detașa de oameni{\i0}
-Dialogue: 0,0:31:22.90,0:31:24.90,Default,,0,0,0,,{\i1}nu îi iubi mai puțin{\i0}
-Dialogue: 0,0:31:24.90,0:31:28.16,Default,,0,0,0,,{\i1}ci fă să Îl iubești pe Dumnezeu cel mai mult{\i0}
-Dialogue: 0,0:31:28.16,0:31:30.66,Default,,0,0,0,,În felul ăsta, dragostea Lui
-Dialogue: 0,0:31:30.66,0:31:33.93,Default,,0,0,0,,e o consolare, iar atunci când piezi oameni
-Dialogue: 0,0:31:33.93,0:31:36.85,Default,,0,0,0,,poți...o poți suporta.
+Dialogue: 0,0:31:12.50,0:31:16.30,Default,,0,0,0,,{\i1}Dacă iubești pe cineva și el moare,{\i0}
+Dialogue: 0,0:31:16.30,0:31:18.90,Default,,0,0,0,,{\i1}bineînțeles că asta te distruge ... dar{\i0}
+Dialogue: 0,0:31:18.90,0:31:20.90,Default,,0,0,0,,{\i1}soluția nu e să îi iubești mai puțin.{\i0}
+Dialogue: 0,0:31:20.90,0:31:22.90,Default,,0,0,0,,{\i1}Nu te detașa de oameni,{\i0}
+Dialogue: 0,0:31:22.90,0:31:24.90,Default,,0,0,0,,{\i1}nu îi iubi mai puțin,{\i0}
+Dialogue: 0,0:31:24.90,0:31:28.16,Default,,0,0,0,,{\i1}ci fă să Îl iubești pe Dumnezeu cel mai mult.{\i0}
+Dialogue: 0,0:31:28.16,0:31:30.66,Default,,0,0,0,,În felul acesta, dragostea Lui
+Dialogue: 0,0:31:30.66,0:31:33.93,Default,,0,0,0,,e o consolare, iar atunci când piezi oameni,
+Dialogue: 0,0:31:33.93,0:31:36.85,Default,,0,0,0,,poți ... o poți suporta.
 Dialogue: 0,0:31:36.85,0:31:39.50,Default,,0,0,0,,Și știi că dacă eu am dragostea lui Dumnezeu
 Dialogue: 0,0:31:39.50,0:31:40.80,Default,,0,0,0,,atunci cănd voi muri eu,
-Dialogue: 0,0:31:40.80,0:31:42.20,Default,,0,0,0,,voi fi înconjurat de dragoste
+Dialogue: 0,0:31:40.80,0:31:42.20,Default,,0,0,0,,voi fi înconjurat de dragoste,
 Dialogue: 0,0:31:42.20,0:31:45.80,Default,,0,0,0,,voi fi alături de cei dragi, de însuși Dumnezeu.
 Dialogue: 0,0:31:45.80,0:31:48.50,Default,,0,0,0,,Ce face creștinismul este că
 Dialogue: 0,0:31:48.50,0:31:52.00,Default,,0,0,0,,ne promite o dragoste viitoare personală.
 Dialogue: 0,0:31:52.00,0:31:54.83,Default,,0,0,0,,O dragoste neimaginată.
-Dialogue: 0,0:31:54.83,0:31:58.43,Default,,0,0,0,,O dragoste infinit mai mai bună decăt cea de aici.
+Dialogue: 0,0:31:54.83,0:31:58.43,Default,,0,0,0,,O dragoste infinit mai bună decât cea de aici.
 Dialogue: 0,0:31:58.43,0:32:00.43,Default,,0,0,0,,Creștinismul nu spune că
 Dialogue: 0,0:32:00.43,0:32:04.26,Default,,0,0,0,,vei deveni parte din tot sau o forță impersonală
-Dialogue: 0,0:32:04.26,0:32:06.36,Default,,0,0,0,,sau praf stelar în univers..nu.
+Dialogue: 0,0:32:04.26,0:32:06.36,Default,,0,0,0,,sau praf stelar în univers ... nu.
 Dialogue: 0,0:32:06.36,0:32:08.56,Default,,0,0,0,,Spune {\i1}nu asta e dorința inimii tale{\i0}.
 Dialogue: 0,0:32:08.56,0:32:10.56,Default,,0,0,0,,{\i1}Inima ta tânjește după dragoste.{\i1}
 Dialogue: 0,0:32:10.56,0:32:14.33,Default,,0,0,0,,Iar viitorul după moarte e unul al dragostei.
-Dialogue: 0,0:32:14.33,0:32:16.46,Default,,0,0,0,,Deci, mai întai oferă un dumnezeu
-Dialogue: 0,0:32:16.46,0:32:19.36,Default,,0,0,0,,care a trăit suferință nedreaptă și te înțelege
-Dialogue: 0,0:32:19.36,0:32:21.36,Default,,0,0,0,,și te învață cum s-o confrunți
-Dialogue: 0,0:32:21.36,0:32:25.26,Default,,0,0,0,,apoi, promite că pe lângă orice dragoste ai pierdut aici,
+Dialogue: 0,0:32:14.33,0:32:16.46,Default,,0,0,0,,Deci, mai întâi oferă un dumnezeu
+Dialogue: 0,0:32:16.46,0:32:19.36,Default,,0,0,0,,care a trăit suferința nedreaptă și te înțelege,
+Dialogue: 0,0:32:19.36,0:32:21.36,Default,,0,0,0,,și te învață cum s-o confrunți.
+Dialogue: 0,0:32:21.36,0:32:25.26,Default,,0,0,0,,Apoi, promite că pe lângă orice dragoste ai pierdut aici,
 Dialogue: 0,0:32:25.26,0:32:27.13,Default,,0,0,0,,există o dragoste în viitor
 Dialogue: 0,0:32:27.13,0:32:29.13,Default,,0,0,0,,prin credința în Isus Hristos
 Dialogue: 0,0:32:29.13,0:32:31.70,Default,,0,0,0,,care e disponibilă și de neînchipuit.
 Dialogue: 0,0:32:31.70,0:32:35.73,Default,,0,0,0,,Iar al treilea lucru pe care îl oferă e {\i1}învierea{\i1}.
 Dialogue: 0,0:32:35.73,0:32:39.36,Default,,0,0,0,,Vă dați seama ce înseamnă învierea?
 Dialogue: 0,0:32:39.36,0:32:42.26,Default,,0,0,0,,Învierea înseamnă că nu vom trăi pentru totdeauna
-Dialogue: 0,0:32:42.26,0:32:46.16,Default,,0,0,0,,ca.. niște ființe cerești, plutind,
+Dialogue: 0,0:32:42.26,0:32:46.16,Default,,0,0,0,,ca ... niște ființe cerești, plutind,
 Dialogue: 0,0:32:46.16,0:32:47.90,Default,,0,0,0,,ca niște fantome sau așa ceva.
 Dialogue: 0,0:32:47.90,0:32:51.00,Default,,0,0,0,,Învierea înseamnă că Dumnezeu va recrea lumea asta
 Dialogue: 0,0:32:51.00,0:32:54.44,Default,,0,0,0,,și o va curați de orice suferință.
-Dialogue: 0,0:32:54.44,0:32:56.80,Default,,0,0,0,,și orice răutate și orice moarte
+Dialogue: 0,0:32:54.44,0:32:56.80,Default,,0,0,0,,și orice răutate și orice moarte,
 Dialogue: 0,0:32:56.80,0:32:58.80,Default,,0,0,0,,și orice imperfecțiune.
 Dialogue: 0,0:32:58.80,0:33:02.20,Default,,0,0,0,,Promisiunea învierii nu presupune doar
 Dialogue: 0,0:33:02.20,0:33:07.83,Default,,0,0,0,,că atunci când mori și ajungi în rai primești o consolare
 Dialogue: 0,0:33:07.83,0:33:09.83,Default,,0,0,0,,pentru viața pe care ai pierdut-o.
 Dialogue: 0,0:33:09.83,0:33:13.33,Default,,0,0,0,,O, nu. Creștinismul oferă mult mai mult decât consolare pentru viața pierdută.
-Dialogue: 0,0:33:13.33,0:33:17.13,Default,,0,0,0,,Promite restaurarea vieții pe care ai avut-o și chiar mai mult
-Dialogue: 0,0:33:17.13,0:33:20.66,Default,,0,0,0,,promite o viață pe care nici nu ai avut-o aici pe pământ.
+Dialogue: 0,0:33:13.33,0:33:17.13,Default,,0,0,0,,Promite restaurarea vieții pe care ai avut-o și chiar mai mult.
+Dialogue: 0,0:33:17.13,0:33:20.66,Default,,0,0,0,,Promite o viață pe care nici nu ai avut-o aici pe pământ,
 Dialogue: 0,0:33:20.66,0:33:23.63,Default,,0,0,0,,din cauza imperfecțiunilor și stricăciunii.
 Dialogue: 0,0:33:23.63,0:33:26.13,Default,,0,0,0,,Să facem un rezumat.
 Dialogue: 0,0:33:26.13,0:33:28.90,Default,,0,0,0,,Spre deosebire de religiile karmice,
-Dialogue: 0,0:33:28.90,0:33:31.20,Default,,0,0,0,,creștinismul spune {\i1}Nu..
-Dialogue: 0,0:33:31.20,0:33:33.20,Default,,0,0,0,,{\i1}multe suferinți sunt nedrepte{\i0}
+Dialogue: 0,0:33:28.90,0:33:31.20,Default,,0,0,0,,creștinismul spune {\i1}Nu ...
+Dialogue: 0,0:33:31.20,0:33:33.20,Default,,0,0,0,,{\i1}multe suferințe sunt nedrepte{\i0}
 Dialogue: 0,0:33:33.20,0:33:35.20,Default,,0,0,0,,{\i1}și li te poți împotrivi{\i0}.
 Dialogue: 0,0:33:35.20,0:33:37.96,Default,,0,0,0,,Spre deosebire de budism,
 Dialogue: 0,0:33:37.96,0:33:41.23,Default,,0,0,0,,am spune că suferința {\i1}este{\i0} de fapt reală
@@ -636,70 +636,70 @@ Dialogue: 0,0:33:41.23,0:33:44.60,Default,,0,0,0,,iar soluția este mai {\i1}mul
 Dialogue: 0,0:33:44.60,0:33:49.83,Default,,0,0,0,,Spre deosebire de cultura bazată pe rușine și onoare,
 Dialogue: 0,0:33:49.83,0:33:53.23,Default,,0,0,0,,spune {\i1}Nu trebuie să fii stoic, poți plânge.{\i0}.
 Dialogue: 0,0:33:53.23,0:33:55.23,Default,,0,0,0,,Deci hai să tragem o concluzie.
-Dialogue: 0,0:33:55.23,0:33:57.20,Default,,0,0,0,,Dacă ne uităm la Biblie și spui {\i1}bine{\i0}
+Dialogue: 0,0:33:55.23,0:33:57.20,Default,,0,0,0,,Dacă ne uităm la biblie și spui {\i1}bine{\i0}
 Dialogue: 0,0:33:57.20,0:33:59.20,Default,,0,0,0,,{\i1}cum înțeleg doctrinele astea?{\i0}
 Dialogue: 0,0:33:59.20,0:34:01.50,Default,,0,0,0,,Promisiunea unui dumnezeu care a suferit,
 Dialogue: 0,0:34:01.50,0:34:04.50,Default,,0,0,0,,promisiunea unei lumi cerești pline de dragoste,
-Dialogue: 0,0:34:04.50,0:34:05.76,Default,,0,0,0,,promisiunea învierii..
+Dialogue: 0,0:34:04.50,0:34:05.76,Default,,0,0,0,,promisiunea învierii ...
 Dialogue: 0,0:34:05.76,0:34:10.06,Default,,0,0,0,,Cum folosim astea pentru a înfrunta problemele pe care le avem?
 Dialogue: 0,0:34:10.06,0:34:13.96,Default,,0,0,0,,Vreau să vă dau rapid șase lucruri, șase pași
-Dialogue: 0,0:34:13.96,0:34:18.83,Default,,0,0,0,,pe care cred că ni-i dă Biblia,
-Dialogue: 0,0:34:18.83,0:34:20.83,Default,,0,0,0,,nu în ordinea asta, dar ăștia sunt.
+Dialogue: 0,0:34:13.96,0:34:18.83,Default,,0,0,0,,pe care, cred că Biblia ne oferă.
+Dialogue: 0,0:34:18.83,0:34:20.83,Default,,0,0,0,,Nu în ordinea asta, dar aceștia sunt.
 Dialogue: 0,0:34:20.83,0:34:22.50,Default,,0,0,0,,Îi iau câte doi.
 Dialogue: 0,0:34:22.50,0:34:25.70,Default,,0,0,0,,Mai întai, {\i1}să plângi, dar să te încrezi{\i0}
-Dialogue: 0,0:34:25.70,0:34:29.20,Default,,0,0,0,,Să plângi, dar sâ ai încredere.
+Dialogue: 0,0:34:25.70,0:34:29.20,Default,,0,0,0,,Să plângi, dar să ai încredere.
 Dialogue: 0,0:34:29.20,0:34:33.23,Default,,0,0,0,,Unul din cele mai importante lucruri despre cartea Iov
-Dialogue: 0,0:34:33.23,0:34:38.33,Default,,0,0,0,,e că îl vedem pe Iov rămânand mereu lângă Dumnezeu.
+Dialogue: 0,0:34:33.23,0:34:38.33,Default,,0,0,0,,e că îl vedem pe Iov rămânând mereu lângă Dumnezeu.
 Dialogue: 0,0:34:38.33,0:34:41.00,Default,,0,0,0,,Și totuși realismul emoției e minunat.
 Dialogue: 0,0:34:41.00,0:34:42.60,Default,,0,0,0,,Citiți cartea!
-Dialogue: 0,0:34:42.60,0:34:47.00,Default,,0,0,0,,El întreabă: "De ce m-ai lăsat să mă nasc?"
-Dialogue: 0,0:34:47.00,0:34:50.30,Default,,0,0,0,,El zice:"Nu înțeleg ce se întamplă."
+Dialogue: 0,0:34:42.60,0:34:47.00,Default,,0,0,0,,El întreabă: {\i1}"De ce m-ai lăsat să mă nasc?"{\i0}
+Dialogue: 0,0:34:47.00,0:34:50.30,Default,,0,0,0,,El zice: {\i1}"Nu înțeleg ce se întamplă."{\i0}
 Dialogue: 0,0:34:50.30,0:34:52.30,Default,,0,0,0,,E un realism al trăirii.
 Dialogue: 0,0:34:52.30,0:34:55.20,Default,,0,0,0,,Dar până la sfârșit el rămâne credincios.
-Dialogue: 0,0:34:55.20,0:34:59.20,Default,,0,0,0,,Iar pentru că spune "la urma urmei trebuie să existe un dumnezeu"
-Dialogue: 0,0:34:59.20,0:35:01.20,Default,,0,0,0,,"altfel nu ai pe cine să fii furios."
-Dialogue: 0,0:35:01.20,0:35:04.93,Default,,0,0,0,,"Trebuie să fie un dumnezeu, altfel nu există bine și rău."
-Dialogue: 0,0:35:04.93,0:35:06.93,Default,,0,0,0,,Trebuie să fie un dumnezeu,
-Dialogue: 0,0:35:06.93,0:35:09.66,Default,,0,0,0,,altfel cine poate spune ce e rău și ce nu?
-Dialogue: 0,0:35:09.66,0:35:12.43,Default,,0,0,0,,Și în același timp emoția e atât de reală..
+Dialogue: 0,0:34:55.20,0:34:59.20,Default,,0,0,0,,Iar pentru că spune {\i1}"la urma urmei trebuie să existe un dumnezeu{\i0}
+Dialogue: 0,0:34:59.20,0:35:01.20,Default,,0,0,0,,{\i1}altfel nu ai pe cine să fii furios."{\i0}
+Dialogue: 0,0:35:01.20,0:35:04.93,Default,,0,0,0,,{\i1}"Trebuie să fie un dumnezeu, altfel nu există bine și rău.{\i0}
+Dialogue: 0,0:35:04.93,0:35:06.93,Default,,0,0,0,,{\i1}Trebuie să fie un dumnezeu,{\i0}
+Dialogue: 0,0:35:06.93,0:35:09.66,Default,,0,0,0,,{\i1}altfel cine poate spune ce e rău și ce nu?"{\i0}
+Dialogue: 0,0:35:09.66,0:35:12.43,Default,,0,0,0,,Și în același timp emoția e atât de reală ...
 Dialogue: 0,0:35:12.43,0:35:14.63,Default,,0,0,0,,Ce vreau să spun prin asta e că
-Dialogue: 0,0:35:14.63,0:35:19.30,Default,,0,0,0,,unii spun "dacă ai încredere în Dumnezeu, nu trebuie să te superi prea tare".
-Dialogue: 0,0:35:19.30,0:35:21.56,Default,,0,0,0,,Dar Biblia spune "Nu, nu, nu."
-Dialogue: 0,0:35:21.56,0:35:24.73,Default,,0,0,0,,"Încrede-te în Dumnezeu și totuși poți fi supărat."
-Dialogue: 0,0:35:24.73,0:35:26.40,Default,,0,0,0,,Isus a spus "Facă-se voia Ta"
+Dialogue: 0,0:35:14.63,0:35:19.30,Default,,0,0,0,,unii spun {\i1}"dacă ai încredere în Dumnezeu, nu trebuie să te superi prea tare".{\i0}
+Dialogue: 0,0:35:19.30,0:35:21.56,Default,,0,0,0,,Dar Biblia spune: {\i1}"Nu, nu, nu."{\i0}
+Dialogue: 0,0:35:21.56,0:35:24.73,Default,,0,0,0,,"Încrede-te în Dumnezeu și totuși, poți fi și supărat."
+Dialogue: 0,0:35:24.73,0:35:26.40,Default,,0,0,0,,Isus a spus {\i0}"Facă-se voia Ta!"{\i1},
 Dialogue: 0,0:35:26.40,0:35:28.40,Default,,0,0,0,,dar striga de pe cruce.
 Dialogue: 0,0:35:28.40,0:35:30.29,Default,,0,0,0,,Deci plângi, dar te încrezi.
 Dialogue: 0,0:35:30.29,0:35:31.33,Default,,0,0,0,,În al doilea rând,
 Dialogue: 0,0:35:31.33,0:35:33.50,Default,,0,0,0,,te rogi, dar gândești.
-Dialogue: 0,0:35:33.50,0:35:36.00,Default,,0,0,0,,Acum, când zic {\i1}te rogi{\i0}..
-Dialogue: 0,0:35:36.00,0:35:38.40,Default,,0,0,0,,Uite cel mai interesant lucru la cartea Iov
-Dialogue: 0,0:35:38.40,0:35:40.00,Default,,0,0,0,,Îmi aduc aminte, ani în urmă,
+Dialogue: 0,0:35:33.50,0:35:36.00,Default,,0,0,0,,Acum, când zic {\i1}te rogi{\i0} ...
+Dialogue: 0,0:35:36.00,0:35:38.40,Default,,0,0,0,,uite cel mai interesant lucru la cartea Iov ...
+Dialogue: 0,0:35:38.40,0:35:40.00,Default,,0,0,0,,îmi aduc aminte, ani în urmă,
 Dialogue: 0,0:35:40.00,0:35:42.00,Default,,0,0,0,,citeam Iov pentru prima dată
 Dialogue: 0,0:35:42.00,0:35:44.63,Default,,0,0,0,,și mi se părea tare greu de înțeles.
-Dialogue: 0,0:35:44.63,0:35:46.63,Default,,0,0,0,,Iov era...
+Dialogue: 0,0:35:44.63,0:35:46.63,Default,,0,0,0,,Iov era ...
 Dialogue: 0,0:35:46.63,0:35:48.63,Default,,0,0,0,,părea că se plânge tot timpul.
-Dialogue: 0,0:35:48.63,0:35:51.13,Default,,0,0,0,,Pare că îl ia la întrebări pe Dumnezeu
-Dialogue: 0,0:35:51.13,0:35:53.70,Default,,0,0,0,,nu pare, chiar asta face: îl întreabă pe Dumnezeu.
-Dialogue: 0,0:35:53.70,0:35:55.03,Default,,0,0,0,,zice "De ce îmi faci asta?"
+Dialogue: 0,0:35:48.63,0:35:51.13,Default,,0,0,0,,Pare că îl ia la întrebări pe Dumnezeu.
+Dialogue: 0,0:35:51.13,0:35:53.70,Default,,0,0,0,,Nu {\i1}"pare"{\i0}, chiar asta face: îl întreabă pe Dumnezeu.
+Dialogue: 0,0:35:53.70,0:35:55.03,Default,,0,0,0,,zice {\i1}"De ce îmi faci asta?"{\i0}
 Dialogue: 0,0:35:55.03,0:35:57.03,Default,,0,0,0,,"De ce lași suferință în viața mea?"
-Dialogue: 0,0:35:57.03,0:35:59.03,Default,,0,0,0,,"De ce mi se întâmplă toate astea?"
-Dialogue: 0,0:35:59.03,0:36:02.32,Default,,0,0,0,,Și la final, Dumnezeu se arată și spune:{\i1} Iov{\i0}
+Dialogue: 0,0:35:57.03,0:35:59.03,Default,,0,0,0,,"De ce mi se întâmplă toate acestea?"
+Dialogue: 0,0:35:59.03,0:36:02.32,Default,,0,0,0,,Și la final, Dumnezeu se arată și spune: {\i1}Iov,{\i0}
 Dialogue: 0,0:36:02.32,0:36:03.96,Default,,0,0,0,,{\i1}tu ai făcut bine!{\i0}
 Dialogue: 0,0:36:03.96,0:36:07.20,Default,,0,0,0,,Iar eu ma gândeam: Stai un pic!
 Dialogue: 0,0:36:07.20,0:36:09.08,Default,,0,0,0,,De ce ar spune Dumnezeu asta?
 Dialogue: 0,0:36:09.08,0:36:11.04,Default,,0,0,0,,Și am avut un profesor în {\i1}"Vechiul testament"{\i0}
-Dialogue: 0,0:36:11.04,0:36:14.92,Default,,0,0,0,,care ne învăța din cartea lui Iov, și ne-a zis: {\i1}A, da!{\i0}
+Dialogue: 0,0:36:11.04,0:36:14.92,Default,,0,0,0,,care ne învăța din cartea lui Iov, și ne-a zis: {\i1}"A, da!{\i0}
 Dialogue: 0,0:36:14.92,0:36:18.46,Default,,0,0,0,,{\i1}Iov se plângea, țipa, urla,{\i0}
-Dialogue: 0,0:36:18.46,0:36:21.94,Default,,0,0,0,,{\i1} facea "spume la gură"{\i0},
-Dialogue: 0,0:36:21.94,0:36:24.80,Default,,0,0,0,,{\i1}Însa facea așa înspre Dumnezeu{\i0}
+Dialogue: 0,0:36:18.46,0:36:21.94,Default,,0,0,0,,{\i1}facea "spume la gură"{\i0},
+Dialogue: 0,0:36:21.94,0:36:24.80,Default,,0,0,0,,{\i1}Însa facea așa înspre Dumnezeu."{\i0}
 Dialogue: 0,0:36:24.80,0:36:26.40,Default,,0,0,0,,El nu a încetat să se roage!
 Dialogue: 0,0:36:26.40,0:36:28.40,Default,,0,0,0,,Toate plângerile lui
-Dialogue: 0,0:36:28.40,0:36:30.40,Default,,0,0,0,,le-a ridicat în fața lui Dumneze.
+Dialogue: 0,0:36:28.40,0:36:30.40,Default,,0,0,0,,le-a ridicat în fața lui Dumnezeu.
 Dialogue: 0,0:36:30.40,0:36:33.42,Default,,0,0,0,,Deci, rugați-vă, indiferent cât de rău vă simțiți.
 Dialogue: 0,0:36:33.42,0:36:35.42,Default,,0,0,0,,Însă folosiți-vă și mintea.
 Dialogue: 0,0:36:35.42,0:36:38.54,Default,,0,0,0,,Ceea ce vedeți la Iov este că se zbate,
 Dialogue: 0,0:36:38.54,0:36:40.72,Default,,0,0,0,,pentru că sunt locuri în care el spune:
-Dialogue: 0,0:36:40.72,0:36:46.10,Default,,0,0,0,,{\i1}"Nu știu de ce Dumnezeu face așa, însă după ce mă va testa, eu voi ajunge ca și aurul"{\i0}
+Dialogue: 0,0:36:40.72,0:36:46.10,Default,,0,0,0,,{\i1}"Nu știu de ce Dumnezeu face așa, însă după ce mă va testa, eu voi ajunge ca și aurul."{\i0}
 Dialogue: 0,0:36:46.10,0:36:49.88,Default,,0,0,0,,Sunt și alte locuri unde spune: {\i1}Sigur, însă știu că răscumpăratorul meu trăiește,{\i0}
 Dialogue: 0,0:36:49.88,0:36:51.88,Default,,0,0,0,,{\i1}și că, la sfârșit, se va ridica pe pământ.{\i0}
 Dialogue: 0,0:36:51.88,0:36:56.02,Default,,0,0,0,,El încearcă și una și alta, se gândește, îsi amintește, se luptă,
@@ -707,18 +707,18 @@ Dialogue: 0,0:36:56.04,0:36:57.70,Default,,0,0,0,,însă se și roagă.
 Dialogue: 0,0:36:57.70,0:37:02.74,Default,,0,0,0,,Acest lucru ... uitați-vă în psalmi: cel puțin o treime din psalmi este așa.
 Dialogue: 0,0:37:02.74,0:37:06.04,Default,,0,0,0,,Deci, {\i1}"să plângi, dar să te încrezi!"{\i0},
 Dialogue: 0,0:37:06.08,0:37:09.18,Default,,0,0,0,,apoi {\i1}"roagă-te dar folosește-ți mintea!"{\i0}
-Dialogue: 0,0:37:09.18,0:37:12.10,Default,,0,0,0,,Gândește-te la faptul că nu poți vedea totul așa cum ar trebui
+Dialogue: 0,0:37:09.18,0:37:12.10,Default,,0,0,0,,Gândește-te la faptul că nu poți vedea totul așa cum ar trebui.
 Dialogue: 0,0:37:12.12,0:37:15.52,Default,,0,0,0,,Gândește-te la faptul că numai Dumnezeu poate să vadă imaginea de asamblu,
 Dialogue: 0,0:37:15.52,0:37:17.28,Default,,0,0,0,,cu privire la ceea ce se întâmplă.
 Dialogue: 0,0:37:17.28,0:37:19.28,Default,,0,0,0,,Și apoi ultimele două:
-Dialogue: 0,0:37:19.28,0:37:22.80,Default,,0,0,0,,"Reorganizează-ți ceea ce iubești, și ai nădejde"
+Dialogue: 0,0:37:19.28,0:37:22.80,Default,,0,0,0,,"Reorganizează-ți ceea ce iubești, și ai nădejde!"
 Dialogue: 0,0:37:22.80,0:37:26.96,Default,,0,0,0,,Și când spun {\i1}Reorganizează-ți ceea ce iubești{\i0}, asta ar fi un subiect în sine,
 Dialogue: 0,0:37:26.96,0:37:29.64,Default,,0,0,0,,însă am să menționez ceva pe scurt.
 Dialogue: 0,0:37:29.64,0:37:32.52,Default,,0,0,0,,De multe ori când vine suferința,
 Dialogue: 0,0:37:32.52,0:37:37.70,Default,,0,0,0,,trebuie să îți reorganizezi prioritățile. Te uiți la viață și spui: {\i1}"Lucrurile astea sunt mult mai importante"{\i0}.
-Dialogue: 0,0:37:37.70,0:37:40.68,Default,,0,0,0,,Parcă ar fi o glumă, Îmi pare rău că trebuie să spun asta, insă
-Dialogue: 0,0:37:40.68,0:37:44.92,Default,,0,0,0,,pentru că sunt un păstor, și am vorbit cu oameni pe patul de moarte,
-Dialogue: 0,0:37:44.92,0:37:49.00,Default,,0,0,0,,vreau să știți că, pe patul de moarte nimeni nu spune
+Dialogue: 0,0:37:37.70,0:37:40.68,Default,,0,0,0,,Parcă ar fi o glumă, îmi pare rău că trebuie să spun asta, însă
+Dialogue: 0,0:37:40.68,0:37:44.92,Default,,0,0,0,,pentru că sunt un pastor, și am vorbit cu oameni pe patul de moarte,
+Dialogue: 0,0:37:44.92,0:37:49.00,Default,,0,0,0,,vreau să știți că, pe patul de moarte nimeni nu spune:
 Dialogue: 0,0:37:49.00,0:37:51.94,Default,,0,0,0,,{\i1}"Ah, ce aș da ca să fi petrecut mai mult timp la serviciu!"{\i0}
 Dialogue: 0,0:37:51.94,0:37:53.92,Default,,0,0,0,,Nimeni nu spune asta!
 Dialogue: 0,0:37:53.92,0:37:57.92,Default,,0,0,0,,Când cineva moare, se uită în trecut
@@ -726,50 +726,50 @@ Dialogue: 0,0:37:57.92,0:38:00.38,Default,,0,0,0,,și prioritățile incep să s
 Dialogue: 0,0:38:00.38,0:38:04.04,Default,,0,0,0,,Suferința îți dă șansa să schimbi prioritățile acum
 Dialogue: 0,0:38:04.04,0:38:08.08,Default,,0,0,0,,și să reorganizezi ceea ce iubești. Poate că iubești ceva mai mult decât trebuie.
 Dialogue: 0,0:38:08.08,0:38:10.90,Default,,0,0,0,,Nu trebuie să iubești cariera mai mult decât familia!
-Dialogue: 0,0:38:10.90,0:38:14.96,Default,,0,0,0,,Dacă faci așa, atunci vei pierde familia și probabil și cariera
+Dialogue: 0,0:38:10.90,0:38:14.96,Default,,0,0,0,,Dacă faci așa, atunci vei pierde familia și probabil și cariera.
 Dialogue: 0,0:38:14.96,0:38:18.20,Default,,0,0,0,,Deci {\i1}Reorganizează-ți ceea ce iubești, și ai nădejde!"{\i0}
 Dialogue: 0,0:38:18.20,0:38:21.76,Default,,0,0,0,,Când spun nădejde mă refer la lucrurile per care le-am spus pe scurt.
 Dialogue: 0,0:38:21.76,0:38:25.54,Default,,0,0,0,,Faptul că în rai avem parte la dragoste și înviere.
 Dialogue: 0,0:38:25.54,0:38:28.86,Default,,0,0,0,,Să va spun vreo două citate interesante.
 Dialogue: 0,0:38:28.86,0:38:34.12,Default,,0,0,0,,Stiți ... unul dintre locurile mele preferate din "Lord of the Rings" (Regele Inelelor),
-Dialogue: 0,0:38:34.12,0:38:37.52,Default,,0,0,0,,nu în film, dar in carte ...
+Dialogue: 0,0:38:34.12,0:38:37.52,Default,,0,0,0,,nu în film, dar în carte ...
 Dialogue: 0,0:38:37.52,0:38:40.68,Default,,0,0,0,,În a treia carte, Sam Gamgee descoperă că
-Dialogue: 0,0:38:40.68,0:38:45.14,Default,,0,0,0,,prietenul lui Gandalf nu este mort (așa cum credea), ci este viu,
-Dialogue: 0,0:38:45.14,0:38:47.14,Default,,0,0,0,,și Sam spune: {\i1}"Gandalf!{\i0}
+Dialogue: 0,0:38:40.68,0:38:45.14,Default,,0,0,0,,prietenul lui, Gandalf nu este mort (așa cum credea), ci este viu.
+Dialogue: 0,0:38:45.14,0:38:47.14,Default,,0,0,0,,Și Sam spune: {\i1}"Gandalf!{\i0}
 Dialogue: 0,0:38:47.14,0:38:49.74,Default,,0,0,0,,{\i1}Am crezut că ai murit!{\i0}
-Dialogue: 0,0:38:50.20,0:38:52.78,Default,,0,0,0,,{\i1}Dar apoi am crezut că și eu am murit {\i0}
-Dialogue: 0,0:38:52.78,0:38:57.58,Default,,0,0,0,,{\i1}Tot ce este trist ... va deveni  cumva neadevărat?{\i0}
+Dialogue: 0,0:38:50.20,0:38:52.78,Default,,0,0,0,,{\i1}Dar apoi am crezut că și eu am murit.{\i0}
+Dialogue: 0,0:38:52.78,0:38:57.58,Default,,0,0,0,,{\i1}Tot ce este trist ... va deveni  cumva neadevărat?"{\i0}
 Dialogue: 0,0:38:57.58,0:39:01.16,Default,,0,0,0,,Știți, într-un fel,
 Dialogue: 0,0:39:01.16,0:39:04.32,Default,,0,0,0,, ... trebuie să spun cu atenție, și va trebui să calific lucru acesta,
 Dialogue: 0,0:39:04.32,0:39:06.60,Default,,0,0,0,,dacă tu crezi în înviere
 Dialogue: 0,0:39:06.60,0:39:10.02,Default,,0,0,0,,da, {\i1}Tot ce este trist ... va deveni  cumva neadevărat.{\i0}
 Dialogue: 0,0:39:10.02,0:39:15.04,Default,,0,0,0,,Cu alte cuvinte, lumea de care aparținem,
-Dialogue: 0,0:39:15.04,0:39:17.84,Default,,0,0,0,,care a fost facută pentru noi,
+Dialogue: 0,0:39:15.04,0:39:17.84,Default,,0,0,0,,care a fost făcută pentru noi,
 Dialogue: 0,0:39:17.84,0:39:21.12,Default,,0,0,0,,va deveni eventual infinit mai glorioasă
-Dialogue: 0,0:39:21.12,0:39:24.66,Default,,0,0,0,,pentru că cei suferinzi și tot răul
-Dialogue: 0,0:39:24.66,0:39:26.50,Default,,0,0,0,,va fi restaurat.
+Dialogue: 0,0:39:21.12,0:39:24.66,Default,,0,0,0,,pentru că cei suferinzi și tot răul,
+Dialogue: 0,0:39:24.66,0:39:26.50,Default,,0,0,0,,vor fi restaurate.
 Dialogue: 0,0:39:26.50,0:39:28.90,Default,,0,0,0,,Așa că tot ce spune Sam e cumva adevărat.
-Dialogue: 0,0:39:28.90,0:39:33.00,Default,,0,0,0,,Un alt lucru fascinant..ăsta e din Dostoievski.
-Dialogue: 0,0:39:33.00,0:39:38.23,Default,,0,0,0,,Este un pasaj în care unul din frații Karamazov zice așa,
+Dialogue: 0,0:39:28.90,0:39:33.00,Default,,0,0,0,,Un alt lucru fascinant ... acesta e din Dostoievski,
+Dialogue: 0,0:39:33.00,0:39:38.23,Default,,0,0,0,,este un pasaj în care unul din frații Karamazov zice așa,
 Dialogue: 0,0:39:38.23,0:39:40.23,Default,,0,0,0,,și am să închei cu asta,
-Dialogue: 0,0:39:40.23,0:39:44.40,Default,,0,0,0,,{\i1}"Ca un copil, cred că suferința va fi vindecată și răsplătită,"
-Dialogue: 0,0:39:44.40,0:39:46.40,Default,,0,0,0,,{\i1}"că absurditățile umilitoare"
-Dialogue: 0,0:39:46.40,0:39:48.76,Default,,0,0,0,,{\i1}"ale contradicțiilor umane vor dispărea"
-Dialogue: 0,0:39:48.76,0:39:50.73,Default,,0,0,0,,{\i1}"ca un miraj jalnic,"
-Dialogue: 0,0:39:50.73,0:39:53.10,Default,,0,0,0,,{\i1}"ca o iluzie înjositoare concepută de"
-Dialogue: 0,0:39:53.10,0:39:56.90,Default,,0,0,0,,{\i1}"mintea Euclidiană, infinit de mică și neputincioasă a omului;"
-Dialogue: 0,0:39:56.90,0:39:58.90,Default,,0,0,0,,{\i1}"că la sfârșitul lumii"
-Dialogue: 0,0:39:58.90,0:40:01.26,Default,,0,0,0,,{\i1}"în momentul armoniei eterne"
-Dialogue: 0,0:40:01.26,0:40:03.36,Default,,0,0,0,,{\i1}"ceva atât de prețios va veni"
-Dialogue: 0,0:40:03.36,0:40:05.36,Default,,0,0,0,,{\i1}"și va ajunge tuturor inimilor"
-Dialogue: 0,0:40:05.36,0:40:07.36,Default,,0,0,0,,{\i1}"pentru mângâierea resentimentelor"
-Dialogue: 0,0:40:07.36,0:40:10.56,Default,,0,0,0,,{\i1}"pentru ispășirea tuturor crimelor"
-Dialogue: 0,0:40:10.56,0:40:12.80,Default,,0,0,0,,{\i1}"al sângelui ce a fost vârsat"
-Dialogue: 0,0:40:12.80,0:40:15.73,Default,,0,0,0,,{\i1}"și va fi posibil, nu doar să ierți"
-Dialogue: 0,0:40:15.73,0:40:19.10,Default,,0,0,0,,{\i1}"dar să și justifici ce s-a întâmplat."
-Dialogue: 0,0:40:19.10,0:40:21.50,Default,,0,0,0,,{\i1}"Aceasta e înfrângerea finală a suferinței."
-Dialogue: 0,0:40:21.50,0:40:25.66,Default,,0,0,0,,Eu. creștin fiind, cred că asta mi se oferă mie.
-Dialogue: 0,0:40:25.66,0:40:28.33,Default,,0,0,0,,Și cred că asta îți oferă ție creștinismul.
+Dialogue: 0,0:39:40.23,0:39:44.40,Default,,0,0,0,,{\i1}"Ca un copil, cred că suferința va fi vindecată și răsplătită,{\i0}
+Dialogue: 0,0:39:44.40,0:39:46.40,Default,,0,0,0,,{\i1}că absurditățile umilitoare{\i0}
+Dialogue: 0,0:39:46.40,0:39:48.76,Default,,0,0,0,,{\i1}ale contradicțiilor umane vor dispărea{\i0}
+Dialogue: 0,0:39:48.76,0:39:50.73,Default,,0,0,0,,{\i1}ca un miraj jalnic,{\i0}
+Dialogue: 0,0:39:50.73,0:39:53.10,Default,,0,0,0,,{\i1}ca o iluzie înjositoare concepută de{\i0}
+Dialogue: 0,0:39:53.10,0:39:56.90,Default,,0,0,0,,{\i1}mintea Euclidiană, infinit de mică și neputincioasă a omului;{\i1}
+Dialogue: 0,0:39:56.90,0:39:58.90,Default,,0,0,0,,{\i1}că la sfârșitul lumii,{\i0}
+Dialogue: 0,0:39:58.90,0:40:01.26,Default,,0,0,0,,{\i1}în momentul armoniei eterne{\i0}
+Dialogue: 0,0:40:01.26,0:40:03.36,Default,,0,0,0,,{\i1}ceva atât de prețios va veni{\i0}
+Dialogue: 0,0:40:03.36,0:40:05.36,Default,,0,0,0,,{\i1}și va ajunge tuturor inimilor{\i0}
+Dialogue: 0,0:40:05.36,0:40:07.36,Default,,0,0,0,,{\i1}pentru mângâierea resentimentelor,{\i0}
+Dialogue: 0,0:40:07.36,0:40:10.56,Default,,0,0,0,,{\i1}pentru ispășirea tuturor crimelor"{\i0}
+Dialogue: 0,0:40:10.56,0:40:12.80,Default,,0,0,0,,{\i1}al sângelui ce a fost vârsat.{\i0}
+Dialogue: 0,0:40:12.80,0:40:15.73,Default,,0,0,0,,{\i1}Și va fi posibil, nu doar să ierți{\i1}
+Dialogue: 0,0:40:15.73,0:40:19.10,Default,,0,0,0,,{\i0}dar să și justifici ce s-a întâmplat."{\i1}
+Dialogue: 0,0:40:19.10,0:40:21.50,Default,,0,0,0,,{\i1}Aceasta e înfrângerea finală a suferinței".{\i0}
+Dialogue: 0,0:40:21.50,0:40:25.66,Default,,0,0,0,,Eu, creștin fiind, cred că asta mi se oferă mie.
+Dialogue: 0,0:40:25.66,0:40:28.33,Default,,0,0,0,,Și cred că asta îți oferă și ție creștinismul.
 Dialogue: 0,0:40:28.33,0:40:31.93,Default,,0,0,0,,Așa că Justin, te rog vino aici
 Dialogue: 0,0:40:31.93,0:40:33.93,Default,,0,0,0,,și spune-ne ce facem mai departe.
 Dialogue: 0,0:40:33.93,0:40:35.93,Default,,0,0,0,,
@@ -780,66 +780,66 @@ Dialogue: 0,0:40:40.96,0:40:44.40,Default,,0,0,0,,e să trecem la partea de înt
 Dialogue: 0,0:40:44.40,0:40:47.60,Default,,0,0,0,,Dar hai să ne uităm la unele întrebări.
 Dialogue: 0,0:40:47.60,0:40:51.80,Default,,0,0,0,,Tim, am avut câteva întrebări trimise
 Dialogue: 0,0:40:51.80,0:40:55.83,Default,,0,0,0,,cu precădere despre islam și iudaism.
-Dialogue: 0,0:40:55.83,0:41:00.13,Default,,0,0,0,,Ai numit câteva alte religii și perspective asupra lumii
+Dialogue: 0,0:40:55.83,0:41:00.13,Default,,0,0,0,,Ai numit câteva alte religii și perspective din lume.
 Dialogue: 0,0:41:00.13,0:41:05.50,Default,,0,0,0,,Unde intră iudaismul și islamul în discuția asta?
 Dialogue: 0,0:41:05.50,0:41:10.76,Default,,0,0,0,,Motivul pentru care nu am inclus iudaismul și islamul este că
 Dialogue: 0,0:41:10.76,0:41:13.33,Default,,0,0,0,,evident, ele sunt religii monoteiste
-Dialogue: 0,0:41:13.33,0:41:16.76,Default,,0,0,0,,deci cred într-un dumnezeu personal și infinit
-Dialogue: 0,0:41:16.76,0:41:20.10,Default,,0,0,0,,așa că modul în care înțeleg suferința nu e chiar
+Dialogue: 0,0:41:13.33,0:41:16.76,Default,,0,0,0,,deci cred într-un dumnezeu personal și infinit.
+Dialogue: 0,0:41:16.76,0:41:20.10,Default,,0,0,0,,Așa că, modul în care înțeleg suferința nu e chiar
 Dialogue: 0,0:41:20.10,0:41:22.06,Default,,0,0,0,,atât de diferit față de creștinism.
-Dialogue: 0,0:41:22.06,0:41:24.06,Default,,0,0,0,,Creștinismul, sigur, are o..
+Dialogue: 0,0:41:22.06,0:41:24.06,Default,,0,0,0,,Creștinismul, sigur, are o ...
 Dialogue: 0,0:41:24.06,0:41:27.33,Default,,0,0,0,,relație destul de interesantă cu ambele religii.
-Dialogue: 0,0:41:27.33,0:41:29.33,Default,,0,0,0,,pentru că iudaismul..
+Dialogue: 0,0:41:27.33,0:41:29.33,Default,,0,0,0,,pentru că iudaismul ...
 Dialogue: 0,0:41:29.33,0:41:32.56,Default,,0,0,0,,trei sferturi din Biblia creștină sunt scripturi evreiești.
 Dialogue: 0,0:41:32.56,0:41:36.40,Default,,0,0,0,,Așa că, de exemplu, acele trei lucruri
 Dialogue: 0,0:41:36.40,0:41:39.60,Default,,0,0,0,,pe care creștinismul le oferă și sunt unice.
-Dialogue: 0,0:41:39.60,0:41:42.26,Default,,0,0,0,,Primul e {\i1}un dumnezeu care a suferit
-Dialogue: 0,0:41:42.26,0:41:44.26,Default,,0,0,0,,...pe nedrept.
+Dialogue: 0,0:41:39.60,0:41:42.26,Default,,0,0,0,,Primul e, un dumnezeu care a suferit
+Dialogue: 0,0:41:42.26,0:41:44.26,Default,,0,0,0,,... pe nedrept.
 Dialogue: 0,0:41:44.26,0:41:49.30,Default,,0,0,0,,Iar asta îți dă o motivație reală, puternică pentru
 Dialogue: 0,0:41:49.30,0:41:51.76,Default,,0,0,0,,a te împotrivi nedreptății din lume.
-Dialogue: 0,0:41:51.76,0:41:57.56,Default,,0,0,0,,Dar..nici iudaismul, nici islamul nu cred asta, bineînțeles.
-Dialogue: 0,0:41:57.56,0:42:01.80,Default,,0,0,0,,În al doilea rând, ideea că viitorul e personal
+Dialogue: 0,0:41:51.76,0:41:57.56,Default,,0,0,0,,Dar ... nici iudaismul, nici islamul nu cred asta, bineînțeles.
+Dialogue: 0,0:41:57.56,0:42:01.80,Default,,0,0,0,,În al doilea rând, ideea că viitorul e personal,
 Dialogue: 0,0:42:01.80,0:42:05.80,Default,,0,0,0,,că există relații de dragoste în viitor,
 Dialogue: 0,0:42:05.80,0:42:10.16,Default,,0,0,0,,că nu te pierzi în tot, ci îți păstrezi personalitatea,
-Dialogue: 0,0:42:10.16,0:42:12.16,Default,,0,0,0,,ceea ce cred că e un lucru minunat, pe care
-Dialogue: 0,0:42:12.16,0:42:14.16,Default,,0,0,0,,înauntrul nostru vrem să îl credem.
-Dialogue: 0,0:42:14.16,0:42:16.96,Default,,0,0,0,,Dar..în seara asta nu am intenționat
+Dialogue: 0,0:42:10.16,0:42:12.16,Default,,0,0,0,,cred e că este un lucru minunat, pe care
+Dialogue: 0,0:42:12.16,0:42:14.16,Default,,0,0,0,,înăuntrul nostru vrem să îl credem.
+Dialogue: 0,0:42:14.16,0:42:16.96,Default,,0,0,0,,Dar ... în seara asta nu am intenționat
 Dialogue: 0,0:42:16.96,0:42:20.30,Default,,0,0,0,,să dovedesc validitatea creștinismului.
 Dialogue: 0,0:42:20.30,0:42:22.53,Default,,0,0,0,,Încerc în seara asta să vă arăt doar ce oferă.
 Dialogue: 0,0:42:22.53,0:42:26.13,Default,,0,0,0,,Totuși, islamul si iudaismul, ambele cred asta.
-Dialogue: 0,0:42:26.13,0:42:28.13,Default,,0,0,0,,Iudaismul..depinde un pic
+Dialogue: 0,0:42:26.13,0:42:28.13,Default,,0,0,0,,Iudaismul ... depinde un pic ...
 Dialogue: 0,0:42:28.13,0:42:30.13,Default,,0,0,0,,cei care sunteți evrei,
 Dialogue: 0,0:42:30.13,0:42:33.73,Default,,0,0,0,,știți că bineînțeles sunt mulți evrei azi care
-Dialogue: 0,0:42:33.73,0:42:35.79,Default,,0,0,0,,nu prea cred într-o viață de dupa.
+Dialogue: 0,0:42:33.73,0:42:35.79,Default,,0,0,0,,nu prea cred într-o viață după moarte.
 Dialogue: 0,0:42:35.79,0:42:38.76,Default,,0,0,0,,Dar realitatea, din punct de vedere istoric,
 Dialogue: 0,0:42:38.76,0:42:41.56,Default,,0,0,0,,cartea Daniel, spre exemplu, dar și altele
-Dialogue: 0,0:42:41.56,0:42:44.30,Default,,0,0,0,,în scripturile evreiești
-Dialogue: 0,0:42:44.30,0:42:47.03,Default,,0,0,0,,sunt indicații clare că există viața de după
-Dialogue: 0,0:42:47.03,0:42:49.03,Default,,0,0,0,,ba chiar, că există înviere.
-Dialogue: 0,0:42:49.03,0:42:52.76,Default,,0,0,0,,Dar...islamul însă nu are conceptul de înviere.
-Dialogue: 0,0:42:52.76,0:42:54.76,Default,,0,0,0,,Deci ne uită la aceste trei lucruri
+Dialogue: 0,0:42:41.56,0:42:44.30,Default,,0,0,0,,în scripturile evreiești ...
+Dialogue: 0,0:42:44.30,0:42:47.03,Default,,0,0,0,,sunt indicații clare că există viața de după,
+Dialogue: 0,0:42:47.03,0:42:49.03,Default,,0,0,0,,și chiar, că există înviere.
+Dialogue: 0,0:42:49.03,0:42:52.76,Default,,0,0,0,,Dar ... islamul însă nu are conceptul de înviere.
+Dialogue: 0,0:42:52.76,0:42:54.76,Default,,0,0,0,,Deci ne uită la aceste trei lucruri:
 Dialogue: 0,0:42:54.76,0:42:57.03,Default,,0,0,0,,dumnezeul care a suferit,
-Dialogue: 0,0:42:57.03,0:43:02.00,Default,,0,0,0,,continuarea..faptul că Raiul e un loc al dragostei,
+Dialogue: 0,0:42:57.03,0:43:02.00,Default,,0,0,0,,continuarea ... faptul că Raiul e un loc al dragostei,
 Dialogue: 0,0:43:02.00,0:43:04.00,Default,,0,0,0,,și învierea.
 Dialogue: 0,0:43:04.00,0:43:07.56,Default,,0,0,0,,Islamul nu are primul și ultimul concept.
-Dialogue: 0,0:43:07.56,0:43:13.80,Default,,0,0,0,,Iar...iudaismul nu are primul lucru.
-Dialogue: 0,0:43:13.80,0:43:16.33,Default,,0,0,0,,Și de asta..aș fi putut să le includ, dar..
-Dialogue: 0,0:43:16.33,0:43:18.80,Default,,0,0,0,,în primul rând era și timpul limitat
+Dialogue: 0,0:43:07.56,0:43:13.80,Default,,0,0,0,,Iar ... iudaismul nu are primul lucru.
+Dialogue: 0,0:43:13.80,0:43:16.33,Default,,0,0,0,,Și de asta ... aș fi putut să le includ, dar ...
+Dialogue: 0,0:43:16.33,0:43:18.80,Default,,0,0,0,,în primul rând era și timpul limitat,
 Dialogue: 0,0:43:18.80,0:43:20.74,Default,,0,0,0,,dar ele se și suprapun.
-Dialogue: 0,0:43:20.74,0:43:26.16,Default,,0,0,0,,Ce spun eu aici nu e că..
+Dialogue: 0,0:43:20.74,0:43:26.16,Default,,0,0,0,,Ce spun eu aici nu e că ...
 Dialogue: 0,0:43:26.16,0:43:31.26,Default,,0,0,0,,în afară de creștinism celelalte religii nu ajută.
 Dialogue: 0,0:43:31.26,0:43:35.13,Default,,0,0,0,,Sincer vorbind, am să fiu onest și personal.
-Dialogue: 0,0:43:35.13,0:43:38.16,Default,,0,0,0,,Budismul, chiar dacă în final cred
-Dialogue: 0,0:43:38.16,0:43:40.16,Default,,0,0,0,,Cred că ideea că trebuie
-Dialogue: 0,0:43:40.16,0:43:43.00,Default,,0,0,0,,să eviți dragostea atașată
-Dialogue: 0,0:43:43.00,0:43:44.90,Default,,0,0,0,,e o greșeală mare.
-Dialogue: 0,0:43:44.90,0:43:46.90,Default,,0,0,0,,Și cred că asta..
+Dialogue: 0,0:43:35.13,0:43:38.16,Default,,0,0,0,,Budismul, chiar dacă menține
+Dialogue: 0,0:43:38.16,0:43:40.16,Default,,0,0,0,,ideea că trebuie
+Dialogue: 0,0:43:40.16,0:43:43.00,Default,,0,0,0,,să eviți dragostea atașată,
+Dialogue: 0,0:43:43.00,0:43:44.90,Default,,0,0,0,,ce o greșeală mare ...
+Dialogue: 0,0:43:44.90,0:43:46.90,Default,,0,0,0,,și cred că asta ...
 Dialogue: 0,0:43:46.90,0:43:49.16,Default,,0,0,0,,e foarte greșit.
-Dialogue: 0,0:43:49.16,0:43:51.60,Default,,0,0,0,,Dar budismul ia foarte în serios
+Dialogue: 0,0:43:49.16,0:43:51.60,Default,,0,0,0,,Dar budismul ia foarte serios
 Dialogue: 0,0:43:51.60,0:43:54.80,Default,,0,0,0,,faptul că suferința vine de multe ori din egocentrism,
 Dialogue: 0,0:43:54.80,0:43:57.46,Default,,0,0,0,,că suferința e inevitabilă,
-Dialogue: 0,0:43:57.46,0:43:59.46,Default,,0,0,0,,și chemarea de a trăi o viață
-Dialogue: 0,0:43:59.46,0:44:01.56,Default,,0,0,0,,de compasiune, nu de dorinți egoiste.
+Dialogue: 0,0:43:57.46,0:43:59.46,Default,,0,0,0,,și ne cheamă să trăim o viață
+Dialogue: 0,0:43:59.46,0:44:01.56,Default,,0,0,0,,de compasiune, nu de dorințe egoiste.
 Dialogue: 0,0:44:01.56,0:44:03.70,Default,,0,0,0,,Sunt multe lucruri pe care budismul le oferă.
 Dialogue: 0,0:44:03.70,0:44:06.00,Default,,0,0,0,,Aș spune că doar secularismul
 Dialogue: 0,0:44:06.00,0:44:08.00,Default,,0,0,0,,nu îți oferă aproape nimic.
@@ -849,49 +849,49 @@ Dialogue: 0,0:44:12.00,0:44:14.60,Default,,0,0,0,,Islamul și iudaismul au
 Dialogue: 0,0:44:14.60,0:44:17.33,Default,,0,0,0,,unele lucruri pe care le oferă creștinismul, nu toate.
 Dialogue: 0,0:44:17.33,0:44:19.33,Default,,0,0,0,,Și cred că e corect să menționăm că
 Dialogue: 0,0:44:19.33,0:44:21.93,Default,,0,0,0,,secularismul are ceva ce oferă creștinismul.
-Dialogue: 0,0:44:21.93,0:44:25.30,Default,,0,0,0,,Am intenționat să vorbesc despre asta
-Dialogue: 0,0:44:25.30,0:44:29.30,Default,,0,0,0,,dar dacă citiți o carte ca lui Tom Holland, {\i1}Stăpânire,
-Dialogue: 0,0:44:29.30,0:44:32.90,Default,,0,0,0,,sau {\i1}Inventarea individului{\i0} de Larry Siedentop
-Dialogue: 0,0:44:32.90,0:44:35.00,Default,,0,0,0,,sau multe altele scrise recent..
+Dialogue: 0,0:44:21.93,0:44:25.30,Default,,0,0,0,,Am intenționat să vorbesc despre asta mai târziu,
+Dialogue: 0,0:44:25.30,0:44:29.30,Default,,0,0,0,,dar dacă citiți o carte ca a lui Tom Holland,  {\i1}Stăpânire,{\i0}
+Dialogue: 0,0:44:29.30,0:44:32.90,Default,,0,0,0,,sau {\i1}Inventarea individului{\i0} de Larry Siedentop,
+Dialogue: 0,0:44:32.90,0:44:35.00,Default,,0,0,0,,sau multe altele scrise recent ...
 Dialogue: 0,0:44:35.00,0:44:38.10,Default,,0,0,0,,Multe din valorile morale seculare
 Dialogue: 0,0:44:38.10,0:44:39.26,Default,,0,0,0,,vin din creștinism
 Dialogue: 0,0:44:39.26,0:44:42.80,Default,,0,0,0,,pentru că secularismul a apărut din cultura vestică.
 Dialogue: 0,0:44:42.80,0:44:46.26,Default,,0,0,0,,care era mult mai creștinizată decât este acum.
 Dialogue: 0,0:44:46.26,0:44:48.26,Default,,0,0,0,,Iar ideea că ar trebui să
 Dialogue: 0,0:44:48.26,0:44:50.50,Default,,0,0,0,,îngrijești săracii, să ajuți suferinzii
-Dialogue: 0,0:44:50.50,0:44:52.50,Default,,0,0,0,,și să te împotrivești nedreptății
-Dialogue: 0,0:44:52.50,0:44:54.80,Default,,0,0,0,,Astea sunt idei ce nu au apărut din
+Dialogue: 0,0:44:50.50,0:44:52.50,Default,,0,0,0,,și să te împotrivești nedreptății ...
+Dialogue: 0,0:44:52.50,0:44:54.80,Default,,0,0,0,,acestea sunt idei ce nu au apărut din
 Dialogue: 0,0:44:54.80,0:44:56.80,Default,,0,0,0,,religiile karmice, budism sau din
 Dialogue: 0,0:44:56.80,0:44:58.80,Default,,0,0,0,,culturile bazate pe rușine și onoare,
 Dialogue: 0,0:44:58.80,0:45:00.00,Default,,0,0,0,,ci din creștinism.
 Dialogue: 0,0:45:00.00,0:45:03.63,Default,,0,0,0,,Deci chiar și secularismul are {\i1}ceva{\i0} de oferit.
 Dialogue: 0,0:45:03.63,0:45:05.80,Default,,0,0,0,,Și anume, să ne luptăm împotriva suferinței.
 Dialogue: 0,0:45:05.80,0:45:08.00,Default,,0,0,0,,Dar din toate abordările, aș spune că cele mai
-Dialogue: 0,0:45:08.00,0:45:10.00,Default,,0,0,0,,multe resurse le oferă creștinismul
+Dialogue: 0,0:45:08.00,0:45:10.00,Default,,0,0,0,,multe resurse le oferă creștinismul,
 Dialogue: 0,0:45:10.00,0:45:12.00,Default,,0,0,0,,iar secularismul cele mai puține.
 Dialogue: 0,0:45:12.00,0:45:14.80,Default,,0,0,0,,Rămânând la ideea asta,
 Dialogue: 0,0:45:14.80,0:45:17.33,Default,,0,0,0,,comparând diferite religii,
-Dialogue: 0,0:45:17.33,0:45:20.56,Default,,0,0,0,,și vorbind despre unicitatea creștinismului..
+Dialogue: 0,0:45:17.33,0:45:20.56,Default,,0,0,0,,și vorbind despre unicitatea creștinismului ...
 Dialogue: 0,0:45:20.56,0:45:21.96,Default,,0,0,0,,avem o întrebare:
-Dialogue: 0,0:45:21.96,0:45:24.53,Default,,0,0,0,,Creștinismul spune că suferim
-Dialogue: 0,0:45:24.53,0:45:26.53,Default,,0,0,0,,din cauza păcatului primordial
-Dialogue: 0,0:45:26.53,0:45:29.23,Default,,0,0,0,,din cauza a ce au făcut Adam și Eva la început.
-Dialogue: 0,0:45:29.23,0:45:31.60,Default,,0,0,0,,Cum e asta fundamental diferit
-Dialogue: 0,0:45:31.60,0:45:33.76,Default,,0,0,0,,față de gândirea karmică asupra
-Dialogue: 0,0:45:33.76,0:45:36.76,Default,,0,0,0,,suferinței din cauza faptelor din trecut?
-Dialogue: 0,0:45:36.76,0:45:40.20,Default,,0,0,0,,Aa, pai.. Bine punctat. {\i1}Touche!{\i0}
+Dialogue: 0,0:45:21.96,0:45:24.53,Default,,0,0,0,,{\i1}"Creștinismul spune că suferim{\i1}
+Dialogue: 0,0:45:24.53,0:45:26.53,Default,,0,0,0,,{\i1}din cauza păcatului primordial{\i0}
+Dialogue: 0,0:45:26.53,0:45:29.23,Default,,0,0,0,,{\i1}din cauza a ce au făcut Adam și Eva la început.{\i0}
+Dialogue: 0,0:45:29.23,0:45:31.60,Default,,0,0,0,,{\i1}Cum e asta fundamental diferit{\i0}
+Dialogue: 0,0:45:31.60,0:45:33.76,Default,,0,0,0,,{\i1}față de gândirea karmică asupra{\i0}
+Dialogue: 0,0:45:33.76,0:45:36.76,Default,,0,0,0,,{\i1}suferinței din cauza faptelor din trecut?"{\i0}
+Dialogue: 0,0:45:36.76,0:45:40.20,Default,,0,0,0,,Aa, păi ... bine punctat, {\i1}Touche!{\i0}
 Dialogue: 0,0:45:40.20,0:45:42.20,Default,,0,0,0,,E o întrebare foarte bună.
-Dialogue: 0,0:45:42.20,0:45:45.96,Default,,0,0,0,,Este similar..este într-adevar asemănător.
-Dialogue: 0,0:45:45.96,0:45:49.53,Default,,0,0,0,,Dar... nu pe de-a întregul, totuși.
+Dialogue: 0,0:45:42.20,0:45:45.96,Default,,0,0,0,,Este similar ... este într-adevăr asemănător.
+Dialogue: 0,0:45:45.96,0:45:49.53,Default,,0,0,0,,Dar ... nu pe de-a întregul, totuși.
 Dialogue: 0,0:45:49.53,0:45:50.86,Default,,0,0,0,,De exemplu,
-Dialogue: 0,0:45:50.86,0:45:53.70,Default,,0,0,0,,asta e chiar distractiv, trebuie să recunosc..
-Dialogue: 0,0:45:53.70,0:45:55.70,Default,,0,0,0,,În seara asta, în loc de a spune
+Dialogue: 0,0:45:50.86,0:45:53.70,Default,,0,0,0,,asta e chiar distractiv, trebuie să recunosc ...
+Dialogue: 0,0:45:53.70,0:45:55.70,Default,,0,0,0,,în seara asta, în loc de a spune
 Dialogue: 0,0:45:55.70,0:45:57.70,Default,,0,0,0,,cine are dreptate și cine greșește
 Dialogue: 0,0:45:57.70,0:45:58.70,Default,,0,0,0,,fac comparații.
 Dialogue: 0,0:45:58.70,0:46:01.35,Default,,0,0,0,,Mereu vă voi recomanda creștinismul.
-Dialogue: 0,0:46:01.35,0:46:03.35,Default,,0,0,0,,Și...asta voi face.
-Dialogue: 0,0:46:03.35,0:46:05.35,Default,,0,0,0,,Si vreau să spun că
-Dialogue: 0,0:46:05.35,0:46:08.50,Default,,0,0,0,,Dacă tu compari ideea că
+Dialogue: 0,0:46:01.35,0:46:03.35,Default,,0,0,0,,Și ... asta voi face.
+Dialogue: 0,0:46:03.35,0:46:05.35,Default,,0,0,0,,Și vreau să spun că
+Dialogue: 0,0:46:05.35,0:46:08.50,Default,,0,0,0,,dacă tu compari ideea că
 Dialogue: 0,0:46:08.50,0:46:11.06,Default,,0,0,0,,noi suferim pentru ceva ce am făcut în Adam,
 Dialogue: 0,0:46:11.06,0:46:13.06,Default,,0,0,0,,ca și cum ar fi karma,
 Dialogue: 0,0:46:13.06,0:46:15.06,Default,,0,0,0,,atunci asta e aproape corect.
@@ -899,17 +899,16 @@ Dialogue: 0,0:46:15.06,0:46:17.06,Default,,0,0,0,,Uite ce vreau să spun.
 Dialogue: 0,0:46:17.06,0:46:19.63,Default,,0,0,0,,Am să fac un rezumat al învățăturii creștine.
 Dialogue: 0,0:46:19.63,0:46:21.50,Default,,0,0,0,,Creștinismul spune că Dumnezeu
 Dialogue: 0,0:46:21.50,0:46:23.50,Default,,0,0,0,,a creat un reprezentant.
-Dialogue: 0,0:46:23.50,0:46:25.83,Default,,0,0,0,,Acum, dacă ești ales
-Dialogue: 0,0:46:25.83,0:46:26.83,Default,,0,0,0,,să fii reprezentant,
-Dialogue: 0,0:46:26.83,0:46:27.86,Default,,0,0,0,,să mergi la congres
+Dialogue: 0,0:46:23.50,0:46:26.82,Default,,0,0,0,,Acum, dacă ești ales să fii un reprezentant,
+Dialogue: 0,0:46:26.83,0:46:27.86,Default,,0,0,0,,mergi la congres,
 Dialogue: 0,0:46:27.86,0:46:30.40,Default,,0,0,0,,sau dacă ești ambasador, mergi în altă țară
-Dialogue: 0,0:46:30.40,0:46:32.90,Default,,0,0,0,,și încerci să reprezinți pe cei ce te-au trimis,
-Dialogue: 0,0:46:32.90,0:46:35.50,Default,,0,0,0,,dar nu ai să îi reprezinți perfect niciodată, nu?
+Dialogue: 0,0:46:30.40,0:46:32.90,Default,,0,0,0,,și încerci să reprezinți pe cei ce te-au trimis.
+Dialogue: 0,0:46:32.90,0:46:35.50,Default,,0,0,0,,Dar nu ai să îi reprezinți perfect niciodată, nu?
 Dialogue: 0,0:46:35.50,0:46:37.66,Default,,0,0,0,,Nu poți, dar te străduiești.
 Dialogue: 0,0:46:37.66,0:46:40.30,Default,,0,0,0,,Dar Dumnezeu a creat un reprezentant perfect.
 Dialogue: 0,0:46:40.30,0:46:41.96,Default,,0,0,0,,Iar când Adam a păcătuit,
 Dialogue: 0,0:46:41.96,0:46:44.80,Default,,0,0,0,,pur și simplu nu poți spune
-Dialogue: 0,0:46:44.80,0:46:46.80,Default,,0,0,0,,"Dacă eram eu acolo, nu păcătuiam."
+Dialogue: 0,0:46:44.80,0:46:46.80,Default,,0,0,0,,{\i1}"Dacă eram eu acolo, nu păcătuiam."{\i0}
 Dialogue: 0,0:46:46.80,0:46:48.80,Default,,0,0,0,,pentru că el era reprezentantul perfect.
 Dialogue: 0,0:46:48.80,0:46:50.80,Default,,0,0,0,,Deci, într-un mod, ai păcătuit în Adam.
 Dialogue: 0,0:46:50.80,0:46:53.00,Default,,0,0,0,,Aici da, se aseamănă cu karma.
@@ -918,7 +917,7 @@ Dialogue: 0,0:46:55.00,0:46:57.00,Default,,0,0,0,,Religia karmică ar spune că
 Dialogue: 0,0:46:57.00,0:46:59.60,Default,,0,0,0,,relația dintre suferința ta personală
 Dialogue: 0,0:46:59.60,0:47:02.60,Default,,0,0,0,,și păcatul tău din trecut e perfectă.
 Dialogue: 0,0:47:02.60,0:47:05.03,Default,,0,0,0,,Iar noi am spune
-Dialogue: 0,0:47:05.03,0:47:07.03,Default,,0,0,0,,"Nu, asta nu e adevărat."
+Dialogue: 0,0:47:05.03,0:47:07.03,Default,,0,0,0,,{\i1}"Nu, asta nu e adevărat."{\i0}
 Dialogue: 0,0:47:07.03,0:47:10.70,Default,,0,0,0,,Ce am spune noi mai degrabă e că
 Dialogue: 0,0:47:10.70,0:47:14.23,Default,,0,0,0,,în general, lumea e decăzută
 Dialogue: 0,0:47:14.23,0:47:17.26,Default,,0,0,0,,și că în lume e mult necaz
