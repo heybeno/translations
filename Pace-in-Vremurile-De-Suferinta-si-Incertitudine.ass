@@ -16,10 +16,10 @@ Audio File: Pace-in-Vremurile-De-Suferinta-si-Incertitudine.mp4
 Video File: Pace-in-Vremurile-De-Suferinta-si-Incertitudine.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 1.600000
-Scroll Position: 1248
-Active Line: 1273
-Video Position: 117733
+Video Zoom Percent: 0.500000
+Scroll Position: 1649
+Active Line: 1678
+Video Position: 142544
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1300,30 +1300,29 @@ Dialogue: 0,1:05:11.66,1:05:13.26,Default,,0,0,0,,
 Dialogue: 0,1:05:13.26,1:05:15.52,Default,,0,0,0,,E interesant că în carte ...
 Dialogue: 0,1:05:15.52,1:05:19.03,Default,,0,0,0,,bineînțeles, știu că Biblia
 Dialogue: 0,1:05:19.03,1:05:22.00,Default,,0,0,0,,ne vorbește despre concepte care ne
-Dialogue: 0,1:05:22.00,1:05:24.46,Default,,0,0,0,,ne depășesc abilitatea noastră de înțelegere,
+Dialogue: 0,1:05:22.00,1:05:24.46,Default,,0,0,0,,depășesc abilitatea noastră de a recepționa,
 Dialogue: 0,1:05:24.46,1:05:27.03,Default,,0,0,0,,deci folosește un limbaj simbolic câteodată.
-Dialogue: 0,1:05:27.03,1:05:29.33,Default,,0,0,0,,Dar îl înfățișează pe Satan
-Dialogue: 0,1:05:29.33,1:05:30.63,Default,,0,0,0,,
-Dialogue: 0,1:05:30.63,1:05:32.63,Default,,0,0,0,,încercând să îi arate lui Dumnezeu că
-Dialogue: 0,1:05:32.63,1:05:37.16,Default,,0,0,0,,că... Iov e de fapt un șarlatan, un escroc.
-Dialogue: 0,1:05:37.16,1:05:41.03,Default,,0,0,0,,Iar la sfârșit Iov îl învinge pe Satan.
-Dialogue: 0,1:05:41.03,1:05:43.53,Default,,0,0,0,,Iar Dumnezeu restaurează totul.
-Dialogue: 0,1:05:43.53,1:05:46.46,Default,,0,0,0,,Dar ce e interesant e că..Dumnezeu nu..
+Dialogue: 0,1:05:27.03,1:05:30.34,Default,,0,0,0,,Dar îl înfățișează pe Satan
+Dialogue: 0,1:05:30.34,1:05:32.63,Default,,0,0,0,,încercând să îi arate lui Dumnezeu că
+Dialogue: 0,1:05:32.63,1:05:37.16,Default,,0,0,0,,că ... Iov e de fapt un șarlatan, un escroc.
+Dialogue: 0,1:05:37.16,1:05:41.03,Default,,0,0,0,,Totuși la sfârșit Iov îl învinge pe Satan,
+Dialogue: 0,1:05:41.03,1:05:43.53,Default,,0,0,0,,iar Dumnezeu restaurează totul.
+Dialogue: 0,1:05:43.53,1:05:46.46,Default,,0,0,0,,Dar ce e interesant e că ... Dumnezeu nu ...
 Dialogue: 0,1:05:46.46,1:05:48.46,Default,,0,0,0,,Desigur, Dumnezeu e în control.
-Dialogue: 0,1:05:48.46,1:05:53.30,Default,,0,0,0,,Însă...dați-mi voie să spun ceva ce poate...
-Dialogue: 0,1:05:53.30,1:05:55.56,Default,,0,0,0,,Vreau să spun ceva mai nuanțat.
+Dialogue: 0,1:05:48.46,1:05:53.30,Default,,0,0,0,,Însă ... dați-mi voie să spun ceva ce poate ...
+Dialogue: 0,1:05:53.30,1:05:55.56,Default,,0,0,0,,vreau să spun ceva mai nuanțat.
 Dialogue: 0,1:05:55.56,1:05:57.56,Default,,0,0,0,,Dumnezeu nu se raportează la rău
 Dialogue: 0,1:05:57.56,1:05:59.96,Default,,0,0,0,,în felul în care se raportează la bine.
-Dialogue: 0,1:05:59.96,1:06:03.06,Default,,0,0,0,,...Teologii,
+Dialogue: 0,1:05:59.96,1:06:03.06,Default,,0,0,0,,Teologii,
 Dialogue: 0,1:06:03.06,1:06:05.66,Default,,0,0,0,,chiar și teologii reformați,
 Dialogue: 0,1:06:05.66,1:06:08.23,Default,,0,0,0,,cum e și biserica noastră
-Dialogue: 0,1:06:08.23,1:06:10.00,Default,,0,0,0,,ce crede că Dumnezeu e în control
-Dialogue: 0,1:06:10.00,1:06:12.73,Default,,0,0,0,,și tot ce se întamplă, se întamplă după plan...
-Dialogue: 0,1:06:12.73,1:06:15.50,Default,,0,0,0,,Biblia vorbește prea mult despre faptul că Dumnezeu
+Dialogue: 0,1:06:08.23,1:06:10.00,Default,,0,0,0,,ce crede că Dumnezeu e în control,
+Dialogue: 0,1:06:10.00,1:06:12.73,Default,,0,0,0,,și tot ce se întamplă, se întamplă după plan ...
+Dialogue: 0,1:06:12.73,1:06:15.50,Default,,0,0,0,,Biblia vorbește destul de mult că Dumnezeu
 Dialogue: 0,1:06:15.50,1:06:18.53,Default,,0,0,0,,nu vrea să vadă pe nimeni murind sau suferind.
 Dialogue: 0,1:06:18.53,1:06:20.00,Default,,0,0,0,,Vorbește despre asta mereu.
 Dialogue: 0,1:06:20.00,1:06:25.43,Default,,0,0,0,,Asta trebuie să însemne că permite să se întâmple multe.
-Dialogue: 0,1:06:25.43,1:06:27.83,Default,,0,0,0,,Din cauza asta, în cartea Iov
+Dialogue: 0,1:06:25.43,1:06:27.83,Default,,0,0,0,,Din cauza aceasta, în cartea Iov
 Dialogue: 0,1:06:27.83,1:06:33.20,Default,,0,0,0,,nu îl vezi pe Dumnezeu însuși îmbolnăvindu-l pe Iov.
 Dialogue: 0,1:06:33.20,1:06:34.30,Default,,0,0,0,,Satan o face.
 Dialogue: 0,1:06:34.30,1:06:36.30,Default,,0,0,0,,Și, totuși, Dumnezeu ar putea opri asta.
@@ -1339,263 +1338,263 @@ Dialogue: 0,1:06:58.33,1:07:01.36,Default,,0,0,0,,din cauza cărora, încă nu a
 Dialogue: 0,1:07:01.36,1:07:04.16,Default,,0,0,0,,Deci încă nu a sfârșit lumea,
 Dialogue: 0,1:07:04.16,1:07:06.80,Default,,0,0,0,,care presupune sfârșitul răutații și al suferinței.
 Dialogue: 0,1:07:06.80,1:07:08.80,Default,,0,0,0,,Pot înțelege un pic din asta,
-Dialogue: 0,1:07:08.80,1:07:11.63,Default,,0,0,0,,desigur, răul și suferința schimbă viața omului..
+Dialogue: 0,1:07:08.80,1:07:11.63,Default,,0,0,0,,desigur, răul și suferința schimbă viața omului ...
 Dialogue: 0,1:07:11.63,1:07:14.10,Default,,0,0,0,,Lucrurile rele ce mi s-au întâmplat mie
-Dialogue: 0,1:07:14.10,1:07:17.60,Default,,0,0,0,,aproape toate din ele sunt...
-Dialogue: 0,1:07:17.60,1:07:19.60,Default,,0,0,0,,Când ceva rău se întâmplă
-Dialogue: 0,1:07:19.60,1:07:23.00,Default,,0,0,0,,Dumnezeu are 10 miliarde de motive întemeiate
+Dialogue: 0,1:07:14.10,1:07:17.60,Default,,0,0,0,,aproape toate din ele sunt ...
+Dialogue: 0,1:07:17.60,1:07:19.60,Default,,0,0,0,,Când ceva rău se întâmplă,
+Dialogue: 0,1:07:19.60,1:07:23.00,Default,,0,0,0,,Dumnezeu are 10 miliarde de motive întemeiate,
 Dialogue: 0,1:07:23.00,1:07:25.00,Default,,0,0,0,,însă noi nu vedem aproape nici unul.
 Dialogue: 0,1:07:25.00,1:07:27.00,Default,,0,0,0,,Dar nu se raportează la el, ca la bine.
-Dialogue: 0,1:07:27.00,1:07:28.60,Default,,0,0,0,,Nu spune "Ha, poftim!"
+Dialogue: 0,1:07:27.00,1:07:28.60,Default,,0,0,0,,Nu spune: {\i1}"Ha, poftim!"{\i0}
 Dialogue: 0,1:07:28.60,1:07:30.50,Default,,0,0,0,,Nu îl cauzează în același fel.
-Dialogue: 0,1:07:30.50,1:07:34.20,Default,,0,0,0,,Și...apropo, eu sunt un teolog reformat.
-Dialogue: 0,1:07:34.20,1:07:36.70,Default,,0,0,0,,Unii din voi știți ce înseamnă asta. Iar eu..
+Dialogue: 0,1:07:30.50,1:07:34.20,Default,,0,0,0,,Și ... apropo, și eu sunt un teolog reformat.
+Dialogue: 0,1:07:34.20,1:07:36.70,Default,,0,0,0,,Unii dintre voi știți ce înseamnă asta. Iar eu ...
 Dialogue: 0,1:07:36.70,1:07:38.70,Default,,0,0,0,,
 Dialogue: 0,1:07:38.70,1:07:41.13,Default,,0,0,0,,Noi credem că Dumnezeu e în control, dar el nu
 Dialogue: 0,1:07:41.13,1:07:44.30,Default,,0,0,0,,{\i1}voiește{\i0} lucruri rele cum le voiește pe cele bune.
 Dialogue: 0,1:07:44.30,1:07:48.80,Default,,0,0,0,,De fapt sunt teolog reformat infralapsarian, dar hai sa nu mergem acolo.
 Dialogue: 0,1:07:48.80,1:07:50.20,Default,,0,0,0,,Nu, nu intrăm în asta.
-Dialogue: 0,1:07:50.20,1:07:52.20,Default,,0,0,0,,Oricum, ideea e că..
-Dialogue: 0,1:07:52.20,1:07:56.06,Default,,0,0,0,,înțeleg lupta, bineînțeles că o înțeleg..
+Dialogue: 0,1:07:50.20,1:07:52.20,Default,,0,0,0,,Oricum, ideea e că ...
+Dialogue: 0,1:07:52.20,1:07:56.06,Default,,0,0,0,,înțeleg lupta, bineînțeles că o înțeleg ...
 Dialogue: 0,1:07:56.06,1:07:58.56,Default,,0,0,0,,Citești Iov și vezi că ai voie să te simți așa.
 Dialogue: 0,1:07:58.56,1:08:00.20,Default,,0,0,0,,Oricine a pus întrebarea asta,
-Dialogue: 0,1:08:00.20,1:08:02.60,Default,,0,0,0,,în creștinism, ai voie să te simți așa.
+Dialogue: 0,1:08:00.20,1:08:02.60,Default,,0,0,0,,în creștinism, ai dreptul să te simți așa.
 Dialogue: 0,1:08:02.60,1:08:06.73,Default,,0,0,0,,Nu lăsa nici un creștin să te certe și să-ți spună
-Dialogue: 0,1:08:06.73,1:08:10.63,Default,,0,0,0,,"O, nu! Să nu te întrebi de ce permite Dumnezeu asta!"
-Dialogue: 0,1:08:10.63,1:08:14.23,Default,,0,0,0,,"Nu trebuie să ai zile rele și negre în care să te întrebi"
-Dialogue: 0,1:08:14.23,1:08:16.50,Default,,0,0,0,,"De ce să cred într-un dumnezeu ce permite asta?"
+Dialogue: 0,1:08:06.73,1:08:10.63,Default,,0,0,0,,{\i1}"O, nu! Să nu te întrebi de ce permite Dumnezeu asta!{\i0}
+Dialogue: 0,1:08:10.63,1:08:14.23,Default,,0,0,0,,{\i1}Nu trebuie să ai zile rele și negre în care să te întrebi:{\i0}
+Dialogue: 0,1:08:14.23,1:08:16.50,Default,,0,0,0,,{\i1}De ce să cred într-un dumnezeu ce permite asta?"{\i0}
 Dialogue: 0,1:08:16.50,1:08:18.50,Default,,0,0,0,,Dar uite ce cred eu.
-Dialogue: 0,1:08:18.50,1:08:20.50,Default,,0,0,0,,Eu..
+Dialogue: 0,1:08:18.50,1:08:20.50,Default,,0,0,0,,
 Dialogue: 0,1:08:20.50,1:08:24.70,Default,,0,0,0,,Să crezi într-un dumnezeu care urăște suferința,
 Dialogue: 0,1:08:24.70,1:08:28.63,Default,,0,0,0,,care o permite pentru că spune că va aduce
 Dialogue: 0,1:08:28.63,1:08:31.16,Default,,0,0,0,,o glorie măreață și binele suprem pe termen lung,
-Dialogue: 0,1:08:31.16,1:08:34.43,Default,,0,0,0,,care spune "Crede-mă, văd lucruri pe care tu nu le poți vedea."
+Dialogue: 0,1:08:31.16,1:08:34.43,Default,,0,0,0,,care spune {\i1}"Crede-mă, văd lucruri pe care tu nu le poți vedea".{\i0}
 Dialogue: 0,1:08:34.43,1:08:37.38,Default,,0,0,0,,Asta, în sfârșit, pe mine mă consolează.
 Dialogue: 0,1:08:37.38,1:08:41.53,Default,,0,0,0,,Deși, într-o zi oarecare, pot să mă simt la fel cum spune întrebarea.
-Dialogue: 0,1:08:42.34,1:08:44.74,Default,,0,0,0,,Deci, ai vorbit un pic despre Iov,
+Dialogue: 0,1:08:42.34,1:08:44.74,Default,,0,0,0,,(Justin) Deci, ai vorbit un pic despre Iov,
 Dialogue: 0,1:08:44.74,1:08:47.42,Default,,0,0,0,,acum, și mai înainte.
 Dialogue: 0,1:08:47.42,1:08:51.14,Default,,0,0,0,,Ceea ce ai spus în deschidere, e că
 Dialogue: 0,1:08:51.14,1:08:53.82,Default,,0,0,0,,multe pasaje din Iov sunt ca o rugăciune.
 Dialogue: 0,1:08:53.82,1:08:58.11,Default,,0,0,0,,El vorbește cu Dumnezeu în timpul suferinței așa că
-Dialogue: 0,1:08:58.11,1:09:02.80,Default,,0,0,0,,întrebarea este: {\i1}"Care este rolul rugăciunii când e vorba de suferință?{\i0}
+Dialogue: 0,1:08:58.11,1:09:02.80,Default,,0,0,0,,întrebarea este: {\i1}"Care este rolul rugăciunii când e vorba de suferință?"{\i0}
 Dialogue: 0,1:09:02.80,1:09:06.97,Default,,0,0,0,,și {\i1}"trebuie să ne rugăm ca Dumnezeu să ne ia suferința?" {\i0}
 Dialogue: 0,1:09:06.97,1:09:10.97,Default,,0,0,0,,Mai am și o altă întrebare, dar hai să începem cu asta.
-Dialogue: 0,1:09:10.97,1:09:14.68,Default,,0,0,0,,Ok, avem un exemplu în Isus.
-Dialogue: 0,1:09:14.68,1:09:17.88,Default,,0,0,0,,O rugăciune foarte scurtă în gradina din Ghețismani.
+Dialogue: 0,1:09:10.97,1:09:14.68,Default,,0,0,0,,(Tim) Ok, avem un exemplu în Isus.
+Dialogue: 0,1:09:14.68,1:09:17.88,Default,,0,0,0,,O rugăciune foarte scurtă în grădina din Ghețismani.
 Dialogue: 0,1:09:17.88,1:09:22.17,Default,,0,0,0,,{\i1}Tată, dacă vrei, îndepărtează de la Mine paharul acesta!{\i0}
 Dialogue: 0,1:09:22.17,1:09:28.45,Default,,0,0,0,,Paharul, în limba semitică înseamnă o experiență,
-Dialogue: 0,1:09:28.45,1:09:30.51,Default,,0,0,0,,și de obicei o experiența rea.
-Dialogue: 0,1:09:30.51,1:09:34.17,Default,,0,0,0,,Deci când vorbim despre "paharul acesta",
-Dialogue: 0,1:09:34.17,1:09:36.80,Default,,0,0,0,,vorbim despre o experiența neplăcută.
+Dialogue: 0,1:09:28.45,1:09:30.51,Default,,0,0,0,,și de obicei o experiență rea.
+Dialogue: 0,1:09:30.51,1:09:34.17,Default,,0,0,0,,Deci când vorbim despre {\i1}"paharul acesta"{\i0},
+Dialogue: 0,1:09:34.17,1:09:36.80,Default,,0,0,0,,vorbim despre o experiență neplăcută.
 Dialogue: 0,1:09:36.80,1:09:40.51,Default,,0,0,0,,Așa că Isus, înainte de a purta crucea, spune
-Dialogue: 0,1:09:40.51,1:09:47.48,Default,,0,0,0,, - este foarte remarcabil -  {\i1}îndepărtează de la Mine paharul acesta!{\i0}
-Dialogue: 0,1:09:47.48,1:09:49.88,Default,,0,0,0,,{\i1}"Totuşi facă-se nu voia Mea."{\i0}
+Dialogue: 0,1:09:40.51,1:09:47.48,Default,,0,0,0,, - este foarte remarcabil -  {\i1}"îndepărtează de la Mine paharul acesta!{\i0}
+Dialogue: 0,1:09:47.48,1:09:49.88,Default,,0,0,0,,{\i1}Totuşi facă-se nu voia Mea."{\i0}
 Dialogue: 0,1:09:49.88,1:09:53.60,Default,,0,0,0,,Deci aici avem balanța perfectă -Isus a fost omul perfect-
 Dialogue: 0,1:09:53.60,1:09:58.85,Default,,0,0,0,,Iar el nu spune: {\i1}"Știi ce Doamne, așa e soarta!"{\i0}
-Dialogue: 0,1:09:58.85,1:10:02.00,Default,,0,0,0,,{\i1}Totul este predestinat, nu are rost să pun întrebări.{\i0}
+Dialogue: 0,1:09:58.85,1:10:02.00,Default,,0,0,0,,{\i1}Totul este predestinat, nu are rost să pun întrebări".{\i0}
 Dialogue: 0,1:10:02.00,1:10:04.97,Default,,0,0,0,,Cred că este remarcabil, tu ce crezi Justin?
 Dialogue: 0,1:10:04.97,1:10:09.02,Default,,0,0,0,,Este remarcabil pentru că Isus era rănit.
-Dialogue: 0,1:10:09.02,1:10:13.65,Default,,0,0,0,,El era rănit și striga, el era o ființa omenească într-adevăr.
+Dialogue: 0,1:10:09.02,1:10:13.65,Default,,0,0,0,,El era rănit și striga, el era o ființă omenească într-adevăr.
 Dialogue: 0,1:10:13.65,1:10:15.88,Default,,0,0,0,,Și se înfricoșa
-Dialogue: 0,1:10:15.88,1:10:20.17,Default,,0,0,0,, în fața conceptului de a trece prin ceea ce avea de urmat.
+Dialogue: 0,1:10:15.88,1:10:20.17,Default,,0,0,0,,în fața conceptului de a trece prin ceea ce avea de urmat.
 Dialogue: 0,1:10:20.17,1:10:22.53,Default,,0,0,0,,El urma să sufere fizic și spiritual
 Dialogue: 0,1:10:22.53,1:10:24.36,Default,,0,0,0,,cum nu a mai făcut-o nimeni.
 Dialogue: 0,1:10:24.36,1:10:28.30,Default,,0,0,0,,Așa că {\i1}umanul{\i0} din el strigă
-Dialogue: 0,1:10:28.30,1:10:30.30,Default,,0,0,0,,"Nu e nici o altă cale?.."
-Dialogue: 0,1:10:30.30,1:10:32.30,Default,,0,0,0,,"Este vre-un alt mod?"
-Dialogue: 0,1:10:32.30,1:10:35.00,Default,,0,0,0,,"Te rog...găsește alt mod, ca să nu trebuiască să fac asta."
-Dialogue: 0,1:10:35.00,1:10:37.06,Default,,0,0,0,,Dar spune după "Voia Ta, nu voia Mea."
+Dialogue: 0,1:10:28.30,1:10:30.30,Default,,0,0,0,,"Nu e nici o altă cale? ..."
+Dialogue: 0,1:10:30.30,1:10:32.30,Default,,0,0,0,,{\i1}"Este vre-un alt mod?"{\i0}
+Dialogue: 0,1:10:32.30,1:10:35.00,Default,,0,0,0,,{\i1}"Te rog ... găsește alt mod, ca să nu trebuiască să fac asta!"{\i0}
+Dialogue: 0,1:10:35.00,1:10:37.06,Default,,0,0,0,,Dar la sfârșit spune: {\i1}"Voia Ta, nu voia Mea."{\i0}
 Dialogue: 0,1:10:37.06,1:10:38.76,Default,,0,0,0,,Exact așa a încheiat si Iov.
-Dialogue: 0,1:10:38.76,1:10:46.86,Default,,0,0,0,,Acum..Iov a petrecut 40.. 42 de capitole, scrise în pentametru iambic,
+Dialogue: 0,1:10:38.76,1:10:46.86,Default,,0,0,0,,Acum ... Iov a petrecut 40 ... 42 de capitole, scrise în pentametru iambic,
 Dialogue: 0,1:10:46.86,1:10:50.13,Default,,0,0,0,,vorbind și trecând de la una la alta.
 Dialogue: 0,1:10:50.13,1:10:52.13,Default,,0,0,0,,Iar Isus era perfect.
 Dialogue: 0,1:10:52.13,1:10:54.63,Default,,0,0,0,,Dar interesant e că până și acest Isus,
 Dialogue: 0,1:10:54.63,1:10:56.63,Default,,0,0,0,,o ființă umană perfectă,
-Dialogue: 0,1:10:56.63,1:10:57.76,Default,,0,0,0,,..strigă.
-Dialogue: 0,1:10:57.76,1:11:02.60,Default,,0,0,0,,Pentru că el.. El suferă.
+Dialogue: 0,1:10:56.63,1:10:57.76,Default,,0,0,0,,... strigă.
+Dialogue: 0,1:10:57.76,1:11:02.60,Default,,0,0,0,,Pentru că el ... El suferă.
 Dialogue: 0,1:11:02.60,1:11:04.10,Default,,0,0,0,,E în suferință.
 Dialogue: 0,1:11:04.10,1:11:06.10,Default,,0,0,0,,Și cred că asta ne arată
-Dialogue: 0,1:11:06.10,1:11:08.30,Default,,0,0,0,,de ce putem combina lucrurile astea.
+Dialogue: 0,1:11:06.10,1:11:08.30,Default,,0,0,0,,de ce putem combina lucrurile acestea.
 Dialogue: 0,1:11:08.30,1:11:10.30,Default,,0,0,0,,Putem combina rugăciunea care
-Dialogue: 0,1:11:10.30,1:11:13.10,Default,,0,0,0,,zice sincer "Doamne, te rog schimba situația asta"
-Dialogue: 0,1:11:13.10,1:11:15.10,Default,,0,0,0,,și în același timp "Dar dacă n-o schimbi.."
-Dialogue: 0,1:11:15.10,1:11:18.16,Default,,0,0,0,,"Te rog pregătește-mă pentru ce vei face în viața mea, Doamne."
+Dialogue: 0,1:11:10.30,1:11:13.10,Default,,0,0,0,,zice sincer: {\i1}"Doamne, te rog schimbă situația asta!"{\i0}
+Dialogue: 0,1:11:13.10,1:11:15.10,Default,,0,0,0,,și în același timp {\i1}"Dar dacă n-o schimbi ...{\i0}
+Dialogue: 0,1:11:15.10,1:11:18.16,Default,,0,0,0,,{\i1}Te rog pregătește-mă pentru ce vei face în viața mea, Doamne!"{\i0}
 Dialogue: 0,1:11:18.16,1:11:20.00,Default,,0,0,0,,
 Dialogue: 0,1:11:20.00,1:11:22.40,Default,,0,0,0,,Soția mea și cu mine ne rugăm în fiecare seară
-Dialogue: 0,1:11:22.40,1:11:24.40,Default,,0,0,0,,pentru multele ce ne îngrijorează
-Dialogue: 0,1:11:24.40,1:11:26.96,Default,,0,0,0,,și poate nu ajungem mereu la nivelul ăla,
-Dialogue: 0,1:11:26.96,1:11:29.06,Default,,0,0,0,,dar ăsta e echilibrul spre care țintim.
-Dialogue: 0,1:11:29.06,1:11:31.10,Default,,0,0,0,,Ca o continuare la asta..
-Dialogue: 0,1:11:31.10,1:11:33.00,Default,,0,0,0,,Știam eu că urmează..
-Dialogue: 0,1:11:33.00,1:11:35.96,Default,,0,0,0,,În prezentare ai vorbit despre...
+Dialogue: 0,1:11:22.40,1:11:24.40,Default,,0,0,0,,pentru multele ce ne îngrijorează,
+Dialogue: 0,1:11:24.40,1:11:26.96,Default,,0,0,0,,și poate nu ajungem mereu la nivelul acela,
+Dialogue: 0,1:11:26.96,1:11:29.06,Default,,0,0,0,,dar acesta e echilibrul spre care țintim.
+Dialogue: 0,1:11:29.06,1:11:31.10,Default,,0,0,0,,(Justin) Ca o continuare la asta ...
+Dialogue: 0,1:11:31.10,1:11:33.00,Default,,0,0,0,,(Tim) Știam eu că urmează ...
+Dialogue: 0,1:11:33.00,1:11:35.96,Default,,0,0,0,,(Justin) În prezentare ai vorbit despre ...
 Dialogue: 0,1:11:35.96,1:11:37.76,Default,,0,0,0,,plângi, dar ai încredere,
-Dialogue: 0,1:11:37.76,1:11:39.60,Default,,0,0,0,,roagă-te, dar gândește..speră.
-Dialogue: 0,1:11:39.60,1:11:44.13,Default,,0,0,0,,Toate lucrurile astea...presupun o credință - a crede în ceva.
+Dialogue: 0,1:11:37.76,1:11:39.60,Default,,0,0,0,,roagă-te, dar gândește! ... speră!
+Dialogue: 0,1:11:39.60,1:11:44.13,Default,,0,0,0,,Toate lucrurile acestea ... presupun o credință: a crede în ceva.
 Dialogue: 0,1:11:44.13,1:11:47.56,Default,,0,0,0,,Deci, plângi {\i1}cuiva{\i0}, speri în {\i1}ceva{\i0},
-Dialogue: 0,1:11:47.56,1:11:49.56,Default,,0,0,0,,te rogi {\i1}cuiva{\i0}..
+Dialogue: 0,1:11:47.56,1:11:49.56,Default,,0,0,0,,te rogi {\i1}cuiva{\i0} ...
 Dialogue: 0,1:11:49.56,1:11:53.10,Default,,0,0,0,,Dar pentru că, bineînțeles, mulți din prietenii noștri care ascultă
-Dialogue: 0,1:11:53.10,1:11:55.10,Default,,0,0,0,,nu cred la fel... cum să proceseze asta?
-Dialogue: 0,1:11:55.10,1:11:59.10,Default,,0,0,0,,Ce înseamnă pentru ei să se roage cuiva în care...
-Dialogue: 0,1:11:59.10,1:12:01.10,Default,,0,0,0,,cel puțin deocamdată. nu cred?
-Dialogue: 0,1:12:01.10,1:12:03.10,Default,,0,0,0,,Păi...da, e drept.
+Dialogue: 0,1:11:53.10,1:11:55.10,Default,,0,0,0,,nu cred la fel ... cum pot să proceseze asta?
+Dialogue: 0,1:11:55.10,1:11:59.10,Default,,0,0,0,,Ce înseamnă pentru ei să se roage cuiva în care ...
+Dialogue: 0,1:11:59.10,1:12:01.10,Default,,0,0,0,,cel puțin deocamdată, nu cred?
+Dialogue: 0,1:12:01.10,1:12:03.10,Default,,0,0,0,,(Tim) Păi ... da, e drept.
 Dialogue: 0,1:12:03.10,1:12:04.56,Default,,0,0,0,,
-Dialogue: 0,1:12:04.56,1:12:09.96,Default,,0,0,0,,Am...am cunoscut oameni care nu cred
-Dialogue: 0,1:12:09.96,1:12:12.36,Default,,0,0,0,,încă..sau deloc.
+Dialogue: 0,1:12:04.56,1:12:09.96,Default,,0,0,0,,Am ... am cunoscut oameni care nu cred
+Dialogue: 0,1:12:09.96,1:12:12.36,Default,,0,0,0,,încă, sau deloc.
 Dialogue: 0,1:12:12.36,1:12:14.36,Default,,0,0,0,,Și le spuneam că
-Dialogue: 0,1:12:14.36,1:12:16.00,Default,,0,0,0,,pasaje mai noi din Biblie..
+Dialogue: 0,1:12:14.36,1:12:16.00,Default,,0,0,0,,pasajele mai recente din Biblie ...
 Dialogue: 0,1:12:16.00,1:12:19.13,Default,,0,0,0,,Bine, aici problema e că trebuie să fii foarte atent.
 Dialogue: 0,1:12:19.13,1:12:22.80,Default,,0,0,0,,Dacă nu știi Biblia și o deschizi spunând că doar citești ceva
 Dialogue: 0,1:12:22.80,1:12:24.80,Default,,0,0,0,,e posibil să te blochezi în Levetic.
-Dialogue: 0,1:12:24.80,1:12:31.06,Default,,0,0,0,,Așa că... Dacă nu știi cartea Levetic, te rog, nu te duce acolo mai întai.
+Dialogue: 0,1:12:24.80,1:12:31.06,Default,,0,0,0,,Așa că ... dacă nu știi cartea Levetic, te rog, nu te duce acolo mai întâi.
 Dialogue: 0,1:12:31.06,1:12:33.90,Default,,0,0,0,,(Glumă de pastor) Da, e o glumă de pastor.
 Dialogue: 0,1:12:33.90,1:12:38.86,Default,,0,0,0,,Dar vorbește cu niște prieteni să-ți aducă consolare
-Dialogue: 0,1:12:38.86,1:12:42.90,Default,,0,0,0,,și cuvinte vii din Scriptură care aduc mângâiere
-Dialogue: 0,1:12:42.90,1:12:46.93,Default,,0,0,0,,și apoi...uite ce trebuie să faci de fapt:
-Dialogue: 0,1:12:46.93,1:12:50.26,Default,,0,0,0,,o citești și spui "Doamne, n-am nici o idee dacă ești acolo"
-Dialogue: 0,1:12:50.26,1:12:54.20,Default,,0,0,0,,"și nici nu știu sigur ce {\i1}ar trebui{\i0} tu să faci"
-Dialogue: 0,1:12:54.20,1:12:58.30,Default,,0,0,0,,"nu știu dacă ești aici, dar aici sunt lucrurile pe care aș vrea să le faci"
-Dialogue: 0,1:12:58.30,1:13:01.86,Default,,0,0,0,,"dacă poți, te rog revelează-te mie."
+Dialogue: 0,1:12:38.86,1:12:42.90,Default,,0,0,0,,și cuvinte vii din Scriptură care aduc mângâiere,
+Dialogue: 0,1:12:42.90,1:12:46.93,Default,,0,0,0,,și apoi ... uite ce poți să faci de fapt:
+Dialogue: 0,1:12:46.93,1:12:50.26,Default,,0,0,0,,o citești și spui {\i1}"Doamne, n-am nici o idee dacă ești acolo,{\i0}
+Dialogue: 0,1:12:50.26,1:12:54.20,Default,,0,0,0,,{\i1}și nici nu știu sigur ce ar trebui tu să faci."{\i0}
+Dialogue: 0,1:12:54.20,1:12:58.30,Default,,0,0,0,,{\i1}Nu știu dacă ești aici, dar aici sunt lucrurile pe care aș vrea să le faci.{\i0}
+Dialogue: 0,1:12:58.30,1:13:01.86,Default,,0,0,0,,{\i1}Dacă poți, te rog revelează-te mie."{\i0}
 Dialogue: 0,1:13:01.86,1:13:06.90,Default,,0,0,0,,Iar eu nu cred că trebuie să aștepți o voce, deși, apropo, sunt prezbieterian.
-Dialogue: 0,1:13:06.90,1:13:12.76,Default,,0,0,0,,Iar... Nu, nu, hai să nu mergem acolo. E o pierdere de timp, da.
-Dialogue: 0,1:13:12.76,1:13:16.28,Default,,0,0,0,,Dar sunt...sunt tradiții creștine
-Dialogue: 0,1:13:16.28,1:13:18.86,Default,,0,0,0,,care spun "Da, stai și așteaptă o voce."
-Dialogue: 0,1:13:18.86,1:13:21.96,Default,,0,0,0,,Cred..cu toată sinceritatea, că nu pot spune să faci asta.
+Dialogue: 0,1:13:06.90,1:13:12.76,Default,,0,0,0,,Iar ... nu, nu, hai să nu mergem acolo. E o pierdere de timp, da.
+Dialogue: 0,1:13:12.76,1:13:16.28,Default,,0,0,0,,Dar sunt ... sunt tradiții creștine
+Dialogue: 0,1:13:16.28,1:13:18.86,Default,,0,0,0,,care spun {\i1}"Da, stai și așteaptă o voce."{\i0}
+Dialogue: 0,1:13:18.86,1:13:21.96,Default,,0,0,0,,Cred ... cu toată sinceritatea, că nu pot spune să faci asta.
 Dialogue: 0,1:13:21.96,1:13:25.33,Default,,0,0,0,,Au fost timpuri în care Dumnezeu chiar
 Dialogue: 0,1:13:25.33,1:13:27.28,Default,,0,0,0,,mi-a dat să simt așa prezența Sa.
 Dialogue: 0,1:13:27.28,1:13:31.26,Default,,0,0,0,,Iar eu simțeam că era cât se poate de vividă, cum e și o voce.
-Dialogue: 0,1:13:31.26,1:13:33.26,Default,,0,0,0,,Însă eu nu aș spune..
+Dialogue: 0,1:13:31.26,1:13:33.26,Default,,0,0,0,,Însă eu nu aș spune ...
 Dialogue: 0,1:13:33.26,1:13:35.26,Default,,0,0,0,,Aș spune că, în general,
 Dialogue: 0,1:13:35.26,1:13:39.13,Default,,0,0,0,,pentru majoritatea oamenilor ce se confruntă cu a crede
-Dialogue: 0,1:13:39.13,1:13:41.56,Default,,0,0,0,,este de fapt un proces..atât.
-Dialogue: 0,1:13:41.56,1:13:43.56,Default,,0,0,0,,Deci nu văd nici o problemă în
+Dialogue: 0,1:13:39.13,1:13:41.56,Default,,0,0,0,,este de fapt un proces ... atât.
+Dialogue: 0,1:13:41.56,1:13:43.56,Default,,0,0,0,,Deci nu văd nici-o problemă în
 Dialogue: 0,1:13:43.56,1:13:45.80,Default,,0,0,0,,a citi pasaje din Biblie ce aduc consolare
-Dialogue: 0,1:13:45.80,1:13:49.33,Default,,0,0,0,,și a cere lui Dumnezeu prezența Sa și ajutor..
-Dialogue: 0,1:13:49.33,1:13:52.73,Default,,0,0,0,,gânduri...adevăr.
+Dialogue: 0,1:13:45.80,1:13:49.33,Default,,0,0,0,,și a cere lui Dumnezeu prezența Sa și ajutor ...
+Dialogue: 0,1:13:49.33,1:13:52.73,Default,,0,0,0,,gânduri ... adevăr.
 Dialogue: 0,1:13:52.73,1:13:55.66,Default,,0,0,0,,Pe lângă asta, ce rămâne de făcut,
 Dialogue: 0,1:13:55.66,1:13:57.66,Default,,0,0,0,,și încerc să vă spun e că,
 Dialogue: 0,1:13:57.66,1:14:01.66,Default,,0,0,0,,dacă înțelegeți relevanța, hai să începem să vorbim despre adevăr:
 Dialogue: 0,1:14:01.66,1:14:03.66,Default,,0,0,0,,dacă e adevărat sau nu.
-Dialogue: 0,1:14:03.66,1:14:06.20,Default,,0,0,0,,Din nou, schimbăm un pic direcția,
+Dialogue: 0,1:14:03.66,1:14:06.20,Default,,0,0,0,,(Justin) Din nou, schimbăm un pic direcția,
 Dialogue: 0,1:14:06.20,1:14:10.06,Default,,0,0,0,,dar, știi, noi suntem aici cu un motiv.
 Dialogue: 0,1:14:10.06,1:14:15.33,Default,,0,0,0,,Deci, transmitem cu un motiv, ne-am schimbat subiectul cu un motiv.
 Dialogue: 0,1:14:15.33,1:14:20.20,Default,,0,0,0,,Ăsta nu e doar un subiect ipotetic pe care îl tratăm.
-Dialogue: 0,1:14:20.20,1:14:25.16,Default,,0,0,0,,Există o problemă adevărată, un {\i1}anotimp{\i0} al suferinței, dezorintare..
-Dialogue: 0,1:14:25.16,1:14:30.50,Default,,0,0,0,,Cuvântul ăsta îmi tot vine în minte: {\i1}dezorintare{\i0}, atât de {\i1}derutant{\i0}..
-Dialogue: 0,1:14:30.50,1:14:34.13,Default,,0,0,0,,Deci având în vedere în ce ne aflăm cu pandemia asta..
+Dialogue: 0,1:14:20.20,1:14:25.16,Default,,0,0,0,,Există o problemă adevărată, un {\i1}anotimp{\i0} al suferinței, dezorintare ...
+Dialogue: 0,1:14:25.16,1:14:30.50,Default,,0,0,0,,Cuvântul ăsta îmi tot vine în minte: {\i1}dezorintare{\i0}, atât de {\i1}derutant{\i0} ...
+Dialogue: 0,1:14:30.50,1:14:34.13,Default,,0,0,0,,Deci având în vedere unde ne aflăm cu pandemia asta ...
 Dialogue: 0,1:14:34.13,1:14:40.46,Default,,0,0,0,,Cum evităm panica, în timpul epidemiei?
 Dialogue: 0,1:14:40.46,1:14:44.93,Default,,0,0,0,,Și cum să înțelegem suferința în perioada asta, specific în perioada asta?
 Dialogue: 0,1:14:44.93,1:14:49.86,Default,,0,0,0,,Și cum putem iubi și să fim iubiți într-o perioadă fără contact?
 Dialogue: 0,1:14:49.86,1:14:54.40,Default,,0,0,0,,Deci cum arată de fapt să ne purtăm de grijă unul-altuia
 Dialogue: 0,1:14:54.40,1:14:59.20,Default,,0,0,0,,și să ne oferim speranță într-un anotimp atât de derutant?
-Dialogue: 0,1:14:59.20,1:15:01.20,Default,,0,0,0,,Păi....uau.
+Dialogue: 0,1:14:59.20,1:15:01.20,Default,,0,0,0,,(Tim) Păi ... uau!
 Dialogue: 0,1:15:01.20,1:15:04.20,Default,,0,0,0,,Dați-mi voie să fiu un pic selectiv
 Dialogue: 0,1:15:04.20,1:15:06.96,Default,,0,0,0,,și să iau câteva din lucrurile unde am vorbit despre
-Dialogue: 0,1:15:06.96,1:15:08.96,Default,,0,0,0,,"Plângi, dar ai încredere."
-Dialogue: 0,1:15:08.96,1:15:12.63,Default,,0,0,0,,În primul rând, când spun "Plângi, dar ai încredere"
-Dialogue: 0,1:15:12.63,1:15:17.83,Default,,0,0,0,,spun de fapt "Nu lăsa pe nimeni să-ți spună că nu ai voie să ai emoții."
+Dialogue: 0,1:15:06.96,1:15:08.96,Default,,0,0,0,,{\i1}"Plângi, dar ai încredere."{\i0}
+Dialogue: 0,1:15:08.96,1:15:12.63,Default,,0,0,0,,În primul rând, când spun {\i1}"Plângi, dar ai încredere"{\i0},
+Dialogue: 0,1:15:12.63,1:15:17.83,Default,,0,0,0,,spun de fapt: {\i1}"Nu lăsa pe nimeni să-ți spună că nu ai voie să ai emoții."{\i0}
 Dialogue: 0,1:15:17.83,1:15:20.83,Default,,0,0,0,,Bineînțeles că ar trebui să ai emoții.
-Dialogue: 0,1:15:20.83,1:15:25.30,Default,,0,0,0,,Totuși..cum să spun asta? Chiar și la un nivel umanist...
-Dialogue: 0,1:15:25.30,1:15:31.23,Default,,0,0,0,,Rasa umană și civilizații întregi au trecut prin mult mai rău de atât.
-Dialogue: 0,1:15:31.23,1:15:36.00,Default,,0,0,0,,Chiar și cele mai rele scenarii încă nu sunt chiar...
-Dialogue: 0,1:15:36.00,1:15:39.00,Default,,0,0,0,,nu ne aflăm în cel de-Al Doilea Război Mondial acum.
-Dialogue: 0,1:15:39.00,1:15:44.66,Default,,0,0,0,,Dacă ai fi în Europa în Al Doilea Război Mondial și ai vedea armate străbătandu-ți țara
-Dialogue: 0,1:15:44.66,1:15:49.03,Default,,0,0,0,,luptându-se în continuu.. Și totuși ei au supraviețuit.
+Dialogue: 0,1:15:20.83,1:15:25.30,Default,,0,0,0,,Totuși ... cum să spun asta? Chiar și la un nivel umanist ...
+Dialogue: 0,1:15:25.30,1:15:31.23,Default,,0,0,0,,Rasa umană și civilizații întregi au trecut prin situații mult mai rele decât acum.
+Dialogue: 0,1:15:31.23,1:15:36.00,Default,,0,0,0,,Chiar și cele mai rele scenarii încă nu sunt chiar ...
+Dialogue: 0,1:15:36.00,1:15:39.00,Default,,0,0,0,,nu ne aflăm în{\i1} Al Doilea Război Mondial{\i0} acum.
+Dialogue: 0,1:15:39.00,1:15:44.66,Default,,0,0,0,,Dacă ai fi în Europa în Al Doilea Război Mondial și ai vedea armate străbătându-ți țara,
+Dialogue: 0,1:15:44.66,1:15:49.03,Default,,0,0,0,,luptându-se în continuu ... Și totuși ei au supraviețuit.
 Dialogue: 0,1:15:49.03,1:15:51.30,Default,,0,0,0,,Franța e încă acolo, Germania e încă acolo,
 Dialogue: 0,1:15:51.30,1:15:53.73,Default,,0,0,0,,Austria e încă acolo, Belgia e încă acolo.
 Dialogue: 0,1:15:53.73,1:15:57.30,Default,,0,0,0,,Deci, chiar și din punct de vedere umanist
 Dialogue: 0,1:15:57.30,1:16:01.00,Default,,0,0,0,,am putea spune că Dumnezeu nu sfârșește lumea încă.
-Dialogue: 0,1:16:01.00,1:16:05.33,Default,,0,0,0,,Așa că...încredeți-vă, dar plângeți.
-Dialogue: 0,1:16:05.33,1:16:08.06,Default,,0,0,0,,Dar..dați-mi voie să mai spun ceva aici.
+Dialogue: 0,1:16:01.00,1:16:05.33,Default,,0,0,0,,Așa că ... încredeți-vă, dar plângeți.
+Dialogue: 0,1:16:05.33,1:16:08.06,Default,,0,0,0,,Dar ... dați-mi voie să mai spun ceva aici.
 Dialogue: 0,1:16:08.06,1:16:11.53,Default,,0,0,0,,Știi că am vorbit despre reorganizarea lucrurilor pe care le iubim?
 Dialogue: 0,1:16:11.53,1:16:13.53,Default,,0,0,0,,Ce are de-a face cu asta?
 Dialogue: 0,1:16:13.53,1:16:15.53,Default,,0,0,0,,Mi-a venit un gând.
 Dialogue: 0,1:16:15.53,1:16:17.53,Default,,0,0,0,,Cred că noi în societățile din Vest
 Dialogue: 0,1:16:17.53,1:16:19.53,Default,,0,0,0,,suntem foarte mândri.
 Dialogue: 0,1:16:19.53,1:16:22.90,Default,,0,0,0,,Și ne-am uitat la toate problemele ce se întâmplă în Asia
-Dialogue: 0,1:16:22.90,1:16:24.90,Default,,0,0,0,,și am spus "Asta nu se va întampla aici."
-Dialogue: 0,1:16:24.90,1:16:26.90,Default,,0,0,0,,Sunt aproape sigur de asta. Adică..
-Dialogue: 0,1:16:26.90,1:16:28.96,Default,,0,0,0,,Eu cred că motivul pentru care
+Dialogue: 0,1:16:22.90,1:16:24.90,Default,,0,0,0,,și am spus {\i1}"Asta nu se va întampla aici."{\i0}
+Dialogue: 0,1:16:24.90,1:16:26.90,Default,,0,0,0,,Sunt aproape sigur de asta. Adică ...
+Dialogue: 0,1:16:26.90,1:16:28.96,Default,,0,0,0,,Eu cred că motivul pentru care ...
 Dialogue: 0,1:16:29.00,1:16:31.70,Default,,0,0,0,,Nu cred că trebuie să dăm prea mult vina pe lideri,
 Dialogue: 0,1:16:31.70,1:16:34.70,Default,,0,0,0,,deoarece cred că ei fac parte din întreaga lume de Vest
-Dialogue: 0,1:16:34.70,1:16:38.46,Default,,0,0,0,,care spune "Oh, oamenii {\i1}ăia{\i0}? Alea sunt țări înapoiate."
-Dialogue: 0,1:16:38.46,1:16:41.70,Default,,0,0,0,,"Alea nu sunt țări moderne. Mănâncă prostii.."
-Dialogue: 0,1:16:41.70,1:16:47.10,Default,,0,0,0,,"Ei...sunt îngrămădiți în orașe mari. La noi n-o să se întâmple asta."
+Dialogue: 0,1:16:34.70,1:16:38.46,Default,,0,0,0,,care spune {\i1}"Oh, oamenii aceia? Acelea sunt țări înapoiate!{\i0}
+Dialogue: 0,1:16:38.46,1:16:41.70,Default,,0,0,0,,{\i1}Acelea nu sunt țări moderne. Mănâncă prostii!{\i0}
+Dialogue: 0,1:16:41.70,1:16:47.10,Default,,0,0,0,,{\i1}Ei ... sunt îngrămădiți în orașe mari. La noi nu are să se întâmple asta."{\i0}
 Dialogue: 0,1:16:47.10,1:16:50.16,Default,,0,0,0,,Asta a fost aroganță. A fost mândrie, mândrie rasială.
-Dialogue: 0,1:16:50.16,1:16:55.16,Default,,0,0,0,,Iar eu cred... Cred că toți am luat parte la asta. Cred că eu însumi am facut-o.
+Dialogue: 0,1:16:50.16,1:16:55.16,Default,,0,0,0,,Iar eu cred ... cred că toți am luat parte la asta. Cred că eu însumi am facut-o.
 Dialogue: 0,1:16:55.16,1:16:57.53,Default,,0,0,0,,Nu am crezut că se va întâmpla aici.
 Dialogue: 0,1:16:57.53,1:17:02.60,Default,,0,0,0,,Iar în timpul suferinței, ceva ce trebuie să faci e să-ți reorganizezi ceea ce iubești.
-Dialogue: 0,1:17:02.60,1:17:07.46,Default,,0,0,0,,Ar trebui să îți spui "Nu gândesc corect, nu am prioritizat cum trebuie."
+Dialogue: 0,1:17:02.60,1:17:07.46,Default,,0,0,0,,Ar trebui să îți spui {\i1}"Nu gândesc corect, nu am prioritizat cum trebuie."{\i0}
 Dialogue: 0,1:17:07.46,1:17:09.90,Default,,0,0,0,,Deci, plângi, te încrezi, prioritizezi ce iubești.
-Dialogue: 0,1:17:09.90,1:17:11.90,Default,,0,0,0,,Iar aici..
+Dialogue: 0,1:17:09.90,1:17:11.90,Default,,0,0,0,,Iar aici ...
 Dialogue: 0,1:17:11.90,1:17:13.90,Default,,0,0,0,,
-Dialogue: 0,1:17:13.90,1:17:15.90,Default,,0,0,0,,Un alt lucru este..
+Dialogue: 0,1:17:13.90,1:17:15.90,Default,,0,0,0,,Un alt lucru este ...
 Dialogue: 0,1:17:15.90,1:17:20.06,Default,,0,0,0,,Cineva a întrebat cum să ne iubim unul pe altul, nu?
-Dialogue: 0,1:17:20.06,1:17:22.06,Default,,0,0,0,,Da, într-o perioadă ca asta.
-Dialogue: 0,1:17:22.06,1:17:24.06,Default,,0,0,0,,Ok, de exemplu..
+Dialogue: 0,1:17:20.06,1:17:22.06,Default,,0,0,0,,(Justin) Da, într-o perioadă ca asta.
+Dialogue: 0,1:17:22.06,1:17:24.06,Default,,0,0,0,,(Tim) Ok, de exemplu ...
 Dialogue: 0,1:17:24.06,1:17:27.10,Default,,0,0,0,,Dragostea e dragoste, doar că ia forme diferite.
-Dialogue: 0,1:17:27.10,1:17:29.10,Default,,0,0,0,,Deci, de exemplu.
-Dialogue: 0,1:17:29.10,1:17:32.76,Default,,0,0,0,,După atacul din septembrie 2001, cum poate vă aduceți aminte,
+Dialogue: 0,1:17:27.10,1:17:29.10,Default,,0,0,0,,Deci, de exemplu:
+Dialogue: 0,1:17:29.10,1:17:32.76,Default,,0,0,0,,După atacul din Septembrie 2001, cum poate vă aduceți aminte,
 Dialogue: 0,1:17:32.76,1:17:35.66,Default,,0,0,0,,bisericile erau ticsite cu oameni.
 Dialogue: 0,1:17:35.66,1:17:37.60,Default,,0,0,0,,Biserica "Redeemer", apropo,
 Dialogue: 0,1:17:37.60,1:17:41.70,Default,,0,0,0,,"Redeemer" avea 3000 de oameni venind în fiecare duminică.
 Dialogue: 0,1:17:41.70,1:17:45.16,Default,,0,0,0,,Iar în duminica de după atac, am avut 5,400 de oameni în biserică.
 Dialogue: 0,1:17:45.16,1:17:49.43,Default,,0,0,0,,Oamenii s-au adunat și toată lumea voia să fie împreună.
 Dialogue: 0,1:17:49.43,1:17:52.00,Default,,0,0,0,,Oameni care nu credeau deloc spuneau
-Dialogue: 0,1:17:52.00,1:17:55.10,Default,,0,0,0,,"Vreau doar să merg la biserică, să fiu cu oameni, să mă rog."
+Dialogue: 0,1:17:52.00,1:17:55.10,Default,,0,0,0,,{\i1}"Vreau doar să merg la biserică, să fiu cu oameni, să mă rog."{\i0}
 Dialogue: 0,1:17:55.10,1:17:56.10,Default,,0,0,0,,Lumea s-a reunit.
-Dialogue: 0,1:17:56.10,1:17:58.10,Default,,0,0,0,,Asta e exact opusul.
+Dialogue: 0,1:17:56.10,1:17:58.10,Default,,0,0,0,,Aceasta e exact opusul.
 Dialogue: 0,1:17:58.10,1:18:00.53,Default,,0,0,0,,Dar să luăm un exemplu. Am doi copii,
 Dialogue: 0,1:18:00.53,1:18:03.26,Default,,0,0,0,,am doi băieți în oraș,
 Dialogue: 0,1:18:03.26,1:18:06.30,Default,,0,0,0,,și amândoi încearcă să lucreze cu normă întreagă
 Dialogue: 0,1:18:06.30,1:18:08.20,Default,,0,0,0,,și toți copii sunt acasă cu ei.
 Dialogue: 0,1:18:08.20,1:18:10.53,Default,,0,0,0,,Le este foarte greu.
-Dialogue: 0,1:18:10.53,1:18:16.26,Default,,0,0,0,,Acum, în mod normal, bunicii vor spune "Pot să te ajut."
-Dialogue: 0,1:18:16.26,1:18:18.26,Default,,0,0,0,,"Hai să îi ajutăm pe copii."
+Dialogue: 0,1:18:10.53,1:18:16.26,Default,,0,0,0,,Acum, în mod normal, bunicii vor spune {\i1}"Pot să te ajut.{\i0}
+Dialogue: 0,1:18:16.26,1:18:18.26,Default,,0,0,0,,{\i1}Hai să îi ajutăm pe copii."{\i0}
 Dialogue: 0,1:18:18.26,1:18:22.23,Default,,0,0,0,,Ideea aici e că ambii mei fii, împreună cu soțiile lor,
-Dialogue: 0,1:18:22.23,1:18:25.70,Default,,0,0,0,,mi-au spus "O să vă iubim, pentru că aveți 70 de ani"
-Dialogue: 0,1:18:25.70,1:18:27.93,Default,,0,0,0,,Cathy și cu mine împlinim 70 anul ăsta.
-Dialogue: 0,1:18:27.93,1:18:33.63,Default,,0,0,0,,"Sunteți în categoria de risc și, deși ar fi minunat, nu vă lăsăm să faceți asta."
+Dialogue: 0,1:18:22.23,1:18:25.70,Default,,0,0,0,,mi-au spus {\i1}"Vă vom iubi, pentru că aveți 70 de ani"{\i0}
+Dialogue: 0,1:18:25.70,1:18:27.93,Default,,0,0,0,,- Cathy și cu mine împlinim 70 anul acesta -
+Dialogue: 0,1:18:27.93,1:18:33.63,Default,,0,0,0,,{\i1}"Sunteți în categoria de risc și, deși ar fi minunat, nu vă lăsăm să faceți asta."{\i0}
 Dialogue: 0,1:18:33.63,1:18:40.16,Default,,0,0,0,,Deci, practic, ei ne iubesc prin a ne refuza oferta, de fapt.
 Dialogue: 0,1:18:40.16,1:18:44.00,Default,,0,0,0,,Poate veți spune că e ciudat, dar nu e.
-Dialogue: 0,1:18:44.00,1:18:47.76,Default,,0,0,0,,E doar..dragostea e dragoste, doar că ia forme diferite.
+Dialogue: 0,1:18:44.00,1:18:47.76,Default,,0,0,0,,E doar ... dragostea e dragoste, doar că ia forme diferite.
 Dialogue: 0,1:18:47.76,1:18:50.83,Default,,0,0,0,,Așa că va trebui să găsiți cumva. Mereu sunt feluri de a iubi.
 Dialogue: 0,1:18:50.83,1:18:53.56,Default,,0,0,0,,Cel puțin, măcar sună oamenii. Vezi cum o duc.
 Dialogue: 0,1:18:53.56,1:18:57.56,Default,,0,0,0,,Am avut, de nicăieri, o mulțime de oameni sunându-mă,
 Dialogue: 0,1:18:57.56,1:18:59.10,Default,,0,0,0,,deși nu am vorbit de ceva vreme,
-Dialogue: 0,1:18:59.10,1:19:01.66,Default,,0,0,0,,și au fost apeluri minunate..și sunt scurte.
-Dialogue: 0,1:19:01.66,1:19:04.96,Default,,0,0,0,,Așa că..veți găsi un mod în care să iubiți.
-Dialogue: 0,1:19:04.96,1:19:09.90,Default,,0,0,0,,{\i1}Ironia e că cel mai bun mod de a iubi e de a sta departe de oameni.{\i0} În cazul ăsta..
-Dialogue: 0,1:19:09.90,1:19:11.40,Default,,0,0,0,,vă dau exemplul perfect.
-Dialogue: 0,1:19:11.40,1:19:14.80,Default,,0,0,0,,Noi ne simțim vinovați că nu îi ajutam. Suntem bunici..
+Dialogue: 0,1:18:59.10,1:19:01.66,Default,,0,0,0,,și au fost apeluri minunate ... și sunt scurte.
+Dialogue: 0,1:19:01.66,1:19:04.96,Default,,0,0,0,,Așa că ... veți găsi un mod în care să iubiți.
+Dialogue: 0,1:19:04.96,1:19:09.04,Default,,0,0,0,,(Justin) Ironia e că cel mai bun mod de a iubi e de a sta departe de oameni.
+Dialogue: 0,1:19:09.04,1:19:11.40,Default,,0,0,0,,(Tim) În cazul acesta vă dau exemplul perfect.
+Dialogue: 0,1:19:11.40,1:19:14.80,Default,,0,0,0,,Noi ne simțim vinovați că nu îi ajutam. Suntem bunici,
 Dialogue: 0,1:19:14.80,1:19:16.80,Default,,0,0,0,,și pe lângă asta, ne iubim copiii.
-Dialogue: 0,1:19:16.80,1:19:19.60,Default,,0,0,0,,Dar ei spun "Vă iubim spunându-vă {\i1}nu{\i0}".
+Dialogue: 0,1:19:16.80,1:19:19.60,Default,,0,0,0,,Dar ei spun "Vă iubim spunându-vă: {\i1}Nu!{\i0}"
 Dialogue: 0,1:19:19.60,1:19:22.36,Default,,0,0,0,,Dar vezi, toate acestea: plânsul, încrederea
 Dialogue: 0,1:19:22.36,1:19:25.90,Default,,0,0,0,,sunt feluri în care putem face asta indiferent de situație.
 Dialogue: 0,1:19:25.90,1:19:27.26,Default,,0,0,0,,
-Dialogue: 0,1:19:27.26,1:19:29.60,Default,,0,0,0,,Poate doar o ultimă întrebare..
+Dialogue: 0,1:19:27.26,1:19:29.60,Default,,0,0,0,,(Justin) Poate doar o ultimă întrebare..
 Dialogue: 0,1:19:29.60,1:19:31.93,Default,,0,0,0,,Cred că e destul de ușoară pentru tine.
-Dialogue: 0,1:19:31.93,1:19:33.93,Default,,0,0,0,,Oh, slavă Domnului!
-Dialogue: 0,1:19:33.93,1:19:37.90,Default,,0,0,0,,Dar cred că se potrivește cu ce spuneai mai devreme despre
-Dialogue: 0,1:19:37.90,1:19:42.00,Default,,0,0,0,,..aroganța noastră din Vest pe care o putem avea.
-Dialogue: 0,1:19:42.00,1:19:45.03,Default,,0,0,0,,"Colega mea de cameră spune că ar putea merge la Disneyland"
-Dialogue: 0,1:19:45.03,1:19:47.63,Default,,0,0,0,,"și să călătorească, fără să ia Coronavirusul"
-Dialogue: 0,1:19:47.63,1:19:50.30,Default,,0,0,0,,"pentru că dezinfectanții și Dumnezeu o protejează."
-Dialogue: 0,1:19:50.30,1:19:51.70,Default,,0,0,0,,"E adevărat?"
-Dialogue: 0,1:19:51.70,1:19:57.40,Default,,0,0,0,,"Ea mai spune că Diavolul vrea ca noi toți să ne distanțăm social."
-Dialogue: 0,1:19:57.40,1:20:00.10,Default,,0,0,0,,"Adevărat, da sau nu?"
-Dialogue: 0,1:20:00.10,1:20:03.20,Default,,0,0,0,,Mai mult {\i1}nu{\i0} decât {\i1}da{\i0}.
-Dialogue: 0,1:20:03.20,1:20:05.20,Default,,0,0,0,,Însă...
-Dialogue: 0,1:20:05.20,1:20:07.20,Default,,0,0,0,,Dacă ea..
-Dialogue: 0,1:20:07.20,1:20:12.36,Default,,0,0,0,,Uite..mereu e ceva adevăr în majoritatea greșelilor.
+Dialogue: 0,1:19:31.93,1:19:33.93,Default,,0,0,0,,(Tim) Oh, slavă Domnului!
+Dialogue: 0,1:19:33.93,1:19:37.90,Default,,0,0,0,,(Justin) Dar cred că se potrivește cu ce spuneai mai devreme despre
+Dialogue: 0,1:19:37.90,1:19:42.00,Default,,0,0,0,,... aroganța noastră din Vest pe care o putem avea.
+Dialogue: 0,1:19:42.00,1:19:45.03,Default,,0,0,0,,{\i1}"Colega mea de cameră spune că ar putea merge la Disneyland{\i0}
+Dialogue: 0,1:19:45.03,1:19:47.63,Default,,0,0,0,,{\i1}și să călătorească, fără să ia Coronavirusul{\i0}
+Dialogue: 0,1:19:47.63,1:19:50.30,Default,,0,0,0,,{\i1}pentru că dezinfectanții și Dumnezeu o protejează."{\i0}
+Dialogue: 0,1:19:50.30,1:19:51.70,Default,,0,0,0,,E cumva adevărat?
+Dialogue: 0,1:19:51.70,1:19:57.40,Default,,0,0,0,,{\i1}"Ea mai spune că Diavolul vrea ca noi toți să ne distanțăm social."{\i0}
+Dialogue: 0,1:19:57.40,1:20:00.10,Default,,0,0,0,,Adevărat, da sau nu?
+Dialogue: 0,1:20:00.10,1:20:03.20,Default,,0,0,0,,(Tim) Mai mult {\i1}Nu{\i0} decât {\i1}Da{\i0}.
+Dialogue: 0,1:20:03.20,1:20:05.20,Default,,0,0,0,,Însă ...
+Dialogue: 0,1:20:05.20,1:20:07.20,Default,,0,0,0,,Dacă ea ...
+Dialogue: 0,1:20:07.20,1:20:12.36,Default,,0,0,0,,Uite ... mereu e ceva adevăr în majoritatea greșelilor.
 Dialogue: 0,1:20:12.36,1:20:18.56,Default,,0,0,0,,În fiecare afirmație este adevăr și eroare și trebuie
 Dialogue: 0,1:20:18.56,1:20:22.73,Default,,0,0,0,,nu doar să zici că totul e o prostie, ci să încerci să găsești adevărul.
 Dialogue: 0,1:20:22.73,1:20:24.73,Default,,0,0,0,,Adevărul aici, bineînțeles, e că
 Dialogue: 0,1:20:24.73,1:20:26.73,Default,,0,0,0,,da, Diavolul vrea ca noi să fim panicoși.
 Dialogue: 0,1:20:26.73,1:20:30.50,Default,,0,0,0,,Vrea ca noi să fim foarte, foarte speriați, înspăimântați.
-Dialogue: 0,1:20:30.50,1:20:35.53,Default,,0,0,0,,Știi...cineva îmi spunea că era într-un supermarket
+Dialogue: 0,1:20:30.50,1:20:35.53,Default,,0,0,0,,Știi ... cineva îmi spunea că era într-un supermarket
 Dialogue: 0,1:20:35.53,1:20:38.53,Default,,0,0,0,,și cineva pe un alt raion a strănutat,
-Dialogue: 0,1:20:38.53,1:20:40.53,Default,,0,0,0,,iar oamenii au țipat la persoana aia:
-Dialogue: 0,1:20:40.53,1:20:41.80,Default,,0,0,0,,"Pleacă de aici!"
+Dialogue: 0,1:20:38.53,1:20:40.53,Default,,0,0,0,,iar oamenii au țipat la persoana aceea:
+Dialogue: 0,1:20:40.53,1:20:41.80,Default,,0,0,0,,{\i1}"Pleacă de aici!"{\i0}
 Dialogue: 0,1:20:41.80,1:20:43.80,Default,,0,0,0,,Asta e panică, îmi pare rău s-o spun.
 Dialogue: 0,1:20:43.80,1:20:45.50,Default,,0,0,0,,Asta e...
 Dialogue: 0,1:20:45.50,1:20:50.90,Default,,0,0,0,,Deci, da. E adevărat că Diavolul vrea ca noi să ne panicăm.
@@ -1604,32 +1603,32 @@ Dialogue: 0,1:20:56.66,1:20:59.06,Default,,0,0,0,,voi, cei tineri și sănătoș
 Dialogue: 0,1:20:59.06,1:21:03.33,Default,,0,0,0,,{\i1}dacă{\i0} îl prinzi, căci fie îl prinzi, fie nu, vă va afecta foarte puțin.
 Dialogue: 0,1:21:03.33,1:21:07.10,Default,,0,0,0,,Și totuși îl poți răspândi celor ce mor din cauza virusului.
 Dialogue: 0,1:21:07.10,1:21:08.83,Default,,0,0,0,,Iar numărul acestora e mare.
-Dialogue: 0,1:21:08.83,1:21:12.13,Default,,0,0,0,,Așa că...aș spune mai degrabă {\i1}nu{\i0}, decăt {\i1}da, e adevărat.
+Dialogue: 0,1:21:08.83,1:21:12.13,Default,,0,0,0,,Așa că ... aș spune mai degrabă {\i1}Nu{\i0}, decât {\i1}Da, e adevărat{\i0}.
 Dialogue: 0,1:21:12.13,1:21:15.66,Default,,0,0,0,,E ideea de a-ți iubi aproapele, în principiu.
-Dialogue: 0,1:21:15.66,1:21:21.90,Default,,0,0,0,,Dar...sunt multe versiuni cu privire la asta.
-Dialogue: 0,1:21:21.90,1:21:24.10,Default,,0,0,0,,Una dintre problemele ce cred că..
-Dialogue: 0,1:21:24.10,1:21:28.03,Default,,0,0,0,,iar ăsta ar fi un subiect ce sper că o să îl discutăm data viitoare,
+Dialogue: 0,1:21:15.66,1:21:21.90,Default,,0,0,0,,Dar ... sunt multe versiuni cu privire la asta.
+Dialogue: 0,1:21:21.90,1:21:24.10,Default,,0,0,0,,Una dintre problemele ce cred că ...
+Dialogue: 0,1:21:24.10,1:21:28.03,Default,,0,0,0,,iar acesta ar fi un subiect ce sper că îl vom discuta data viitoare,
 Dialogue: 0,1:21:28.03,1:21:34.26,Default,,0,0,0,,e faptul că toți suntem ținta, aș spune eu, a actorilor politici.
-Dialogue: 0,1:21:34.26,1:21:41.20,Default,,0,0,0,,Care în fiecare situație nouă se întreabă "Cum întoarcem asta în favoarea noastră?"
-Dialogue: 0,1:21:41.20,1:21:44.43,Default,,0,0,0,,Iar asta e ok. Uite, noi suntem pastori creștini.
-Dialogue: 0,1:21:44.43,1:21:49.50,Default,,0,0,0,,Și chiar și noi spunem "Cum folosim asta ca o oportunitate să îi iubim pe oameni?"
-Dialogue: 0,1:21:49.50,1:21:52.43,Default,,0,0,0,,"Cum folosim asta ca să îl înălțăm pe Isus?" Deci..
+Dialogue: 0,1:21:34.26,1:21:41.20,Default,,0,0,0,,Care în fiecare situație nouă se întreabă{\i1} "Cum întoarcem asta în favoarea noastră?{\i0}"
+Dialogue: 0,1:21:41.20,1:21:44.43,Default,,0,0,0,,Iar asta e OK. Uite, noi suntem pastori creștini.
+Dialogue: 0,1:21:44.43,1:21:49.50,Default,,0,0,0,,Și chiar și noi spunem {\i1}"Cum folosim asta ca o oportunitate să îi iubim pe oameni?{\i0}
+Dialogue: 0,1:21:49.50,1:21:52.43,Default,,0,0,0,,{\i1}Cum folosim asta ca să îl înălțăm pe Isus?"{\i0} Deci ...
 Dialogue: 0,1:21:52.43,1:21:53.56,Default,,0,0,0,,Asta e în regulă.
-Dialogue: 0,1:21:53.56,1:21:58.26,Default,,0,0,0,,Însă cred că sunt..agenți politici care încearcă să spună
-Dialogue: 0,1:21:58.26,1:22:03.03,Default,,0,0,0,,"Cum facem ca virusul să susțină tot ce am spus până acum?"
+Dialogue: 0,1:21:53.56,1:21:58.26,Default,,0,0,0,,Însă cred că sunt ... agenți politici care încearcă să spună
+Dialogue: 0,1:21:58.26,1:22:03.03,Default,,0,0,0,,{\i1}"Cum facem ca virusul să susțină tot ce am spus până acum?"{\i0}
 Dialogue: 0,1:22:03.03,1:22:06.43,Default,,0,0,0,,Și este multă lipsă de încredere în media.
 Dialogue: 0,1:22:06.43,1:22:08.06,Default,,0,0,0,,Deci cred, de exemplu,
 Dialogue: 0,1:22:08.06,1:22:11.36,Default,,0,0,0,,că sunt unii reprezentanți politici care
-Dialogue: 0,1:22:11.36,1:22:15.23,Default,,0,0,0,,folosesc asta ca să spună "Vedeți, nu putem avea încredere în mass-media."
+Dialogue: 0,1:22:11.36,1:22:15.23,Default,,0,0,0,,folosesc aceasta ca să spună {\i1}"Vedeți, nu putem avea încredere în mass-media."{\i0}
 Dialogue: 0,1:22:15.23,1:22:19.00,Default,,0,0,0,,Sunt alți reprezentanți politici care spun că trebuie să
 Dialogue: 0,1:22:19.00,1:22:23.50,Default,,0,0,0,,creștem starea națiunii și să ne îndreptăm spre socialism.
-Dialogue: 0,1:22:23.50,1:22:28.40,Default,,0,0,0,,Deci ei folosesc asta și spun "Asta e șansa noastră să ajungem la socialism."
+Dialogue: 0,1:22:23.50,1:22:28.40,Default,,0,0,0,,Deci ei folosesc asta și spun "Asta e șansa noastră să ajungem la socialism!"
 Dialogue: 0,1:22:28.40,1:22:31.00,Default,,0,0,0,,Mă deranjează când văd
 Dialogue: 0,1:22:31.00,1:22:35.76,Default,,0,0,0,,că aceleași grupări politice, liberale sau conservatoare,
 Dialogue: 0,1:22:35.76,1:22:39.70,Default,,0,0,0,,încearcă să folosească virusul ca să își agite adepții și mai mult.
-Dialogue: 0,1:22:39.70,1:22:42.26,Default,,0,0,0,,Și cred că e posibil ca asta i se întâmplă ei.
+Dialogue: 0,1:22:39.70,1:22:42.26,Default,,0,0,0,,Și cred că e posibil ca asta să i se întâmple ei.
 Dialogue: 0,1:22:42.26,1:22:44.26,Default,,0,0,0,,Deci fii draguță cu ea.
-Dialogue: 0,1:22:44.26,1:22:45.83,Default,,0,0,0,,Ultima întrebare.
+Dialogue: 0,1:22:44.26,1:22:45.83,Default,,0,0,0,,(Justin) Ultima întrebare.
 Dialogue: 0,1:22:45.83,1:22:49.56,Default,,0,0,0,,Doar pe scurt, pentru că rămânem fără timp.
 Dialogue: 0,1:22:49.56,1:22:52.26,Default,,0,0,0,,Aici, știm, adresăm întrebări creștinismului,
 Dialogue: 0,1:22:52.26,1:22:57.00,Default,,0,0,0,,facem loc pentru cei care poate se gândesc să devină creștini
@@ -1637,67 +1636,67 @@ Dialogue: 0,1:22:57.00,1:22:58.93,Default,,0,0,0,,sau se luptă cu creștinismul
 Dialogue: 0,1:22:58.93,1:23:04.20,Default,,0,0,0,,Ce rol are creștinul acum, în toiul Coronavirusului?
 Dialogue: 0,1:23:04.20,1:23:09.20,Default,,0,0,0,,Care ar fi unele lucruri pe care ai vrea să le spui despre rolul bisericii
 Dialogue: 0,1:23:09.20,1:23:11.20,Default,,0,0,0,,în această perioadă?
-Dialogue: 0,1:23:11.20,1:23:16.40,Default,,0,0,0,,Sunt de părere că moderația e foarte importantă,
+Dialogue: 0,1:23:11.20,1:23:16.40,Default,,0,0,0,,(Tim) Sunt de părere că moderația e foarte importantă,
 Dialogue: 0,1:23:16.40,1:23:20.86,Default,,0,0,0,,pentru că sunt unele voci panicate și unele care spun că e totul o farsă.
 Dialogue: 0,1:23:20.86,1:23:26.93,Default,,0,0,0,,Moderația e foarte importantă, pentru că în realitate, evident, virusul nu e o minciună.
 Dialogue: 0,1:23:26.93,1:23:29.90,Default,,0,0,0,,E de asemenea adevărat că pentru majoritatea
 Dialogue: 0,1:23:29.90,1:23:34.30,Default,,0,0,0,,tinerilor sănătoși care probabil nu vor fi răniți tare de virus,
 Dialogue: 0,1:23:34.30,1:23:38.90,Default,,0,0,0,,pentru ca ei să renunțe la multe privilegii ca
 Dialogue: 0,1:23:38.90,1:23:40.90,Default,,0,0,0,,să salveze populația mai vulnerabilă
-Dialogue: 0,1:23:40.90,1:23:42.70,Default,,0,0,0,,..e foarte creștinesc, nu?
-Dialogue: 0,1:23:42.70,1:23:45.46,Default,,0,0,0,,Mie sigur îmi sună a {\i1}bunul samaritean.
+Dialogue: 0,1:23:40.90,1:23:42.70,Default,,0,0,0,,... e foarte creștinesc, nu?
+Dialogue: 0,1:23:42.70,1:23:45.46,Default,,0,0,0,,Mie sigur îmi pare că ar fi {\i0}bunul samaritean{\i1}.
 Dialogue: 0,1:23:45.46,1:23:47.13,Default,,0,0,0,,Samariteanul cel bun
-Dialogue: 0,1:23:47.13,1:23:49.13,Default,,0,0,0,,el e cel care..
+Dialogue: 0,1:23:47.13,1:23:49.13,Default,,0,0,0,,el e cel care ...
 Dialogue: 0,1:23:49.13,1:23:51.90,Default,,0,0,0,,Ne aducem aminte: omul murea pe stradă,
-Dialogue: 0,1:23:51.90,1:23:56.26,Default,,0,0,0,,sunt hoți prin jur, un preot și un levit trec pe lângă el pentru că e riscant
-Dialogue: 0,1:23:56.26,1:23:58.80,Default,,0,0,0,,și e un om care se oprește, samariteanul cel bun.
+Dialogue: 0,1:23:51.90,1:23:56.26,Default,,0,0,0,,sunt hoți prin jur, un preot și un levit îl evită pentru că e riscant,
+Dialogue: 0,1:23:56.26,1:23:58.80,Default,,0,0,0,,și e un om care se oprește: samariteanul cel bun.
 Dialogue: 0,1:23:58.80,1:24:00.80,Default,,0,0,0,,Mie mi se pare că
 Dialogue: 0,1:24:00.80,1:24:04.80,Default,,0,0,0,,ceea ce facem noi, atunci când vorbim despre virus
 Dialogue: 0,1:24:04.80,1:24:06.86,Default,,0,0,0,,e că atunci când cei tineri și sănătoși,
-Dialogue: 0,1:24:06.86,1:24:08.86,Default,,0,0,0,,care probabil nu sunt în pericol,
+Dialogue: 0,1:24:06.86,1:24:08.86,Default,,0,0,0,,- care probabil nu sunt în pericol -
 Dialogue: 0,1:24:08.86,1:24:13.46,Default,,0,0,0,,se retrag și chiar se restricționează în multe feluri
 Dialogue: 0,1:24:13.46,1:24:15.53,Default,,0,0,0,,se înfrânează în unele feluri {\i1}pentru{\i0}
-Dialogue: 0,1:24:15.53,1:24:19.23,Default,,0,0,0,,cei mai vulnerabili...este important.
+Dialogue: 0,1:24:15.53,1:24:19.23,Default,,0,0,0,,cei mai vulnerabili ... este important.
 Dialogue: 0,1:24:19.23,1:24:22.83,Default,,0,0,0,,Creștini pot să, de fapt, nu doar creștinii pot să o facă,
 Dialogue: 0,1:24:22.83,1:24:24.93,Default,,0,0,0,,dar creștinii se pot chema să facă asta
-Dialogue: 0,1:24:24.93,1:24:26.93,Default,,0,0,0,,și chiar să spună "Uite, asta chiar.. "
-Dialogue: 0,1:24:26.93,1:24:29.73,Default,,0,0,0,,"e ceva în asemănare cu samariteanul și cu Hristos."
+Dialogue: 0,1:24:24.93,1:24:26.93,Default,,0,0,0,,și chiar să spună {\i1}"Uite, asta chiar ... {\i0}
+Dialogue: 0,1:24:26.93,1:24:29.73,Default,,0,0,0,,{\i1}e ceva în asemănare cu samariteanul și cu Hristos."{\i0}
 Dialogue: 0,1:24:29.73,1:24:32.30,Default,,0,0,0,,Eu mai cred, deși rămâne de văzut,
 Dialogue: 0,1:24:32.30,1:24:36.63,Default,,0,0,0,,dar cred că lumea caută oameni care
-Dialogue: 0,1:24:36.63,1:24:39.16,Default,,0,0,0,,sunt dispuși să spună "Ai încredere, dar plângi."
-Dialogue: 0,1:24:39.16,1:24:41.70,Default,,0,0,0,,pentru că este un legalism care spune
-Dialogue: 0,1:24:41.70,1:24:44.46,Default,,0,0,0,,"Dacă te încrezi în Dumnezeu nu vei fi supărat deloc"
-Dialogue: 0,1:24:44.46,1:24:47.26,Default,,0,0,0,,"nu vei fi doborât..nu vei fi supărat."
+Dialogue: 0,1:24:36.63,1:24:39.16,Default,,0,0,0,,sunt dispuși să spună {\i1}"Ai încredere, dar plângi."{\i0}
+Dialogue: 0,1:24:39.16,1:24:41.70,Default,,0,0,0,,pentru că este un legalism care spune:
+Dialogue: 0,1:24:41.70,1:24:44.46,Default,,0,0,0,,{\i1}"Dacă te încrezi în Dumnezeu nu vei fi supărat deloc,{\i0}
+Dialogue: 0,1:24:44.46,1:24:47.26,Default,,0,0,0,,{\i1}nu vei fi doborât ... nu vei fi supărat."{\i0}
 Dialogue: 0,1:24:47.26,1:24:49.30,Default,,0,0,0,,Dar sunt alții care doar se plâng
 Dialogue: 0,1:24:49.30,1:24:51.30,Default,,0,0,0,,și cred că nu este deloc speranță.
-Dialogue: 0,1:24:51.30,1:24:54.03,Default,,0,0,0,,Dar ideea e că...există un dumnezeu aici.
+Dialogue: 0,1:24:51.30,1:24:54.03,Default,,0,0,0,,Dar ideea e că ... există un dumnezeu aici.
 Dialogue: 0,1:24:54.03,1:24:56.03,Default,,0,0,0,,Există un plan.
 Dialogue: 0,1:24:56.03,1:24:59.30,Default,,0,0,0,,Iar în același timp, e ok să plângi și e ok să fii foarte supărat.
 Dialogue: 0,1:24:59.30,1:25:04.83,Default,,0,0,0,,Creștinii au resursele pentru asta și cred că e ceva de care lumea are nevoie.
-Dialogue: 0,1:25:04.83,1:25:09.13,Default,,0,0,0,,Și..nu sunt sigur că multe perspective asupra lumii au resursele pentru asta.
+Dialogue: 0,1:25:04.83,1:25:09.13,Default,,0,0,0,,Și ... nu cred că multe perspective din lume au resursele pentru asta.
 Dialogue: 0,1:25:09.13,1:25:10.26,Default,,0,0,0,,Ne rezumăm la atât.
-Dialogue: 0,1:25:10.26,1:25:11.73,Default,,0,0,0,,Mulțumesc pentru asta.
+Dialogue: 0,1:25:10.26,1:25:11.73,Default,,0,0,0,,(Justin) Mulțumesc pentru asta.
 Dialogue: 0,1:25:11.73,1:25:14.60,Default,,0,0,0,,Atât am avut timp pentru întrebări.
 Dialogue: 0,1:25:14.60,1:25:16.70,Default,,0,0,0,,Mulțumesc foarte mult că le-ați trimis.
 Dialogue: 0,1:25:16.70,1:25:19.33,Default,,0,0,0,,Suntem recunoscători pentru participarea voastră.
-Dialogue: 0,1:25:19.33,1:25:21.33,Default,,0,0,0,,Câteva mențiuni înainte să încheiem..
+Dialogue: 0,1:25:19.33,1:25:21.33,Default,,0,0,0,,Câteva mențiuni înainte să încheiem ...
 Dialogue: 0,1:25:21.33,1:25:25.66,Default,,0,0,0,,Mai întâi, pentru cei care sunteți de aici, din New York, alături de noi
 Dialogue: 0,1:25:25.66,1:25:28.40,Default,,0,0,0,,sperăm că veți putea fi cu noi la următoarea sesiune
-Dialogue: 0,1:25:28.40,1:25:31.23,Default,,0,0,0,,care va fi joi, pe 16 aprilie.
-Dialogue: 0,1:25:31.23,1:25:34.16,Default,,0,0,0,,Tim, poate ne spui un pic despre ce va avea loc la sesiunea
-Dialogue: 0,1:25:34.16,1:25:36.16,Default,,0,0,0,,{\i1}Putem și fără biserică?
-Dialogue: 0,1:25:36.16,1:25:39.00,Default,,0,0,0,,Da, apropo, chiar e interesant "Putem și fără biserică?".
+Dialogue: 0,1:25:28.40,1:25:31.23,Default,,0,0,0,,care va fi joi, pe 16 Aprilie (2020).
+Dialogue: 0,1:25:31.23,1:25:34.16,Default,,0,0,0,,Tim, poate ne spui un pic despre ce va fi data viitoare,
+Dialogue: 0,1:25:34.16,1:25:36.16,Default,,0,0,0,,{\i1}Putem și fără biserică?{\i0}
+Dialogue: 0,1:25:36.16,1:25:39.00,Default,,0,0,0,,(Tim) Da, apropo, chiar e interesant {\i1}"Putem și fără biserică?"{\i0}
 Dialogue: 0,1:25:39.00,1:25:42.50,Default,,0,0,0,,În realitate nu știm dacă ne vom putea aduna la biserică sau nu.
 Dialogue: 0,1:25:42.50,1:25:44.50,Default,,0,0,0,,E posibil să transmitem live din nou.
-Dialogue: 0,1:25:44.50,1:25:49.90,Default,,0,0,0,,Însă...întrebarea care apare mereu când vorbesc cu oameni,
+Dialogue: 0,1:25:44.50,1:25:49.90,Default,,0,0,0,,Însă ... întrebarea care apare mereu când vorbesc cu oamenii,
 Dialogue: 0,1:25:49.90,1:25:52.46,Default,,0,0,0,,cum știți și voi, e că mulți oameni spun
-Dialogue: 0,1:25:52.46,1:25:56.00,Default,,0,0,0,,"Nu prea mă deranjează Isus, dar biserica? Nici nu discut."
+Dialogue: 0,1:25:52.46,1:25:56.00,Default,,0,0,0,,{\i1}"Nu prea mă deranjează Isus, dar biserica? Nici nu discut!"{\i0}
 Dialogue: 0,1:25:56.00,1:25:58.00,Default,,0,0,0,,Iar asta ridică două întrebări.
-Dialogue: 0,1:25:58.00,1:26:01.64,Default,,0,0,0,,"Cum poți crede până și în plauzibilitatea credinței creștine,
-Dialogue: 0,1:26:01.64,1:26:04.93,Default,,0,0,0,,"având în vedere greșelile bisericii de-a lungul anilor?"
-Dialogue: 0,1:26:04.93,1:26:10.26,Default,,0,0,0,,Iar a doua: "E posibil să fii creștin și să nu ai treabă cu biserica?"
-Dialogue: 0,1:26:10.26,1:26:13.90,Default,,0,0,0,,Deci ne vom uita la asta următoarea dată.
-Dialogue: 0,1:26:13.90,1:26:15.30,Default,,0,0,0,,Ok, mulțumesc pentru asta.
+Dialogue: 0,1:25:58.00,1:26:01.64,Default,,0,0,0,,{\i1}"Cum poți crede până și în plauzibilitatea credinței creștine,{\i0}
+Dialogue: 0,1:26:01.64,1:26:04.93,Default,,0,0,0,,{\i1}având în vedere greșelile bisericii de-a lungul anilor?"{\i0}
+Dialogue: 0,1:26:04.93,1:26:10.26,Default,,0,0,0,,Iar a doua: {\i1}"E posibil să fii creștin și să nu ai treabă cu biserica?"{\i0}
+Dialogue: 0,1:26:10.26,1:26:13.90,Default,,0,0,0,,Deci ne vom uita la asta data următoare.
+Dialogue: 0,1:26:13.90,1:26:15.30,Default,,0,0,0,,(Justin) Ok, mulțumesc!
 Dialogue: 0,1:26:15.30,1:26:18.10,Default,,0,0,0,,Dacă vă interesează subiectul, puteți să vă înscrieți
 Dialogue: 0,1:26:18.10,1:26:22.40,Default,,0,0,0,,pe www.redeemer.com/qc2020.
 Dialogue: 0,1:26:22.40,1:26:26.70,Default,,0,0,0,,Puteți să vă înregistrați, mai ales ca să fiți la curent cu,
